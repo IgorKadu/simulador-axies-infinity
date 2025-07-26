@@ -1,8 +1,0 @@
-## Charms Dusk
-
-### Charm Types:
-- **Shadow Charm:** Increases damage dealt by 10%.
-- **Night Charm:** Grants +10 Shield to the user.
-
-### Usage:
-- Charms can be equipped to enhance Axie abilities.
