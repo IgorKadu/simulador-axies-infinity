@@ -1,0 +1,11 @@
+{
+    "Aquatic": {"HP": 1, "Speed": 3, "Skill": 0, "Morale": 0},
+    "Beast": {"HP": 0, "Speed": 1, "Skill": 0, "Morale": 3},
+    "Bird": {"HP": 0, "Speed": 3, "Skill": 0, "Morale": 1},
+    "Bug": {"HP": 1, "Speed": 0, "Skill": 0, "Morale": 3},
+    "Plant": {"HP": 3, "Speed": 0, "Skill": 0, "Morale": 1},
+    "Reptile": {"HP": 3, "Speed": 1, "Skill": 0, "Morale": 0},
+    "Dawn": {"HP": 0, "Speed": 0, "Skill": 0, "Morale": 0},
+    "Dusk": {"HP": 0, "Speed": 0, "Skill": 0, "Morale": 0},
+    "Mech": {"HP": 0, "Speed": 0, "Skill": 0, "Morale": 0}
+}
