@@ -1,0 +1,40 @@
+## Runes Beast
+
+### Rune Types:
+- **Fury Rune:** Increases damage dealt by 15%.
+- **Stamina Rune:** Increases max HP by 10%.
+- **Critical Rune:** Boosts critical hit chance by 5%.
+
+### Usage:
+- Runes can be equipped to enhance Axie abilities.
+
+### Rune Rare:
+
+#### Dominant Predator:
+On targets with Bleed, Attacks deal +10% DMG then heal 12 HP. On targets without Bleed, Single Attacks apply 3 Bleed.
+
+#### Glorious Mane:
+Attacks no longer grant Fragment. Whenever this Axie attacks, its Attack Cards gain 8% Base ATK per Energy Spent.
+
+#### Way of Beast:
+When the battle starts, +2 Rage. Attacks deal +15% DMG.
+
+### Rune Epic:
+
+#### Glorious Mane:
+Solo. Whenever this Axie attacks, its Attack Cards gain 8% Base ATK per Energy Spent.
+
+#### Pangolin Scale:
+Solo. Take -20% unblocked DMG from Attacks.
+
+#### Rockless Hunter:
+Solo. Attacks deal +20% DMG. Per hit, attacks apply 3 Bleed to targets and to self.
+
+#### Brutal Claw:
+Solo. On targets with Bleed, Single and AoE Attacks create Bloodstorm then double the Bleed stacks on targets with < 10 Bleed.
+
+#### Counter Stance:
+Solo. Counter Attack. Deal +5% DMG per this Axie's Attack Cards in your Deck (Cap at 25%).
+
+#### Endless Anger:
+Solo. When your turn starts, +2 Rage on this Axie now grants +2 DMG per stack. Deal +10% DMG in Fury Form.

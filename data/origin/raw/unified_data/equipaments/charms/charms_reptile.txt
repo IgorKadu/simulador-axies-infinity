@@ -1,0 +1,58 @@
+## Charms Reptile
+
+### Charm Types:
+- **Defense Charm:** Grants +20 Shield to the user.
+- **Resilience Charm:** Increases max HP by 10%.
+
+### Usage:
+- Charms can be equipped to enhance Axie abilities.
+
+### Charms Rare:
+
+#### Reptile's Charm of Endurance I:
+(Alter Shields)
+Shield +7.
+
+#### Reptile's Charm of Vitality I:
+(Alter Any)
+Max HP +12.
+
+#### Viper's Venom:
+(Alter Attacks)
+Apply 2 Poison. +1 Poison on targets with < 15 Poison. Count as Debuff.
+
+#### Poison Vial:
+(Alter Any)
+Apply 1 Poison to a random Enemy Axie. Apply 1 more Poison per Energy Spent.
+
+### Charms Epic:
+
+#### Reptile's Charm of Endurance II:
+(Alter Shields)
+Shield +13. Max HP -6.
+
+#### Reptile's Charm of Vitality II:
+(Alter Any)
+Max HP +21. -10% Stats.
+
+#### Gecko Mask:
+(Alter Any)
++2 Spike. If this Axie doesn't have Taunt, apply 2 Taunt to self.
+
+#### Sticky Lizard:
+(Alter Any)
+Retain. If retained, heal 5% Max HP when played.
+
+### Charms Mystic:
+
+#### Awaken Stamp (Reptile):
+(Alter Any Card)
+Card Level +1 (cap at Stage 2). +1 Spike to allied Axies.
+
+#### Gloves of Infection:
+(Alter Debuffs)
+Apply 4 Poison per Energy cost to 1 random Enemy Axie. -10% Stats.
+
+#### Reptile's Energy Drink M:
+(Alter Any)
+Lose (2.5% of Max HP) then gain that amount of Bloodspikes.

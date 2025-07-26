@@ -1,0 +1,61 @@
+## Runes Neutral
+
+### Rune Types:
+- **Balance Rune:** Increases all stats by 5%.
+- **Versatile Rune:** Grants +10 Shield to the user.
+
+### Usage:
+- Runes can be equipped to enhance Axie abilities.
+
+## Runes Common:
+
+### Leftover Potion:
+When your turn ends, heal 3% of Max HP.
+
+### Mini Legion:
+When your turn starts, if this Axie has other allies, deal 6 DMG to the closest enemy.
+
+### Thick Shield:
+Receive +10% Shield from Cards.
+
+### Tough Strike:
+Receive +10% Shield from Cards.
+
+
+## Runes Rare:
+
+### Philosopher's Stone:
+When the battle starts, this Axie's Cards gain +10% Stats, bonus +10% for each of your Burst levels.
+
+### Pure Power:
+Other allied Axie's Attacks gain +10% Value.
+
+### Pure Skill:
+Other allied Axie's Heals & Shields gain +10% Value.
+
+
+## Runes Epic:
+
+### Energy Shard:
+Solo. When the battle starts, gain 1 Fragment por unique Axie Class in your team. Creating a Burst  deals 30 DMG to all enemies and heals allied Axies for 30 HP.
+
+
+### Last Wish:
+Solo. . Max HP +40. On death, Shield other allies and deal DMG to enemies for 10% of Max HP.
+
+
+### Pure Luck:
+Solo. When your turn starts, if Hand and Draw Pile have > 1 Cursed Card, draw 1 Card; otherwise, allied Axie's Cards gain +10% Value until your turn ends.
+
+
+## Runes Mystic:
+
+### Pure Instinct:
+Solo. Other allied Axie's Cards gain +5% Value. +5% more per unique Axie Class in your team.
+
+### Shady Exchange:
+Solo. Until Round 2, when your turn ends, lose 2 framnents. After that, when your starts, gain 3 fragments. Whenever you gain fragments, heal allies for 4 HP and deal 3 DMG to all enemies.
+
+
+### Vengeful Soul:
+Solo. Max HP +12%. On death, gain Vengeance equal to 15% of max HP and Cards in you Deck gain +15 Stats.

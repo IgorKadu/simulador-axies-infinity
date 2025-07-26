@@ -1,0 +1,74 @@
+## Cartas de Custo 0:
+
+### Para o Olho:
+- **Gecko:** Attack self. Other allied Axies are healed for 15 HP and Cleanse: 3.
+- **Scar:** Initial: pick a Reptile Card from Discard Pile; otherwise, from Draw Pile. Put it on top of Draw Pile. Banish.
+
+### Para a Boca:
+
+### Para o Orelha:
+
+### Para o Chifre:
+
+### Para a Costas:
+
+### Para a Cauda:
+
+
+## Cartas de Custo 1:
+
+### Para o Olho:
+- **Topaz:** +12 DMG for each of your Banished Cards. (Cap: 120 bonus DMG).
+- **Tricky:** Target any ally. Initial: swap this Card with 1 of your Banished Cards.
+
+### Para a Boca:
+- **Kotaro:** Randomly deal 2 hits. Gain 1 Fragment per unique enemy hit.
+- **Razor Bite:** Ambush. Heal 50% of unblocked DMG as HP. On targets without Bleed, apply 6 Bleed.
+- **Tiny Turtle:** Target any Enemy. Initial: apply 3 Sleep to the target and to self.
+- **Toothless Bite:** Ambush. Apply 3 Death Mark.
+
+### Para o Orelha:
+- **Curved Spine:** Target any ally. +1 Bulwark. Next time the target is attacked, apply 6 Bleed to the attacker.
+- **Friezard:** Target any ally. Apply 4 Doubt to enemies.
+- **Pogona:** Apply 2 Taunt to self. +2 Spike.
+- **Sidebar:** Target any Enemy. Apply 4 Poison. Consume 1 Spike to deal Pure DMG and +4 Poison.
+- **Small Frill:** Target any ally. Apply 3 Poison to enemies.
+- **Swirl:** Target any ally. +1 Bulwark. Heal HP equal to Shield Stat. Shuffle 1 Confused into Enemy Draw Pile.
+
+### Para o Chifre:
+- **Bumpy:** Innate. Target any ally. Whenever you play a card, this Axie gains 8 Shield. Can't stack. Exile.
+- **Cerastes:** Target any ally. +1 Bulwark. Next turn, apply 1 Guard. When Guard triggers, apply 1 Poison & 1 Bleed to the attacker per 15 Shield lost.
+- **Incisor:** Target any enemy or ally. +45 DMG on enemies; +3 Spike on allies.
+- **Scaly Spear:** +1 Spike. +1 Spike per other Spear card in your Deck to allied Spear card owners.
+- **Scaly Spoon:** Target any ally. +1 Bulwark. Next turn, if the target's Shield is broken, Dispel the attacker 6 times.
+- **Unko:** Target any ally. +1 Bulwark. Deal DMG equal to Shield Stat to the closest enemy. Add 1 Goo to Enemy Discard Pile.
+
+### Para a Costas:
+- **Bone Sail:** Target any ally. +1 Bulwark. Next turn, if the target would receive a Debuff, that Debuff is applied to the source instead.
+- **Croc:** Target any ally. +1 Bulwark. Next time an enemy uses a Skill or Secret Card, apply 6 Bleed.
+- **Green Thorns:** Target any ally. Apply 2 Poison to a random enemy 5 times.
+- **Indian Star:** Target any ally. Limit 1: Next turn, the target Reflects 50% of Shield lost when hit. This Card gets +15% Reflect when played. (Cap: 100% Reflect). +1 Bulwark.
+- **Red Ear:** Shield allies. Next time the Enemy uses Keep, gain 2 Fragment. If not Initial, -1 Bulwark.
+- **Tri Spikes:** Randomly deal 3 hits. +1 DMG per Spike or Bloodspike on this Axie.
+
+### Para a Cauda:
+- **Grass Snake:** Target any Enemy. Limit 1: Increase Poison on the target by 50%.
+- **Iguana:** Target any enemy. Apply 3 Doubt and 1 Grievous Wound.
+- **Snake Jar:** Target any allied Axie. Apply Snake Jar. Initial: +1 Bulwark; otherwise, Lose HP = 50% of Base Shield.
+- **Tiny Dino:** Retain Retain: When your turn ends, this card is not discarded.. This Card gets +20 ATK per turn Retained. (Cap: +60 ATK).
+- **Wall Gecko:** Attack self. Apply 2 Taunt to self. On your next turn, this Axie heals 50% of HP lost in the last turn.
+
+## Cartas de Custo 2:
+
+### Para o Olho:
+
+### Para a Boca:
+
+### Para o Orelha:
+
+### Para o Chifre:
+
+### Para a Costas:
+
+### Para a Cauda:
+- **Gila:** Attack all enemies. +3 DMG per Poison stack on the targets (cap: +75 DMG)

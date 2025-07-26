@@ -1,0 +1,18 @@
+## Cartas de Custo 0:
+
+## Cartas de Custo 1:
+
+- **Anemone:** 80 DMG. Ambush. When played, -10 ATK. Whenever an enemy Axie dies, +20 ATK.
+  - Level 2: 90 DMG.
+- **Babylonia:** 60 DMG. Ambush. Apply 3 Vulnerable.
+  - Level 2: 70 DMG. Ambush. Apply 3 Vulnerable and 1 Death Mark.
+- **Clamshell:** 65 DMG. Gain 1 Fragment if this attack causes HP loss.
+  - Level 2: 75 DMG. Gain 1 Fragment & (40% Card's ATK) as Shield if this attack causes HP loss.
+- **Oranda:** 55 DMG. Target any enemy. Dispel: 5.
+  - Level 2: 65 DMG. Target any enemy. Deal +5 DMG per Buff counter on the target (cap: 25 DMG) then Dispel: 5.
+- **Shoal Star:** Retain. Target any enemy. On targets with <= 90 HP & 0 Shield, deal 90 DMG. If they don't die, deal 30 DMG to self.
+  - Level 2: Retain. Target any enemy. On targets with <= 105 HP & 0 Shield, deal 105 DMG. If they don't die, deal 30 DMG to self.
+- **Teal Shell:** 30 Shield. Target any ally. +15 Shield per other Card played this turn (cap: 90). +1 Bulwark per 45 Shield granted.
+  - Level 2: 40 Shield. Target any ally. +20 Shield per other Card played this turn (cap: 100). +1 Bulwark per 40 Shield granted.
+
+## Cartas de Custo 2:

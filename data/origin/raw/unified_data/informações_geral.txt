@@ -1,0 +1,106 @@
+Classes ou Raças atuais do Axie Infinity:
+
+Aquatic - Aquatico
+Beast - Feral
+Bird - Ave
+Bug - Inseto
+Dawn - Aurora
+Dusk - Crepusculo
+Mech - Mecanico
+Plant - Vegetal
+Reptile - Reptil
+
+
+Características dos Axies:
+
+Cada Axie possui 6 partes do corpo:
+
+- Horn: Chifre
+- Mouth: Boca
+- Back: Costas
+- Tail: Cauda
+- Eyes: Olho
+- Ears: Orelha
+
+Cada parte do corpo corresponde a uma ou mais skills que possuem custos de utilização, ao qual se consome mana, que é uma mecanica
+do jogo.
+
+Na rodada inicial, o player que iniciar começa com 1 de mana, o player 2 na rodada seguinte começa com 2 de mana.
+
+As skills quando utilizada geram um fragmento de mana.
+
+Ao juntar 12 fragmentos de mana, o player ganha 1 de mana.
+
+Depois de 16 fragmentos de mana, o player ganha 1 de mana novamente.
+
+O ideal é alcançar o quanto antes pelo menos 12 fragmentos de mana. Assim pode ser usado 4 manas por turno.
+
+
+Cada axie possui tem suas especialidades que estão diretamente ligadas as Runas e Charms.
+
+As Runas só podem ser usadas uma por Axie, e dão Habilidades extras para os Axies.
+
+Os Charms podem ser usadas quantas forem possiveis dentro de uma distribuição de pontos que tem 15 pontos.
+
+cada parte do corpo tem 1 slot de Charm para ser usado, e existem charms com custo de pontos diferentes.
+
+De acordo com a classe do Axie, ele só pode usar Runas que sejam para essa classe, ou as Runas normais que podem ser usadas em qualquer
+classe.
+
+Assim tambem os Charms que podem ser usados dependem da classe do Axie, considerando que os Charms normais podem ser usados em qualquer
+classe.
+
+Os Axies independente de sua classe, podem ter partes do porco que são de outras classes.
+
+Ou seja, uma Aquatic pode possuir por exemplo uma parte do corpo de um Bird, ou de um Bug e etc, de acordo com cada parte do corpo.
+
+Pode ser um Chifre de uma Aquatic, uma Boca de um Beast, etc.
+
+As partes do corpo das classes podem ser usadas em conjunto com as partes de outras classes, assim como os Charms.
+
+Se um Axie possui uma parte do corpo de uma classe, ele pode usar uma skill daquela classe, assim como usar uma skill de outra classe.
+
+E as partes de outra classe só podem receber charms do tipo de outra classe, ou os charms normais que podem ser usados em qualquer
+classe.
+
+Exemplo:
+
+Boca de Aquatic: recebe charm de Aquatic ou charm normal, e ganha uma skill de Aquatic.
+
+Olho de Reptile: recebe charm de Reptile ou charm normal, e ganha uma skill de Reptile.
+
+Chifre de Bird: recebe charm de Bird ou charm normal, e ganha uma skill de Bird.
+
+Orelha de Beast: recebe charm de Beast ou charm normal, e ganha uma skill de Beast.
+
+Cauda de Mech: recebe charm de Mech ou charm normal, e ganha uma skill de Mech.
+
+Costas de Plant: recebe charm de Plant ou charm normal, e ganha uma skill de Plant.
+
+As skills possuiem 3 tipos de custo:
+
+- 0: Custo de mana
+- 1: Custo de mana 
+- 2: Custo de mana
+
+E cada skill que é uma carta, quando usada gera o fragmento de mana de acordo com o custo dela.
+
+As skills podem ser usadas quantas vezes forem possiveis dentro de uma distribuição de manas disponíveis.
+
+Quando um axie perde seu total de vida e morre, são geradas cartas chamadas de revenge, essas cartas entram na rotação do deck e se mistura
+com o deck do axie que ainda estiver vivo.
+
+Existem cartas de maldição, chamadas curses, que surgem de acordo com Habilidades que algumas skills de um axie da classe que o axie
+possue. Quando essa skill for usada, uma maldição pode surgir no deck do axie, sejá para o deck do adiversario, ou sejá para o proprio deck
+do usuario, no caso das maldicoes, elas geralmente vão para o deck ou mão do adiversario, e a grande maioria possuem um custo de mana 0 ou 1.
+
+Existem cartas de ferramentas, chamadas tools, que surgem de acordo com Habilidades que algumas skills de um axie da classe que o axie
+possue. Quando essa skill for usada, uma ferramenta pode surgir no deck do axie, sejá para o deck do adiversario, ou sejá para o proprio deck
+do usuario, mas no caso das tools, elas geralmente vem para a mão do usuario, e a grande maioria possuem um custo de mana 0 ou 2.
+
+Existem diversos efeitos de status, chamados status effects, que surgem de acordo com Habilidades que algumas skills de um axie da classe que o axie
+possue. Quando essa skill for usada, um status effect pode surgir diretamente no axie, sejá para o deck do adiversario, ou sejá para o proprio deck
+do usuario, mas no caso dos status effects, eles possuem tanto vantagens ou desvantagens, que devem ser uasadas para alcançar o melhor resultado
+possivel durante o jogo. Eles podem ser o fator chave para ganhar o jogo. Se bem usadas, eles podem ajudar o axie a ganhar o jogo, e se mal usadas,
+ele pode ajudar o adversario a ganhar o jogo.
+

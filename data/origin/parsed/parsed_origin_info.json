@@ -1,0 +1,2995 @@
+{
+    "Cartas da Classe Aquática (Origin)": {
+        "Table_1": [
+            {
+                "Nome da Carta": "**Little Crab**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "70",
+                "Escudo": "0",
+                "Descrição": "Ethereal."
+            },
+            {
+                "Nome da Carta": "**Puff**",
+                "Tipo": "Attack",
+                "Energia": "X",
+                "Ataque": "63",
+                "Escudo": "0",
+                "Descrição": "Consome toda a Energia disponível, causa aleatoriamente acertos iguais à Energia consumida."
+            },
+            {
+                "Nome da Carta": "**Jellytacle**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "65",
+                "Escudo": "0",
+                "Descrição": "Se Inicial, restaura 15 HP."
+            },
+            {
+                "Nome da Carta": "**Baby**",
+                "Tipo": "Power",
+                "Energia": "1",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Inato. Ataques causam 20% de DANO bônus se o HP estiver acima de 75% (não acumulável). Exílio."
+            },
+            {
+                "Nome da Carta": "**Telescope**",
+                "Tipo": "Skill",
+                "Energia": "0",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Se Inicial, selecione 1 carta Aquática do seu Descarte; caso contrário, selecione do seu Baralho. Coloque a carta selecionada no topo do seu Baralho. Banir."
+            },
+            {
+                "Nome da Carta": "**Gero**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Se o alvo tiver Fragile, causa 20 de DANO bônus; caso contrário, aplica Fragile por 4 turnos."
+            },
+            {
+                "Nome da Carta": "**Clear**",
+                "Tipo": "Skill",
+                "Energia": "0",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Se o seu Baralho tiver menos de 2 cartas, compre 2 cartas, depois descarte 2. Instável."
+            },
+            {
+                "Nome da Carta": "**Sleepless**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Selecione o inimigo mais próximo ou mais distante. Aplica Vulnerável ao alvo por 2 turnos."
+            },
+            {
+                "Nome da Carta": "**Bubblemaker**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "70",
+                "Escudo": "0",
+                "Descrição": "Retorna. Alvo qualquer aliado. Quando seu turno termina, se não jogado, outros Axies aliados ganham 1 Bolha."
+            },
+            {
+                "Nome da Carta": "**Inkling**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Alvo o inimigo mais próximo ou mais distante. Embaralha 1 Jinx no descarte do seu oponente."
+            }
+        ],
+        "Table_2": [
+            {
+                "Nome da Carta": "**Seaslug**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Limpa 1 vez. Ganha 1 Limpador."
+            },
+            {
+                "Nome da Carta": "**Gill**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "20",
+                "Escudo": "0",
+                "Descrição": "Ataca todos os inimigos. Todos os Axies aliados ganham 1 Bolha."
+            },
+            {
+                "Nome da Carta": "**Tiny Fan**",
+                "Tipo": "Attack",
+                "Energia": "9",
+                "Ataque": "400",
+                "Escudo": "0",
+                "Descrição": "Reter. Esta carta custa 9 de Energia. Reduza o Custo de Energia desta carta para cada nível do seu Surto de Energia."
+            },
+            {
+                "Nome da Carta": "**Nimo**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "50",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Bônus 1 por carta Nimo no seu Baralho (Limite de 3 Fragmentos de bônus)."
+            },
+            {
+                "Nome da Carta": "**Shoal Star**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer inimigo. Se o alvo tiver >= 90 HP e nenhum Escudo, causa 90 de DANO ao alvo. Se o alvo não morrer, este Axie causa 30 de DANO a si mesmo."
+            },
+            {
+                "Nome da Carta": "**Oranda**",
+                "Tipo": "Attack",
+                "Energia": "2",
+                "Ataque": "55",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer inimigo. Dispel o alvo 1 vez."
+            },
+            {
+                "Nome da Carta": "**Anemone**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "85",
+                "Escudo": "0",
+                "Descrição": "Sempre que jogada, esta carta perde 30 de DANO base. Sempre que você matar um Axie inimigo com esta carta, todas as cartas Anemone redefinem seu DANO base."
+            },
+            {
+                "Nome da Carta": "**Clamshell**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "65",
+                "Escudo": "0",
+                "Descrição": "Ganha 1 Fragmento de Energia se este ataque causar DANO Desbloqueado."
+            },
+            {
+                "Nome da Carta": "**Teal Shell**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "30",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. O alvo ganha 20 de Escudo por carta jogada antes de Teal Shell neste turno."
+            },
+            {
+                "Nome da Carta": "**Babylonia**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Alvo o inimigo mais próximo ou mais distante. Aplica Vulnerável por 2 turnos."
+            }
+        ],
+        "Table_3": [
+            {
+                "Nome da Carta": "**Piranha**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "50",
+                "Escudo": "0",
+                "Descrição": "Alvo o inimigo mais próximo ou mais distante. Rouba HP igual a 40% do DANO desbloqueado."
+            },
+            {
+                "Nome da Carta": "**Risky Fish**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "70",
+                "Escudo": "0",
+                "Descrição": "Se Inicial, causa 20 DANO a mais e aplica Fear a si mesmo por 3 turnos."
+            },
+            {
+                "Nome da Carta": "**Catfish**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "20",
+                "Escudo": "0",
+                "Descrição": "Ataca todos os inimigos. Todos os Axies aliados ganham 1 Bolha."
+            },
+            {
+                "Nome da Carta": "**Lam**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "95",
+                "Escudo": "0",
+                "Descrição": "Alvo o Axie inimigo com o HP mais baixo. Lam causa 25 DANO a menos por 25% de HP que o alvo está perdendo."
+            },
+            {
+                "Nome da Carta": "**Perch**",
+                "Tipo": "Attack",
+                "Energia": "X",
+                "Ataque": "15",
+                "Escudo": "0",
+                "Descrição": "Consome toda a Energia disponível. Ataca todos os inimigos. O DANO base é igual a 100% da Energia Gasta, então causa 20% de DANO bônus por Energia Gasta."
+            },
+            {
+                "Nome da Carta": "**Anemone**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "85",
+                "Escudo": "0",
+                "Descrição": "Sempre que jogada, esta carta perde 30 de DANO base. Sempre que você matar um Axie inimigo com esta carta, todas as cartas Anemone redefinem seu DANO base."
+            },
+            {
+                "Nome da Carta": "**Sponge**",
+                "Tipo": "Secret",
+                "Energia": "1",
+                "Ataque": "50",
+                "Escudo": "0",
+                "Descrição": "Reter. Escudo todos os Axies aliados. Alvo qualquer aliado. Converte a Bolha no alvo em Bomba de Bolha."
+            },
+            {
+                "Nome da Carta": "**Goldfish**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Se você tiver pelo menos 1 carta de Habilidade na sua Mão, ganha 2 Fragmentos de Energia."
+            },
+            {
+                "Nome da Carta": "**Blue Moon**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Alvo o inimigo mais próximo ou mais distante. Limite: 3. Compre 1 carta."
+            },
+            {
+                "Nome da Carta": "**Hermit**",
+                "Tipo": "Secret",
+                "Energia": "1",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Nega o próximo ataque neste alvo."
+            }
+        ]
+    },
+    "Cartas da Classe Beast (Origin)": {
+        "Table_1": [
+            {
+                "Nome da Carta": "**Sparky**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Ganha 4 de Fúria."
+            },
+            {
+                "Nome da Carta": "**Puff**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Cura HP igual a 50% do DANO desbloqueado."
+            },
+            {
+                "Nome da Carta": "**Foxy**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "65",
+                "Escudo": "0",
+                "Descrição": "Reter. Ganha 1 de Fúria. Se Retido, +1 de Fúria quando jogado (limite: 3 rodadas)."
+            },
+            {
+                "Nome da Carta": "**Foxy**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Alvo o inimigo mais distante."
+            },
+            {
+                "Nome da Carta": "**Cub**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Se Inicial, compre 1 carta de Habilidade/Secreta."
+            },
+            {
+                "Nome da Carta": "**Buba Brush**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Ganha 2 de Fúria."
+            },
+            {
+                "Nome da Carta": "**Chubby**",
+                "Tipo": "Attack",
+                "Energia": "2",
+                "Ataque": "40",
+                "Escudo": "0",
+                "Descrição": "Ataca todos os inimigos. Aplica Sangramento por 2 turnos."
+            },
+            {
+                "Nome da Carta": "**Puppy**",
+                "Tipo": "Skill",
+                "Energia": "0",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Remove 1 carta Amaldiçoada do seu Baralho e ganha 1 de Fúria."
+            },
+            {
+                "Nome da Carta": "**Little Peas**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Aplica Vulnerável por 4 turnos."
+            },
+            {
+                "Nome da Carta": "**Zeal**",
+                "Tipo": "Skill",
+                "Energia": "0",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Se Inicial, selecione 1 carta Beast do seu Descarte; caso contrário, selecione do seu Baralho. Coloque a carta selecionada no topo do seu Baralho. Banir."
+            }
+        ],
+        "Table_2": [
+            {
+                "Nome da Carta": "**Nyan**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "62",
+                "Escudo": "0",
+                "Descrição": "Se o alvo tiver Sangramento, causa 20 de DANO bônus; caso contrário, aplica Sangramento por 4 turnos."
+            },
+            {
+                "Nome da Carta": "**Nut Cracker**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Sempre que jogada, as cartas Nut Cracker deste Axie ganham 10 de DANO para o resto da batalha (Limite de 80 de DANO bônus)."
+            },
+            {
+                "Nome da Carta": "**Belieber**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "30",
+                "Escudo": "0",
+                "Descrição": "Antes de atacar, consome até 3 de Fúria. Causa 2 acertos. Causa 30% de DANO bônus por Fúria consumida."
+            },
+            {
+                "Nome da Carta": "**Innocent Lamb**",
+                "Tipo": "Skill",
+                "Energia": "0",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Banir. Selecione uma das outras cartas de Habilidade ou Secreta deste Axie e adicione uma cópia à sua mão. Banir."
+            },
+            {
+                "Nome da Carta": "**Puppy**",
+                "Tipo": "Skill",
+                "Energia": "0",
+                "Ataque": "15",
+                "Escudo": "0",
+                "Descrição": "Cura todos os aliados. Remove 2 cartas Amaldiçoadas do seu Baralho."
+            },
+            {
+                "Nome da Carta": "**Zen**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Outros Axies aliados ganham 1 de Fúria."
+            },
+            {
+                "Nome da Carta": "**Arco**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "65",
+                "Escudo": "0",
+                "Descrição": "Remove até 2 segredos do alvo."
+            },
+            {
+                "Nome da Carta": "**Dual Blade**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer inimigo. Aplica Ferida Grave."
+            },
+            {
+                "Nome da Carta": "**Pocky**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "30",
+                "Escudo": "0",
+                "Descrição": "Causa aleatoriamente 2 acertos. Aplica Provocar ao inimigo com o HP mais baixo por 2 turnos."
+            },
+            {
+                "Nome da Carta": "**Merry**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "80",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Se Inicial, Escudo todos os aliados em 50% do Atributo Base."
+            }
+        ],
+        "Table_3": [
+            {
+                "Nome da Carta": "**Imp**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Reter. O DANO base é aumentado em 20 na Forma de Fúria."
+            },
+            {
+                "Nome da Carta": "**Little Branch**",
+                "Tipo": "Attack",
+                "Energia": "2",
+                "Ataque": "130",
+                "Escudo": "0",
+                "Descrição": "Ganha 1 de Fúria por cada Aliado vivo (incluindo Invocações)."
+            },
+            {
+                "Nome da Carta": "**Confident**",
+                "Tipo": "Skill",
+                "Energia": "0",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Limpa 1 vez e concede 1 de Fúria."
+            },
+            {
+                "Nome da Carta": "**Axie Kiss**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Alvo o Axie inimigo com o HP mais baixo. Aplica Marca da Morte por 4 turnos."
+            },
+            {
+                "Nome da Carta": "**Goda**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Remove 1 Fragmento de Energia do seu oponente. Coloca 1 Vazio no descarte do seu oponente."
+            },
+            {
+                "Nome da Carta": "**Nut Cracker**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Sempre que jogada, as cartas Nut Cracker deste Axie ganham 10 de DANO para o resto da batalha. (Limite de 80 de DANO bônus)"
+            },
+            {
+                "Nome da Carta": "**Furball**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "35",
+                "Escudo": "0",
+                "Descrição": "Causa 2 acertos. Se possível, gasta 1 Energia a mais para jogar esta carta e então ganha 1 Energia."
+            },
+            {
+                "Nome da Carta": "**Timber**",
+                "Tipo": "Secret",
+                "Energia": "1",
+                "Ataque": "70",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. No próximo turno, sempre que qualquer unidade aliada for atacada, adicione 1 Escudo de Madeira à sua mão. (Limite de 3 Escudos de Madeira)"
+            },
+            {
+                "Nome da Carta": "**Risky Beast**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "70",
+                "Escudo": "0",
+                "Descrição": "Se Inicial, causa 20 de DANO bônus e aplica Marca da Morte a si mesmo por 3 turnos."
+            },
+            {
+                "Nome da Carta": "**Jaguar**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Se o alvo tiver Sangramento, causa 20 de DANO bônus; caso contrário, aplica Sangramento por 4 turnos."
+            }
+        ],
+        "Table_4": [
+            {
+                "Nome da Carta": "**Hero**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "70",
+                "Escudo": "0",
+                "Descrição": "Se esta for a única carta de Ataque na sua Mão, compre 1 carta. Limite: 3."
+            },
+            {
+                "Nome da Carta": "**Ronin**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "40",
+                "Escudo": "0",
+                "Descrição": "Causa DANO bônus = 50% do DANO base da carta por Energia gasta antes de Ronin neste turno. (Limite de 5 de Energia)"
+            },
+            {
+                "Nome da Carta": "**Gerbil**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "55",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer inimigo. Se o alvo não tiver Segredo, bônus de 15 de DANO; caso contrário, remove 1 Segredo aleatório do alvo."
+            },
+            {
+                "Nome da Carta": "**Nut Cracker**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Sempre que jogada, as cartas Nut Cracker deste Axie ganham 10 de DANO para o resto da batalha. (Limite de 60 de DANO bônus)"
+            },
+            {
+                "Nome da Carta": "**Hare**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "70",
+                "Escudo": "0",
+                "Descrição": "Causa 10 de DANO bônus por carta na mão do seu oponente."
+            },
+            {
+                "Nome da Carta": "**Shiba**",
+                "Tipo": "Attack",
+                "Energia": "2",
+                "Ataque": "130",
+                "Escudo": "0",
+                "Descrição": "Todos os Axies aliados ganham 1 de Fúria. Para cada 25% de HP que este Axie está perdendo, eles ganham 1 de Fúria extra."
+            },
+            {
+                "Nome da Carta": "**Rice**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Rouba 1 Fragmento de Energia se este ataque causar DANO Desbloqueado. Banir."
+            },
+            {
+                "Nome da Carta": "**Cottontail**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "5",
+                "Escudo": "0",
+                "Descrição": "Reter. Alvo qualquer aliado. Consome até 7 Fragmentos de Energia para curar 5 HP por Fragmento consumido. Se 7 Fragmentos forem consumidos, ganha 1 Energia. Instável."
+            }
+        ]
+    },
+    "Cartas da Classe Bird (Origin)": {
+        "Table_1": [
+            {
+                "Nome da Carta": "**Robin**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Invoca 1 Pequeno Robin."
+            },
+            {
+                "Nome da Carta": "**Little Owl**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "20",
+                "Escudo": "0",
+                "Descrição": "Causa 2 acertos. Sempre que jogada, as cartas Little Owl deste Axie ganham 1 acerto bônus para o resto da batalha. (Limite de 4 acertos bônus)"
+            },
+            {
+                "Nome da Carta": "**Lucas**",
+                "Tipo": "Skill",
+                "Energia": "0",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Se Inicial, selecione 1 carta Bird do seu Descarte; caso contrário, selecione do seu Baralho. Coloque a carta selecionada no topo do seu Baralho. Banir."
+            },
+            {
+                "Nome da Carta": "**Mavis**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Invoca 1 Mavis."
+            },
+            {
+                "Nome da Carta": "**Risky Bird**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "70",
+                "Escudo": "0",
+                "Descrição": "Se Inicial, causa 20 de DANO bônus e aplica Sangramento a si mesmo por 3 turnos."
+            },
+            {
+                "Nome da Carta": "**Curly**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Se o alvo tiver Fragile, causa 20 de DANO bônus; caso contrário, aplica Fragile por 4 turnos."
+            },
+            {
+                "Nome da Carta": "**Early Bird**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "30",
+                "Escudo": "0",
+                "Descrição": "Causa 2 acertos. Limite: 3. Compre 1 carta."
+            },
+            {
+                "Nome da Carta": "**Peace Maker**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Se o alvo tiver Fraco, causa 20 de DANO bônus; caso contrário, aplica Fraco por 4 turnos."
+            },
+            {
+                "Nome da Carta": "**Little Owl**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "20",
+                "Escudo": "0",
+                "Descrição": "Causa 2 acertos. Sempre que jogada, as cartas Little Owl deste Axie ganham 1 acerto bônus para o resto da batalha. (Limite de 4 acertos bônus)"
+            },
+            {
+                "Nome da Carta": "**Pink Cheek**",
+                "Tipo": "Skill",
+                "Energia": "0",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Se o seu Baralho tiver menos de 2 cartas, compre 2 cartas, depois descarte 2. Instável."
+            }
+        ],
+        "Table_2": [
+            {
+                "Nome da Carta": "**Feather Spear**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "30",
+                "Escudo": "0",
+                "Descrição": "Causa 2 acertos. Este Axie ganha 2 Penas. Ganha 1 Pena bônus para cada outra carta de Lança no seu Baralho."
+            },
+            {
+                "Nome da Carta": "**Wing Horn**",
+                "Tipo": "Attack",
+                "Energia": "2",
+                "Ataque": "40",
+                "Escudo": "0",
+                "Descrição": "Causa aleatoriamente 3 acertos. Sempre que Winghorn mata um alvo ou acerta um alvo com 0% de HP, adicione 2 Adagas de Pena à sua mão."
+            },
+            {
+                "Nome da Carta": "**Kestrel**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "30",
+                "Escudo": "0",
+                "Descrição": "Dispel 1 vez. Para cada 3 outras cartas na sua mão, causa 1 acerto bônus e Dispel 1 vez mais."
+            },
+            {
+                "Nome da Carta": "**Trump**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "25",
+                "Escudo": "0",
+                "Descrição": "Causa aleatoriamente 3 acertos."
+            },
+            {
+                "Nome da Carta": "**Cuckoo**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Aplica Cuco."
+            },
+            {
+                "Nome da Carta": "**Eggshell**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "35",
+                "Escudo": "0",
+                "Descrição": "Causa 2 acertos. Ganha Casca de Ovo por 3 turnos."
+            },
+            {
+                "Nome da Carta": "**Hungry Bird**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Rouba 15 HP. Remove até 2 cartas Amaldiçoadas do seu Baralho."
+            },
+            {
+                "Nome da Carta": "**Little Owl**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "20",
+                "Escudo": "0",
+                "Descrição": "Causa 2 acertos. Sempre que jogada, as cartas Little Owl deste Axie ganham 1 acerto bônus para o resto da batalha. (Limite de 4 acertos bônus)"
+            },
+            {
+                "Nome da Carta": "**Peace Maker**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Se o alvo tiver Fraco, causa 20 de DANO bônus; caso contrário, aplica Fraco por 4 turnos."
+            },
+            {
+                "Nome da Carta": "**Doubletalk**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "30",
+                "Escudo": "0",
+                "Descrição": "Causa aleatoriamente 2 acertos. Embaralha 1 Jinx no descarte do seu oponente por inimigo atingido."
+            }
+        ],
+        "Table_3": [
+            {
+                "Nome da Carta": "**Tri Feather**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "20",
+                "Escudo": "0",
+                "Descrição": "Causa aleatoriamente 3 acertos. Todos os Axies aliados ganham 1 Pena por acerto inimigo único."
+            },
+            {
+                "Nome da Carta": "**Kingfisher**",
+                "Tipo": "Secret",
+                "Energia": "1",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Na próxima vez que o alvo for atacado, causa 85 de DANO ao atacante."
+            },
+            {
+                "Nome da Carta": "**Pigeon Post**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "55",
+                "Escudo": "0",
+                "Descrição": "Se Inicial, adicione 1 Blackmail ao Baralho do seu oponente; caso contrário, adicione ao Descarte do seu oponente."
+            },
+            {
+                "Nome da Carta": "**Raven**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Alvo o inimigo mais próximo ou mais distante. Embaralha 1 Jinx no descarte do seu oponente."
+            },
+            {
+                "Nome da Carta": "**Cupid**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "30",
+                "Escudo": "0",
+                "Descrição": "Causa aleatoriamente 2 acertos. Aplica Fraco por 2 turnos."
+            },
+            {
+                "Nome da Carta": "**Balloon**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Se o alvo tiver Escudo, aplica Hex por 4 turnos; caso contrário, aplica Fear por 4 turnos."
+            },
+            {
+                "Nome da Carta": "**Post Fight**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "90",
+                "Escudo": "0",
+                "Descrição": "Este Axie perde 20 HP."
+            },
+            {
+                "Nome da Carta": "**Granma's Fan**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "20",
+                "Escudo": "0",
+                "Descrição": "Ataca todos os inimigos. Todos os Axies aliados ganham 2 Penas."
+            },
+            {
+                "Nome da Carta": "**Cloud**",
+                "Tipo": "Skill",
+                "Energia": "0",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Concede 2 Penas."
+            },
+            {
+                "Nome da Carta": "**The Last One**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "65",
+                "Escudo": "0",
+                "Descrição": "Se esta for a única carta de Ataque na sua mão, causa 25 de DANO bônus."
+            }
+        ]
+    },
+    "Cartas da Classe Bug (Origin)": {
+        "Table_1": [
+            {
+                "Nome da Carta": "**Kotaro**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "50",
+                "Escudo": "0",
+                "Descrição": "Causa aleatoriamente 1 acerto. Aplica Marca da Morte por 4 turnos."
+            },
+            {
+                "Nome da Carta": "**Neo**",
+                "Tipo": "Skill",
+                "Energia": "0",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Olhe as 4 primeiras cartas do Baralho do seu oponente, você pode descartar 1. Banir."
+            },
+            {
+                "Nome da Carta": "**Nerdy**",
+                "Tipo": "Skill",
+                "Energia": "0",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Se o seu Baralho tiver menos de 2 cartas, compre 2 cartas, depois descarte 2. Instável."
+            },
+            {
+                "Nome da Carta": "**Bookworm**",
+                "Tipo": "Skill",
+                "Energia": "0",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Se Inicial, selecione 1 carta Bug do seu Descarte; caso contrário, selecione do seu Baralho. Coloque a carta selecionada no topo do seu Baralho. Banir."
+            },
+            {
+                "Nome da Carta": "**Leaf Bug**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "55",
+                "Escudo": "0",
+                "Descrição": "Reter. Alvo qualquer aliado. Concede 2 Casulos. Concede 1 Casulo por turno se for retido. (Limite de 3 Casulos bônus)"
+            },
+            {
+                "Nome da Carta": "**Beetle Spike**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Causa DANO puro. Aplica DANO Puro. Rouba Escudo do alvo igual a 30% do DANO causado."
+            },
+            {
+                "Nome da Carta": "**Ear Breathing**",
+                "Tipo": "Attack",
+                "Energia": "2",
+                "Ataque": "30",
+                "Escudo": "0",
+                "Descrição": "Causa aleatoriamente 4 acertos. Embaralha 1 Gosma no descarte do seu oponente por acerto inimigo único."
+            },
+            {
+                "Nome da Carta": "**Earwing**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "20",
+                "Escudo": "0",
+                "Descrição": "Ataca todos os inimigos. Causa 3 de DANO bônus para cada carta na sua Mão. (Limite de 30 de DANO bônus)"
+            },
+            {
+                "Nome da Carta": "**Larva**",
+                "Tipo": "Skill",
+                "Energia": "0",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Banir 2 cartas. Se você descartar pelo menos 1 carta de Habilidade ou Secreta ao Scry, ganha 2 Fragmentos de Energia. Banir."
+            },
+            {
+                "Nome da Carta": "**Tassels**",
+                "Tipo": "Power",
+                "Energia": "1",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Inato. Alvo qualquer aliado. Quando este Axie usa uma carta de Escudo, usa o atributo base. Após 300 de Escudo, usando seu Escudo, causará DANO = 35% do atributo base a todos os inimigos. Não pode."
+            }
+        ],
+        "Table_2": [
+            {
+                "Nome da Carta": "**Leaf Bug**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "55",
+                "Escudo": "0",
+                "Descrição": "Reter. Alvo qualquer aliado. Concede 2 Casulos. Concede 1 Casulo por turno se for retido. (Limite de 3 Casulos bônus)"
+            },
+            {
+                "Nome da Carta": "**Parasite**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Olhe as 3 primeiras cartas do Baralho do seu oponente, você pode descartar 1."
+            },
+            {
+                "Nome da Carta": "**Pliers**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Causa DANO Puro. Rouba Escudo do alvo igual a 30% do DANO causado."
+            },
+            {
+                "Nome da Carta": "**Caterpillars**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Se o alvo tiver Escudo, aplica Hex por 4 turnos; caso contrário, aplica Fear por 4 turnos."
+            },
+            {
+                "Nome da Carta": "**Antenna**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "55",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Scry 4 cartas. Banir."
+            },
+            {
+                "Nome da Carta": "**Lagging**",
+                "Tipo": "Secret",
+                "Energia": "1",
+                "Ataque": "70",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Na próxima vez que seu oponente usar uma carta de Habilidade ou Secreta, embaralhe 1 Gosma no descarte deles."
+            },
+            {
+                "Nome da Carta": "**Square Teeth**",
+                "Tipo": "Attack",
+                "Energia": "0",
+                "Ataque": "25",
+                "Escudo": "0",
+                "Descrição": "Consome até 100 de Escudo e causa DANO bônus igual à quantidade de Escudo consumida desta forma."
+            },
+            {
+                "Nome da Carta": "**Cute Bunny**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Se o alvo tiver Escudo, aplica Hex por 4 turnos; caso contrário, aplica Fear por 4 turnos."
+            },
+            {
+                "Nome da Carta": "**Pincer**",
+                "Tipo": "Secret",
+                "Energia": "1",
+                "Ataque": "40",
+                "Escudo": "0",
+                "Descrição": "Escudo todos os aliados. Na próxima vez que seu oponente usar Manter, embaralhe 1 Gosma no descarte deles."
+            },
+            {
+                "Nome da Carta": "**Mosquito**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "10",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer unidade. Causa 2 acertos. Rouba 15 HP por acerto."
+            }
+        ],
+        "Table_3": [
+            {
+                "Nome da Carta": "**Spiky Wing**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Causa DANO Puro. Rouba Escudo do alvo igual a 30% do DANO causado."
+            },
+            {
+                "Nome da Carta": "**Scarab**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer inimigo. Aplica Bloqueio por 2 turnos."
+            },
+            {
+                "Nome da Carta": "**Sandal**",
+                "Tipo": "Attack",
+                "Energia": "2",
+                "Ataque": "110",
+                "Escudo": "0",
+                "Descrição": "Causa 50% de DANO bônus ao atacar um inimigo com debuffs."
+            },
+            {
+                "Nome da Carta": "**Buzz Buzz**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "20",
+                "Escudo": "0",
+                "Descrição": "Ataca todos os inimigos. Bônus de 6 de DANO para cada carta Descartada ou Banida por qualquer jogador neste turno. (Limite de 30 de DANO)"
+            },
+            {
+                "Nome da Carta": "**Garish Worm**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "65",
+                "Escudo": "0",
+                "Descrição": "Reter. Descarta 1 carta aleatória da mão do seu oponente."
+            },
+            {
+                "Nome da Carta": "**Snail Shell**",
+                "Tipo": "Secret",
+                "Energia": "1",
+                "Ataque": "70",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Na próxima vez que o alvo for atacado, embaralhe 1 Gosma no descarte do seu oponente."
+            },
+            {
+                "Nome da Carta": "**Thorny Caterpillar**",
+                "Tipo": "Attack",
+                "Energia": "2",
+                "Ataque": "110",
+                "Escudo": "0",
+                "Descrição": "Causa 30 de DANO bônus por 3 no Baralho do seu oponente."
+            },
+            {
+                "Nome da Carta": "**Ant**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "70",
+                "Escudo": "0",
+                "Descrição": "Aplica Provocar a este Axie por 4 turnos."
+            },
+            {
+                "Nome da Carta": "**Fish Snack**",
+                "Tipo": "Secret",
+                "Energia": "1",
+                "Ataque": "70",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Na próxima vez que o alvo for atacado, aplica Fraco por 4 turnos ao atacante."
+            },
+            {
+                "Nome da Carta": "**Pupae**",
+                "Tipo": "Secret",
+                "Energia": "1",
+                "Ataque": "70",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. No próximo turno, se o alvo perder pelo menos 70 de Escudo, todos os Axies aliados ganham 3 Casulos."
+            }
+        ]
+    },
+    "Cartas da Classe Plant (Origin)": {
+        "Table_1": [
+            {
+                "Nome da Carta": "**Succulent**",
+                "Tipo": "Skill",
+                "Energia": "0",
+                "Ataque": "50",
+                "Escudo": "0",
+                "Descrição": "Banir. Banir."
+            },
+            {
+                "Nome da Carta": "**Sprout**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "40",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado."
+            },
+            {
+                "Nome da Carta": "**Risky Trunk**",
+                "Tipo": "Skill",
+                "Energia": "2",
+                "Ataque": "50",
+                "Escudo": "0",
+                "Descrição": "Cura todos os aliados."
+            },
+            {
+                "Nome da Carta": "**Persimmon**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer inimigo."
+            },
+            {
+                "Nome da Carta": "**Mandarine**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Inato. Adicione 2 Mandarinas à sua mão."
+            },
+            {
+                "Nome da Carta": "**Beetroot**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Limite: 1. Compre 1 carta."
+            },
+            {
+                "Nome da Carta": "**Blossom**",
+                "Tipo": "Skill",
+                "Energia": "0",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Se Inicial, selecione 1 carta Plant do seu Descarte; caso contrário, selecione do seu Baralho. Coloque a carta selecionada no topo do seu Baralho. Banir."
+            },
+            {
+                "Nome da Carta": "**Cucumber Slice**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "10",
+                "Escudo": "0",
+                "Descrição": "Reter. Cura todos os aliados. Esta carta ganha 10 de Cura por turno se for Retida. (Limite de 50 de Cura bônus)"
+            },
+            {
+                "Nome da Carta": "**Confusion**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Embaralha 1 Confuso no Baralho do seu oponente."
+            }
+        ],
+        "Table_2": [
+            {
+                "Nome da Carta": "**Papi**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "50",
+                "Escudo": "0",
+                "Descrição": "Reter. Alvo qualquer aliado. Aplica 2 Folhas. Bônus de 1 Folha por turnos Retidos. (Limite de 3 Folhas bônus)."
+            },
+            {
+                "Nome da Carta": "**Lotus**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "50",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Remove até 3 cartas Amaldiçoadas do seu Baralho."
+            },
+            {
+                "Nome da Carta": "**Leafy**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "20",
+                "Escudo": "0",
+                "Descrição": "Consome até 3 Folhas. Causa aleatoriamente 3 acertos. Causa 10 de DANO bônus para cada Folha consumida."
+            },
+            {
+                "Nome da Carta": "**Sakura**",
+                "Tipo": "Power",
+                "Energia": "1",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Inato. Alvo qualquer aliado. Pelo resto da batalha, sempre que você jogar uma carta, este Axie é curado em 8 HP. Não acumulável. Exílio."
+            },
+            {
+                "Nome da Carta": "**Hollow**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Invoca 1 Tronco. Este Axie perde 75 HP."
+            },
+            {
+                "Nome da Carta": "**Rosa**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "20",
+                "Escudo": "0",
+                "Descrição": "Causa aleatoriamente 2 acertos. Limite: 1. Cada acerto aplica Sono por 3 turnos."
+            },
+            {
+                "Nome da Carta": "**Clover**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Invoca 1 Trevo."
+            },
+            {
+                "Nome da Carta": "**Watermelon**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "65",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer inimigo. Se o alvo tiver Sono, bônus de 15 de DANO e aplica Sono por 5 turnos."
+            },
+            {
+                "Nome da Carta": "**Cactus**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Se Inicial, causa 15 de DANO bônus e aplica Provocar a si mesmo por 2 turnos."
+            },
+            {
+                "Nome da Carta": "**Strawberry Shortcake**",
+                "Tipo": "Skill",
+                "Energia": "2",
+                "Ataque": "40",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Adicione 2 Morangos à sua Mão."
+            }
+        ],
+        "Table_3": [
+            {
+                "Nome da Carta": "**Rose Bud**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Aplica 2 Limpadores."
+            },
+            {
+                "Nome da Carta": "**Beech**",
+                "Tipo": "Attack",
+                "Energia": "2",
+                "Ataque": "125",
+                "Escudo": "0",
+                "Descrição": "Remove todos os Segredos do alvo."
+            },
+            {
+                "Nome da Carta": "**Bamboo Shoot**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Este Axie ganha 1 Folha. Ganha 1 Folha bônus por cada outra carta de Lança no seu Baralho."
+            },
+            {
+                "Nome da Carta": "**Silence Whisper**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "55",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Por 3 turnos, o Veneno neste Axie curará 3 HP por pilha em vez de causar perda de HP."
+            },
+            {
+                "Nome da Carta": "**Herbivore**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer inimigo. Cura 15 HP a si mesmo. Se o alvo tiver Sono, aplica Sono por 5 turnos."
+            },
+            {
+                "Nome da Carta": "**Zigzag**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Se o alvo tiver Fragile, cura 20 HP a si mesmo; caso contrário, aplica Fragile por 4 turnos."
+            },
+            {
+                "Nome da Carta": "**Serious**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "70",
+                "Escudo": "0",
+                "Descrição": "Se Inicial, causa 20 de DANO bônus e aplica Sono a si mesmo por 2 turnos."
+            },
+            {
+                "Nome da Carta": "**Pumpkin**",
+                "Tipo": "Secret",
+                "Energia": "1",
+                "Ataque": "70",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Na próxima vez que o alvo for atacado, compre 1 carta."
+            },
+            {
+                "Nome da Carta": "**Mint**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "40",
+                "Escudo": "0",
+                "Descrição": "Escudo todos os aliados. Aplica 1 Limpador a todos os aliados."
+            },
+            {
+                "Nome da Carta": "**Watering Can**",
+                "Tipo": "Secret",
+                "Energia": "1",
+                "Ataque": "70",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. No próximo turno, após uma unidade aliada ser atacada, adicione 1 Água Pura à sua Mão. (Limite de 3 Água Pura)"
+            }
+        ],
+        "Table_4": [
+            {
+                "Nome da Carta": "**Bidens**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Limpa o alvo 2 vezes e concede 2 Folhas."
+            },
+            {
+                "Nome da Carta": "**Shiitake**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Invoca 1 Cogumelo."
+            },
+            {
+                "Nome da Carta": "**Turnip**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Pelos próximos 4 turnos, sempre que seu oponente invocar uma unidade, causa 25 de DANO a essa invocação."
+            },
+            {
+                "Nome da Carta": "**Hot Butt**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "30",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Embaralha 2 Queimaduras no descarte do seu oponente."
+            },
+            {
+                "Nome da Carta": "**Potato Leaf**",
+                "Tipo": "Secret",
+                "Energia": "1",
+                "Ataque": "65",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. No próximo turno, se o alvo for atacado, aplica Sono ao atacante por 3 turnos."
+            },
+            {
+                "Nome da Carta": "**Yam**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "20",
+                "Escudo": "0",
+                "Descrição": "Ataca todos os inimigos. Aplica 2 Venenos."
+            },
+            {
+                "Nome da Carta": "**Hatsune**",
+                "Tipo": "Secret",
+                "Energia": "1",
+                "Ataque": "70",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. No próximo turno, aplica Fragile por 4 turnos ao próximo inimigo que ganhar Escudo."
+            },
+            {
+                "Nome da Carta": "**Cattail**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Aplica Provocar a si mesmo por 4 turnos."
+            },
+            {
+                "Nome da Carta": "**Carrot**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Ganha 1 Fragmento de Energia. Bônus de 1 a mais se o HP deste Axie não estiver cheio."
+            }
+        ]
+    },
+    "Cartas da Classe Reptile (Origin)": {
+        "Table_1": [
+            {
+                "Nome da Carta": "**Topaz**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "30",
+                "Escudo": "0",
+                "Descrição": "Causa 15 de DANO bônus para cada carta no seu Descarte. (Limite de 120 de DANO bônus)"
+            },
+            {
+                "Nome da Carta": "**Scar**",
+                "Tipo": "Skill",
+                "Energia": "0",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Se Inicial, selecione 1 carta Reptile do seu Descarte; caso contrário, selecione do seu Baralho. Coloque a carta selecionada no topo do seu Baralho. Banir."
+            },
+            {
+                "Nome da Carta": "**Tricky**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "50",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Se Inicial, troque esta carta por 1 carta no seu Descarte. Banir."
+            },
+            {
+                "Nome da Carta": "**Gecko**",
+                "Tipo": "Attack",
+                "Energia": "0",
+                "Ataque": "30",
+                "Escudo": "0",
+                "Descrição": "Este Axie ataca a si mesmo. Cura outras Unidades aliadas em 15 HP e Limpa-as 1 vez."
+            },
+            {
+                "Nome da Carta": "**Curved Spine**",
+                "Tipo": "Secret",
+                "Energia": "1",
+                "Ataque": "70",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Na próxima vez que o alvo for atacado por um oponente, aplica Sangramento por 4 turnos ao atacante."
+            },
+            {
+                "Nome da Carta": "**Pogona**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Aplica Provocar a si mesmo por 2 turnos. Ganha 1 Espinho."
+            },
+            {
+                "Nome da Carta": "**Sidebarb**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "50",
+                "Escudo": "0",
+                "Descrição": "Causa aleatoriamente 1 acerto. Aplica 4 Venenos. Consome 1 Espinho para aplicar 4 Venenos."
+            },
+            {
+                "Nome da Carta": "**Swirl**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Embaralha 1 Confuso no descarte do seu oponente."
+            },
+            {
+                "Nome da Carta": "**Small Frill**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "30",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Aplica 3 Venenos a todos os inimigos."
+            },
+            {
+                "Nome da Carta": "**Friezard**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "50",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Aplica Dúvida a todos os inimigos por 4 turnos."
+            }
+        ],
+        "Table_2": [
+            {
+                "Nome da Carta": "**Bumpy**",
+                "Tipo": "Power",
+                "Energia": "1",
+                "Ataque": "0",
+                "Escudo": "0",
+                "Descrição": "Inato. Alvo qualquer aliado. Pelo resto da batalha, sempre que você jogar uma carta, este Axie ganha 8 de Escudo. Não acumulável. Exílio."
+            },
+            {
+                "Nome da Carta": "**Incisor**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "20",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer Unidade. Se for um inimigo, causa 45 de DANO bônus; caso contrário, se for um aliado, concede 3 Espinhos."
+            },
+            {
+                "Nome da Carta": "**Scaly Spoon**",
+                "Tipo": "Secret",
+                "Energia": "1",
+                "Ataque": "70",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. No próximo turno, se o Escudo do alvo for quebrado por um oponente, Dispel o atacante 2 vezes."
+            },
+            {
+                "Nome da Carta": "**Cerastes**",
+                "Tipo": "Secret",
+                "Energia": "1",
+                "Ataque": "55",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Na próxima vez que o alvo for atacado, causa 85 de DANO ao atacante."
+            },
+            {
+                "Nome da Carta": "**Scaly Spear**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Este Axie ganha 1 Espinho. Ganha 1 Espinho bônus para cada outra carta de Lança no seu Baralho."
+            },
+            {
+                "Nome da Carta": "**Unko**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Embaralha 1 Gosma no descarte do seu oponente."
+            },
+            {
+                "Nome da Carta": "**Toothless Bite**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Alvo o inimigo mais próximo ou mais distante. Aplica Marca da Morte por 2 turnos."
+            },
+            {
+                "Nome da Carta": "**Tiny Turtle**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "55",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer inimigo. Se Inicial, aplica Sono por 3 turnos ao seu alvo e a si mesmo."
+            },
+            {
+                "Nome da Carta": "**Razor Bite**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "50",
+                "Escudo": "0",
+                "Descrição": "Cura HP igual a 50% do DANO desbloqueado. Se o alvo não tiver Sangramento, aplica Sangramento por 2 turnos."
+            },
+            {
+                "Nome da Carta": "**Kotaro**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "30",
+                "Escudo": "0",
+                "Descrição": "Causa 2 acertos a inimigos aleatórios. Ganha 1 Fragmento de Energia por acerto inimigo único."
+            }
+        ],
+        "Table_3": [
+            {
+                "Nome da Carta": "**Croc**",
+                "Tipo": "Secret",
+                "Energia": "1",
+                "Ataque": "70",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Na próxima vez que um Axie inimigo usar uma carta de Habilidade ou Secreta, aplica Sangramento por 4 turnos a esse Axie."
+            },
+            {
+                "Nome da Carta": "**Red Ear**",
+                "Tipo": "Secret",
+                "Energia": "1",
+                "Ataque": "40",
+                "Escudo": "0",
+                "Descrição": "Escudo sua equipe. Na próxima vez que seu oponente usar Manter, ganha 2 Fragmentos de Energia."
+            },
+            {
+                "Nome da Carta": "**Indian Star**",
+                "Tipo": "Secret",
+                "Energia": "1",
+                "Ataque": "70",
+                "Escudo": "0",
+                "Descrição": "Limite: 1. No próximo turno, sempre que for atingido por um oponente, o alvo reflete 50% do Escudo perdido. Sempre que jogado, aumenta a porcentagem de reflexão em 15%. (Limite de 100%)"
+            },
+            {
+                "Nome da Carta": "**Green Thorns**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "20",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. Aplica 2 Venenos 5 vezes a inimigos aleatórios."
+            },
+            {
+                "Nome da Carta": "**Tri Spikes**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "20",
+                "Escudo": "0",
+                "Descrição": "Causa aleatoriamente 3 acertos. Causa 1 de DANO bônus por Espinho ou Espinho de Sangue neste Axie."
+            },
+            {
+                "Nome da Carta": "**Bone Sail**",
+                "Tipo": "Secret",
+                "Energia": "1",
+                "Ataque": "70",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer aliado. No próximo turno, se o alvo receber um Debuff, esse Debuff é aplicado ao aplicador em vez disso."
+            },
+            {
+                "Nome da Carta": "**Grass Snake**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "45",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer inimigo. Limite: 1. Aumenta o número de pilhas de Veneno no alvo em 50%."
+            },
+            {
+                "Nome da Carta": "**Gila**",
+                "Tipo": "Attack",
+                "Energia": "2",
+                "Ataque": "40",
+                "Escudo": "0",
+                "Descrição": "Ataca todos os inimigos. Causa 2 de DANO bônus por pilha de Veneno no Inimigo."
+            },
+            {
+                "Nome da Carta": "**Snake Jar**",
+                "Tipo": "Skill",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Alvo qualquer Axie aliado. Se o alvo tiver < 300 HP, aplica Jarra de Cobra."
+            },
+            {
+                "Nome da Carta": "**Tiny Dino**",
+                "Tipo": "Attack",
+                "Energia": "1",
+                "Ataque": "60",
+                "Escudo": "0",
+                "Descrição": "Reter. Esta carta ganha 15 de DANO bônus por turno se for Retida. Máx: 4 turnos."
+            }
+        ]
+    },
+    "Charms da Classe Aquática (Origin) - Épico": {
+        "Table_1": [
+            {
+                "Nome do Charm": "Amuleto de Força de Aquático II",
+                "Tipo": "Épica",
+                "ATQ": "+11",
+                "PV Máx": "-6",
+                "Descrição": "(Altera Ataques Únicos)"
+            },
+            {
+                "Nome do Charm": "Amuleto de Foco de Aquático II",
+                "Tipo": "Épica",
+                "ATQ": "+5",
+                "PV Máx": "-6",
+                "Descrição": "(Altera Ataques Múltiplos e Em Área)"
+            }
+        ],
+        "Table_2": [
+            {
+                "Nome do Charm": "Polvo Pegajoso",
+                "Tipo": "Épica",
+                "Energia": "4",
+                "Descrição": "(Altera Qualquer Carta) Reter. Se Retido, ganha 1 Fragmento quando é jogada."
+            },
+            {
+                "Nome do Charm": "Pasta de Bolha",
+                "Tipo": "Épica",
+                "Energia": "4",
+                "Descrição": "(Altera Qualquer Carta) +1 Bolha. +1 Bolha para outros Axies Aliados se o Custo de Energia >=1."
+            }
+        ]
+    },
+    "Charms da Classe Aquática (Origin) - Mística": {
+        "Table_1": [
+            {
+                "Nome do Charm": "Água-viva Paralisante",
+                "Tipo": "Mística",
+                "Energia": "4",
+                "Descrição": "(Altera Ataques/Curas/Escudos) Inicial: Adicione 1 Azar à Pilha de Compra Inimiga; se não, à Pilha de Descarte. Se eles tiverem >= 6 Cartas Azar, +1 Má Sorte. Conta como Maldição."
+            },
+            {
+                "Nome do Charm": "Bomba Explosiva",
+                "Tipo": "Mística",
+                "Energia": "4",
+                "Descrição": "(Altera Ataques Únicos) Se o alvo não tiver outros aliados, causa +25% DANO, caso contrário, causa 25% DANO Explosivo."
+            }
+        ]
+    },
+    "Charms da Classe Aquática (Origin) - Raro": {
+        "Table_1": [
+            {
+                "Nome do Charm": "Varinha de Bolha",
+                "Tipo": "Rara",
+                "Energia": "4",
+                "Descrição": "(Altera qualquer carta) Ganhe 1 Bolha por energia gasta."
+            },
+            {
+                "Nome do Charm": "Bolha Preta",
+                "Tipo": "Rara",
+                "Energia": "4",
+                "Descrição": "(Alterar cartas não-ataque) Alvo ganha Bolha = Energia gasta"
+            },
+            {
+                "Nome do Charm": "Bolha Vermelha",
+                "Tipo": "Rara",
+                "Energia": "4",
+                "Descrição": "(Alterar ataques Multihit e Em Área) Proteja um Axie aliado aleatório igual a 75% do ATQ."
+            },
+            {
+                "Nome do Charm": "Amuleto de Força de Aquático 1",
+                "Tipo": "Rara",
+                "Energia": "1",
+                "Descrição": "(Altera Ataques Únicos) ATQ +6."
+            }
+        ]
+    },
+    "Charms da Classe Beast (Origin) - Épico": {
+        "Table_1": [
+            {
+                "Nome do Charm": "Amuleto de Força de Besta II",
+                "Tipo": "Épica",
+                "ATQ": "+11",
+                "PV Máx": "-6",
+                "Descrição": "(Altera Ataques Únicos)"
+            },
+            {
+                "Nome do Charm": "Amuleto de Foco de Besta II",
+                "Tipo": "Épica",
+                "ATQ": "+5",
+                "PV Máx": "-6",
+                "Descrição": "(Altera Ataques Múltiplos e Em Área)"
+            }
+        ],
+        "Table_2": [
+            {
+                "Nome do Charm": "Bebida Energética de Besta S",
+                "Tipo": "Épica",
+                "Energia": "4",
+                "Descrição": "(Altera Qualquer Carta) Desintegrar. +2 Raiva."
+            },
+            {
+                "Nome do Charm": "Máscara de Frenesi",
+                "Tipo": "Épica",
+                "Energia": "4",
+                "Descrição": "(Altera Qualquer Carta) +1 Raiva. +1 Raiva para outros Axies Aliados se o Custo de Energia >=1."
+            }
+        ]
+    },
+    "Charms da Classe Beast (Origin) - Mística": {
+        "Table_1": [
+            {
+                "Nome do Charm": "Navalha Escondida",
+                "Tipo": "Mística",
+                "Energia": "4",
+                "Descrição": "(Altera Ataques) Aplica 2 Sangramento. Em alvos com >4 Sangramento, aplica 1 Ferida Grave. -10% Status. Conta como Debuff."
+            },
+            {
+                "Nome do Charm": "Máscara da Lua Louca",
+                "Tipo": "Mística",
+                "Energia": "4",
+                "Descrição": "(Altera Ataques) Perde 1 Fragmento. +30% ATQ."
+            }
+        ]
+    },
+    "Charms da Classe Beast (Origin) - Raro": {
+        "Table_1": [
+            {
+                "Nome do Charm": "Adaga Furiosa",
+                "Tipo": "Rara",
+                "Energia": "4",
+                "Descrição": "(Altera qualquer carta) Ganhe 1 Raiva por energia gasta."
+            },
+            {
+                "Nome do Charm": "Alicate Comum",
+                "Tipo": "Rara",
+                "Energia": "4",
+                "Descrição": "(Alterar qualquer carta que não seja de ataque) As cartas de ataque único deste Axie (com custo de pelo menos 1E) ganham +3 DANO base quando esta carta é jogada."
+            },
+            {
+                "Nome do Charm": "Fragmento de Pangolim",
+                "Tipo": "Rara",
+                "Energia": "4",
+                "Descrição": "(Altera ataques múltiplos e Em Área) +1 Escudo por Dano Distribuído (Teto: 30 de Escudo)."
+            },
+            {
+                "Nome do Charm": "Sorvete do Bing",
+                "Tipo": "Rara",
+                "Energia": "4",
+                "Descrição": "(Altera ataques) Cure Axies aliados em HP = 20% do ATQ."
+            }
+        ],
+        "Table_2": [
+            {
+                "Nome do Charm": "Sobrecarga",
+                "Tipo": "Rara",
+                "Energia": "4",
+                "Descrição": "(Altera Qualquer Carta) Consome 1 Raiva por Energia gasta, depois ganha 1 Fragmento por Raiva consumida"
+            },
+            {
+                "Nome do Charm": "Amuleto de Força de Besta I",
+                "Tipo": "Rara",
+                "Energia": "1",
+                "Descrição": "(Altera Ataques Únicos) ATQ +6."
+            },
+            {
+                "Nome do Charm": "Amuleto de Foco de Besta I",
+                "Tipo": "Rara",
+                "Energia": "1",
+                "Descrição": "(Altera Ataques Múltiplos e Em Área) ATQ +3."
+            }
+        ]
+    },
+    "Charms da Classe Bird (Origin) - Épico": {
+        "Table_1": [
+            {
+                "Nome do Charm": "Amuleto de Força de Pássaro II",
+                "Tipo": "Épica",
+                "ATQ": "+9",
+                "PV Máx": "-6",
+                "Descrição": "(Altera Ataques Únicos)"
+            },
+            {
+                "Nome do Charm": "Amuleto de Foco de Pássaro II",
+                "Tipo": "Épica",
+                "ATQ": "+6",
+                "PV Máx": "-6",
+                "Descrição": "(Altera Ataques Múltiplos e Em Área)"
+            }
+        ],
+        "Table_2": [
+            {
+                "Nome do Charm": "Bebida Energética de Pássaro S",
+                "Tipo": "Épica",
+                "Energia": "4",
+                "Descrição": "(Altera Qualquer Carta) Desintegrar. +3 Pena."
+            },
+            {
+                "Nome do Charm": "Leque de Penas",
+                "Tipo": "Épica",
+                "Energia": "4",
+                "Descrição": "(Altera Qualquer Carta) +1 Pena. +1 Pena para outros Axies Aliados se o Custo de Energia >=1."
+            }
+        ]
+    },
+    "Charms da Classe Bird (Origin) - Mística": {
+        "Table_1": [
+            {
+                "Nome do Charm": "Martelo de Flamingo",
+                "Tipo": "Mística",
+                "Energia": "4",
+                "Descrição": "(Altera Ataques) Aplica 2 Fraco, +2 Fraco em Ataques Únicos. +10% DANO em alvos com Fraco. Conta como Debuff."
+            },
+            {
+                "Nome do Charm": "Tempestade de Shuriken",
+                "Tipo": "Mística",
+                "Energia": "4",
+                "Descrição": "(Altera Ataques Únicos) Causa 15% DANO a um inimigo aleatório 4 vezes."
+            }
+        ]
+    },
+    "Charms da Classe Bird (Origin) - Raro": {
+        "Table_1": [
+            {
+                "Nome do Charm": "Brinco de Pena",
+                "Tipo": "Rara",
+                "Energia": "4",
+                "Descrição": "(Altera Qualquer Carta) Ganhe +1 Pena. +1 Pena bônus por energia gasta."
+            },
+            {
+                "Nome do Charm": "Amuleto de Força de Pássaro I",
+                "Tipo": "Rara",
+                "Energia": "1",
+                "Descrição": "(Altera Ataques Únicos) ATQ +5."
+            },
+            {
+                "Nome do Charm": "Amuleto de Foco de Pássaro I",
+                "Tipo": "Rara",
+                "Energia": "1",
+                "Descrição": "(Altera Ataques Múltiplos e Em Área) ATQ +4."
+            }
+        ]
+    },
+    "Charms da Classe Bug (Origin) - Épico": {
+        "Table_1": []
+    },
+    "Charms da Classe Bug (Origin) - Mística": {
+        "Table_1": [
+            {
+                "Nome do Charm": "Caracol Preguiçoso",
+                "Tipo": "Mística",
+                "Energia": "4",
+                "Descrição": "(Altera Ataques/Curas/Escudos) Inicial: Adicione 1-2 Gosma à Pilha de Descarte Inimiga; se não, adicione 1 Gosma. Conta como Maldição."
+            },
+            {
+                "Nome do Charm": "Canivete de Louva-a-deus",
+                "Tipo": "Mística",
+                "Energia": "4",
+                "Descrição": "(Altera Ataques) Descarte 1 Carta aleatória por Custo de Energia da Mão Inimiga ou Pilha de Compra, priorizando Mão Inimiga"
+            }
+        ]
+    },
+    "Charms da Classe Bug (Origin) - Raro": {
+        "Table_1": [
+            {
+                "Nome do Charm": "Apito Casulo",
+                "Tipo": "Rara",
+                "Energia": "4",
+                "Descrição": "(Altera Qualquer Carta) +1 Casulo por Energia gasta."
+            },
+            {
+                "Nome do Charm": "Vitrificar",
+                "Tipo": "Rara",
+                "Energia": "4",
+                "Descrição": "(Altera Ataque Único) Antes de ser jogado, +12 ATQ e concede 12 Escudo ao alvo por custo de energia"
+            },
+            {
+                "Nome do Charm": "Amuleto de Resistência de Inseto I",
+                "Tipo": "Rara",
+                "Energia": "1",
+                "Descrição": "(Altera Escudos) Escudo +8."
+            }
+        ]
+    },
+    "Charms Neutros (Origin) - Épico": {
+        "Table_1": [
+            {
+                "Nome do Charm": "Pacto de Sangue",
+                "Tipo": "Épica",
+                "Energia": "4",
+                "Descrição": "(Altera Ataques Únicos) Aplica 1 Marca da Morte, +2 Marca da Morte por Custo de Energia. Aplica 3 Sangramento a si mesmo. Conta como Debuff."
+            },
+            {
+                "Nome do Charm": "Selo do Sol",
+                "Tipo": "Épica",
+                "Energia": "4",
+                "Descrição": "(Altera Ataques Únicos) Emboscada: -10% ATQ."
+            }
+        ]
+    },
+    "Charms Neutros (Origin) - Mística": {
+        "Table_1": [
+            {
+                "Nome do Charm": "Selo do Foguete",
+                "Tipo": "Mística",
+                "Energia": "5",
+                "Descrição": "(Altera Ataques Únicos) Muda o alvo para qualquer Inimigo ou aliado. Causa -10% DANO."
+            },
+            {
+                "Nome do Charm": "Bebida Energética M",
+                "Tipo": "Mística",
+                "Energia": "5",
+                "Descrição": "(Altera Qualquer Carta) Banir. +25% de status."
+            }
+        ],
+        "Table_2": [
+            {
+                "Nome do Charm": "Feitiço Mortal",
+                "Tipo": "Mística",
+                "Energia": "4",
+                "Descrição": "(Altera Maldições) +1 Confuso à Pilha de Descarte do Inimigo. Se o inimigo tiver >= 6 Cartas Amaldiçoadas, remova 2 aleatoriamente e cause (10% do PV Máx do alvo) como DANO a todos os inimigos."
+            },
+            {
+                "Nome do Charm": "Ídolo de Madeira",
+                "Tipo": "Mística",
+                "Energia": "4",
+                "Descrição": "(Altera Cartas 2E) +10% Status. No começo do seu turno, se esta Carta estiver em sua Pilha de Compra ou Mão, Purificar: 1."
+            }
+        ],
+        "Table_3": [
+            {
+                "Nome do Charm": "Cupom de Desconto",
+                "Tipo": "Mística",
+                "Energia": "5",
+                "Descrição": "(Altera Ataques 2E) -50% ATQ, -1 Custo de Energia."
+            },
+            {
+                "Nome do Charm": "Selo do Despertar (L)",
+                "Tipo": "Mística",
+                "Energia": "4",
+                "Descrição": "(Altera Qualquer Carta) Nível de Carta +1 (Limite na Fase 2) PV deste Axie +5. Status da Carta +10%."
+            }
+        ]
+    },
+    "Charms Neutros (Origin) - Raro": {
+        "Table_1": [
+            {
+                "Nome do Charm": "Intervenção Alienígena",
+                "Tipo": "Rara",
+                "Energia": "3",
+                "Descrição": "(Altera Qualquer Carta) Inicial: Exílio."
+            },
+            {
+                "Nome do Charm": "Mamãe Ursa",
+                "Tipo": "Rara",
+                "Energia": "4",
+                "Descrição": "(Altera Curas/Escudos) Em Rodada Ímpar, +15% Cura/Escudo Valor. Em Rodada Par, causa DANO igual a 0,4x Status ao inimigo da frente."
+            },
+            {
+                "Nome do Charm": "Papai Urso",
+                "Tipo": "Rara",
+                "Energia": "4",
+                "Descrição": "(Altera Ataques) Em Rodada Ímpar, concede Escudo ao Axie de menor PV por 20% do DANO causado. Em Rodada Par, +20% DANO."
+            },
+            {
+                "Nome do Charm": "Abóbora Negra",
+                "Tipo": "Rara",
+                "Energia": "3",
+                "Descrição": "Aplica 1-2 Medo a um Axie inimigo aleatório por Energia gasta. Conta como Debuff."
+            }
+        ]
+    },
+    "Charms da Classe Plant (Origin) - Épico": {
+        "Table_1": []
+    },
+    "Charms da Classe Plant (Origin) - Mística": {
+        "Table_1": [
+            {
+                "Nome do Charm": "Sálvia Vermelha",
+                "Tipo": "Mística",
+                "Energia": "4",
+                "Descrição": "(Altera Curas e Escudos) +20% Status. Limpa: 3. Limpa: 2 bônus em Alvos Únicos."
+            },
+            {
+                "Nome do Charm": "Botão de Carvalho",
+                "Tipo": "Mística",
+                "Energia": "4",
+                "Descrição": "(Altera Ataques e Escudos) Escudos curam o alvo em 40% do Escudo concedido. Ataques curam este Axie em 40% do DANO não bloqueado."
+            }
+        ],
+        "Table_2": [
+            {
+                "Nome do Charm": "Selo do Despertar (Planta)",
+                "Tipo": "Mística",
+                "Energia": "4",
+                "Descrição": "(Altera Qualquer Carta) Nível de Carta +1 (Limite na Fase 2). +1 Folha para os Axies Aliados."
+            }
+        ]
+    },
+    "Charms da Classe Plant (Origin) - Raro": {
+        "Table_1": [
+            {
+                "Nome do Charm": "Cômodo Coxim de Mít",
+                "Tipo": "Rara",
+                "Energia": "4",
+                "Descrição": "(Altera Ataques Únicos) Inicial: Aplique 2 Dormir. Conta como Debuff."
+            },
+            {
+                "Nome do Charm": "Medalha do Soldado",
+                "Tipo": "Rara",
+                "Energia": "4",
+                "Descrição": "(Altera qualquer carta de cura ou escudo) Protege e cura outros axies aliados = 10% da quantidade de escudo/cura no alvo principal."
+            },
+            {
+                "Nome do Charm": "Folha de Primavera",
+                "Tipo": "Rara",
+                "Energia": "4",
+                "Descrição": "(Altera qualquer carta) Ganhe 1 Folha por Energia gasta."
+            },
+            {
+                "Nome do Charm": "Guarda Adormecido",
+                "Tipo": "Rara",
+                "Energia": "4",
+                "Descrição": "(Altera Qualquer Carta) Inicial: Aplica 2 Provocar e 2 Dormir a si mesmo. Conta como Debuff."
+            }
+        ],
+        "Table_2": []
+    },
+    "Charms da Classe Reptile (Origin) - Épico": {
+        "Table_1": [],
+        "Table_2": [
+            {
+                "Nome do Charm": "Lagarto Pegajoso",
+                "Tipo": "Épica",
+                "Energia": "4",
+                "Descrição": "(Altera Qualquer Carta) Reter. Se Retido, cura 5% PV Máx quando é jogada."
+            },
+            {
+                "Nome do Charm": "Máscara de Lagartixa",
+                "Tipo": "Épica",
+                "Energia": "4",
+                "Descrição": "(Altera Qualquer Carta) +2 Espinho. Se este Axie não tiver Provocar, aplica 2 Provocar a si mesmo."
+            }
+        ]
+    },
+    "Charms da Classe Reptile (Origin) - Raro": {
+        "Table_1": [
+            {
+                "Nome do Charm": "Veneno da Víbora",
+                "Tipo": "Rara",
+                "Energia": "3",
+                "Descrição": "(Altera Ataques) Aplica 2 Veneno, +1 Veneno em alvos com < 15 Veneno. Conta como Debuff."
+            },
+            {
+                "Nome do Charm": "Frasco de Veneno",
+                "Tipo": "Rara",
+                "Energia": "4",
+                "Descrição": "(Altera Qualquer Carta) Aplique 1 Veneno a 1 Axie inimigo aleatório. Bônus 1 Veneno por Energia gasta."
+            },
+            {
+                "Nome do Charm": "Borda Afiada",
+                "Tipo": "Rara",
+                "Energia": "4",
+                "Descrição": "(Altera Qualquer Carta) Aplica 2 Sangramento a um Axie inimigo aleatório. +2 Sangramento bônus por Custo de Energia. Conta como Debuff."
+            },
+            {
+                "Nome do Charm": "Amuleto de Vitalidade de Réptil I",
+                "Tipo": "Rara",
+                "Energia": "2",
+                "Descrição": "(Altera Qualquer Carta) PV Máx +12."
+            }
+        ]
+    },
+    "Runas da Classe Aquática (Origin) - Épica": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Modo Aquático",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Ao começar a batalha e uma vez por turno, quando este Axie ganha Bolha Explosiva, +2 Bolha. Ataques causam +125% DANO bônus de Bolha. +100% bônus em Ataques Múltiplos e Em Área."
+            },
+            {
+                "Nome da Runa": "Dentes sem Ponta",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Ataques concedem 2.5% do DANO Total como Fragmento (Limite: 3 Fragmento). Se este Axie não tiver Fraco, aplica 1 Fraco a si mesmo e 2 Vulnerável ao Axie inimigo com menor PV."
+            },
+            {
+                "Nome da Runa": "Bolha Gigante",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Antes da batalha começar, adiciona 1 Bolha Gigante ao seu Baralho. Ao morrer, concede 50% dos acúmulos de Bolha Explosiva a outros Axies aliados. Por cada Bolha Explosiva ativado por este Axie, +1 Bolha a um Axie aliado aleatório."
+            }
+        ]
+    },
+    "Runas da Classe Aquática (Origin) - Mística": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Guerreiro Corajoso",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Ao começar a batalha e seu turno, +1 Bolha. Em alvos com PV >= 40%, Ataques causam +30% DANO e +1 Bolha; se não, causa +15% DANO."
+            },
+            {
+                "Nome da Runa": "Armadura de Cálcio",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Antes da batalha começar e quando seu turno começa desde a Rodada 2, ganha 8% do PV Máx como Escudo. Quando acaba o turno inimigo, +1 Fragmento para cada 45 Escudo perdidos nesse turno (limite: 2 por turno) e se este Axie tem escudo, +2 Provocar."
+            },
+            {
+                "Nome da Runa": "Angústia do Balacu",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Quando o Inimigo compra uma Carta Amaldiçoada, recebe 0-1 Má Sorte, bônus por Azar. Ao acabar cada turno, se teu Inimigo tem Má Sorte, os Axies Inimigos recebem (13 + 1x Má Sorte) como DANO Puro (Limite: 25 DANO)."
+            }
+        ]
+    },
+    "Runas da Classe Aquática (Origin) - Rara": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Atirador de Bolhas",
+                "Tipo": "Rara",
+                "Descrição": "Até a Rodada 4, quando seu turno começar, +1 Bolha. Ataques Múltiplos e Em Área causam +100% DANO bônus de Bolha."
+            },
+            {
+                "Nome da Runa": "Escudo de Bolha de Noir",
+                "Tipo": "Rara",
+                "Descrição": "Quando seu turno terminar, +10 de escudo, bônus de 6 de escudo por Bolha neste Axie."
+            },
+            {
+                "Nome da Runa": "Torpedo de Rouge",
+                "Tipo": "Rara",
+                "Descrição": "Antes da batalha começar, +1 Torpedo no seu Baralho."
+            },
+            {
+                "Nome da Runa": "Modo Aquático",
+                "Tipo": "Rara",
+                "Descrição": "Quando a batalha começa, ganha 2 Bolha. Ataques causam +50% DANO bônus de Bolha. +50% bônus em Ataques Múltiplos e Em Área."
+            }
+        ]
+    },
+    "Runas da Classe Beast (Origin) - Épica": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Modo Besta",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Quando a batalha começa, +1 Raiva. Ao começar teu turno, +1 Raiva. Ataques causam +15% DANO, +5% DANO no Modo Fúria."
+            },
+            {
+                "Nome da Runa": "Predador Dominante",
+                "Tipo": "Épica",
+                "Descrição": "Em alvos com Sangramento, Ataques causam +20% DANO e curam 20 PV. Em alvos sem Sangramento, Ataques aplicam 3 Sangramento, 2 Sangramento bônus com Ataques Únicos."
+            },
+            {
+                "Nome da Runa": "Juba Gloriosa",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Ataques (Custo de Energia >0) consome 1 Fragmento. Quando este Axie ataca, suas Cartas de Ataque ganham +8% ATQ Base por Energia Gasta. Ao acabar teu turno, move 1 carta de Ataque aleatória da Pilha de Descarte/Compra para o topo da Pilha de Compra."
+            }
+        ]
+    },
+    "Runas da Classe Beast (Origin) - Mística": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Caçador Imprudente",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Ataques causam +15% DANO, +15% bônus em alvo com Sangramento. Por golpe, ataques aplicam 4 Sangramento aos alvos. Em alvos com >3 Sangramento, aplica 1 Ferida Grave."
+            },
+            {
+                "Nome da Runa": "Escama de Pangolim",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Recebe -25% em DANO não bloqueado de Ataques. Ao começar seu turno, cura 25% do DANO não bloqueado de Ataques no último turno."
+            },
+            {
+                "Nome da Runa": "Herói Inspirador",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Antes da batalha Começar e em Rodadas Pares, +1 Raiva, +1 Raiva aos Axies aliados. Este Axie ganha +8% Status da Carta quando qualquer aliado ganha Fúria."
+            }
+        ]
+    },
+    "Runas da Classe Beast (Origin) - Rara": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Raposa Furiosa",
+                "Tipo": "Rara",
+                "Descrição": "Até a Rodada 4, quando seu turno começar, +1 Raiva. Dê +10% de DANO em modo fúria."
+            },
+            {
+                "Nome da Runa": "Caçador de Nozes",
+                "Tipo": "Rara",
+                "Descrição": "Até Round 4, quando seu turno terminar, coloque 1 Carta Quebra-Nozes da Pilha de Descarte no topo da Pilha de Compras. As cartas Quebra-Nozes deste Axie dão +10% de DANO."
+            },
+            {
+                "Nome da Runa": "Escudo Destruidor de Xla",
+                "Tipo": "Rara",
+                "Descrição": "(Altera Escudos) Escudo +10. Ao acabar seu turno, se este Axie tiver < 50% PV, ganha 1 Escudo."
+            },
+            {
+                "Nome da Runa": "Ventos frios do Bing",
+                "Tipo": "Rara",
+                "Descrição": "Em aliados com <4 Raiva, a cura deste Axie também concede 1 Raiva."
+            }
+        ]
+    },
+    "Runas da Classe Bird (Origin) - Épica": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Modo Pássaro",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Ao começar a batalha, +2 Pena aos Axies aliados. Ao começar teu turno, +1 Pena. Ataques causam +20% DANO."
+            },
+            {
+                "Nome da Runa": "Ovo Frágil",
+                "Tipo": "Épica",
+                "Descrição": "Ao começar seu turno, aplica 4 Fraco num Axie inimigo sem Fraco. Em Inimigos com Fraco, Ataques causam 3 DANO Puro por Carta de Ataque do alvo (Limite: 12 DANO), bônus 3 DANO Puro em Ataques Únicos (Limite: 24 DANO)."
+            },
+            {
+                "Nome da Runa": "Portões da União",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Ataques causam +8 DANO por Invocação, bônus de +8 DANO em Ataques Únicos, Axies aliados recebem metade deste efeito. Invocações deste Axie ganham +10 PV."
+            }
+        ]
+    },
+    "Runas da Classe Bird (Origin) - Mística": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Guru da Energia",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Ao começar seu turno, ganha 1 Fragmento, +1 se Pena > 4. Ataques causam 7 DANO por Energia Gasta aos Axies inimigos, bônus de 4 DANO para cada um de seus níveis de Explosão."
+            },
+            {
+                "Nome da Runa": "Tática do Corvo",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Ao começar seu turno, +1 Pena, +1 Pena aos Axies aliados. Ao ganhar Pluma de outros efeitos, +1 Pluma. Ataques causam +20% DANO, bônus de +10% aos 10 Pena."
+            },
+            {
+                "Nome da Runa": "Pena Sagrada",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Once per battle, if this Axie would die, it survives with 1 HP, then Heals 6% of Max HP per Feather, Cleanse: 1 per Feather and deal (20 + 4x Feather) as DMG to enemies."
+            }
+        ],
+        "Table_2": [
+            {
+                "Nome da Runa": "Pena Descendente",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Ao começar seu turno, +2 Pena. Uma vez por turno, aos 10 acúmulos, consuma 4 Pena, +2 Adaga de Penas à Mão. Adaga de Penas causa +10 DANO."
+            }
+        ]
+    },
+    "Runas da Classe Bird (Origin) - Rara": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Modo Pássaro",
+                "Tipo": "Rara",
+                "Descrição": "Ao começar a batalha, +1 Pena aos Axies aliados. Ataques causam +10% DANO."
+            },
+            {
+                "Nome da Runa": "Adaga da Momo",
+                "Tipo": "Rara",
+                "Descrição": "Até a Rodada 4, quando seu turno começar, adicione 1 Adaga de Pena à Mão. Adagas de Pena são Exiladas ao usar e causam +2 DMG."
+            }
+        ]
+    },
+    "Runas da Classe Bug (Origin) - Épica": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Modo Inseto",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Quando a batalha começa, +3 Casulo. Ao começar seu turno, +1 Casulo. +1 Escudo ganho de Casulo. Ganha +20% Escudo de todas as fontes."
+            },
+            {
+                "Nome da Runa": "Construtor de Cofre",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Quando seu turno começa, ganha 2 Escudo por Carta na Pilha de Compra. Ao acabar seu turno, ganha 4 Escudo por Carta na Pilha de Descarte. Ao acabar o turno Inimigo, se este Axie tiver >30 escudo, adiciona 1 Gosma à Pilha de Descarte inimiga."
+            },
+            {
+                "Nome da Runa": "Besouro de Sangue",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Duas vezes por turno, o primeiro Ataque deste Axie causa DANO Puro. Ataques de DANO Puro deste Axie causam +15% DANO e em alvos sem Alerta, Rouba 8 PV, bônus de 8 PV em ataque único."
+            }
+        ]
+    },
+    "Runas da Classe Bug (Origin) - Mística": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Sanguessuga Gananciosa",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Antes de atacar ou roubar, este Axie remove Alerta do alvo. Quando os Axies aliados roubam com uma Carta de alvos sem Alerta, Rouba (15% do Status da Carta) como PV, 35% bônus para este Axie."
+            },
+            {
+                "Nome da Runa": "Sanguessuga",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Ao começar seu turno, Rouba (10 a 30) PV do Axie inimigo mais próximo e +2 Casulo. Se você Rouba >= 15 PV, +1 Casulo aos outros aliados. Se você Rouba >= 20 PV, +1 Ardiloso"
+            },
+            {
+                "Nome da Runa": "Lutador Resistente",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Ataques Únicos que custam energia consomem 25% do Escudo atual, +2% por Casulo e causam 3.25 vezes esse valor como DANO bônus."
+            },
+            {
+                "Nome da Runa": "Criador de Destino",
+                "Tipo": "Mística",
+                "Descrição": "Solo. O primeiro Ataque deste Axie em cada turno descarta 1 Carta Não-Maldita aleatória por Custo de Energia da Mão Inimiga ou Pilha de Compra, priorizando a Mão. Cartas Inimigas descartadas por aliados causam (10+60% Status Base) como DANO ao dono (Limite: 40 DANO)"
+            }
+        ]
+    },
+    "Runas da Classe Dawn (Origin) - Épica": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Anel Divino",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Ao começar seu turno, na Rodada 1 e 4, +1 Oração+ na sua Mão. Cartas deste Axie ganham +10% Valor. +5% por Cartas Amaldiçoadas no seu Baralho (Limite: 2 Cartas Amaldiçoadas)."
+            },
+            {
+                "Nome da Runa": "Proteção Arcana",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Receba -10% DANO de todas as fontes. -5% bônus por Buff ou Segredo neste Axie. (Limite: -15% DANO bônus). Até a Rodada 3, uma vez por turno, ao ser golpeado por um Inimigo, compra 1 carta."
+            },
+            {
+                "Nome da Runa": "Guardião Diminuto",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Invocações Aliadas ganham 10 Escudo ao serem invocadas e 1 Guarda no próximo turno. Ao acabar seu turno, em Rodada Par, Invocações deste Axie ganham 10 Escudo."
+            }
+        ]
+    },
+    "Runas da Classe Dawn (Origin) - Mística": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Rejuvenescer",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Curas e Escudos deste Axie ganham +20% Status e aplicam 3 Limpador. Aplica 2 Limpador bônus em Alvos Únicos. Em alvo aliado com debuff, Curas e Escudos ganham +20% Valor."
+            },
+            {
+                "Nome da Runa": "Ecos do Céu",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Após atacar, até o fim do seu turno, Ataques de seus Axies aliados causam +25% DANO. Duas vezes por turno, após jogar uma Habilidade ou Segredo, outros aliados ganham 25 Escudo."
+            },
+            {
+                "Nome da Runa": "Força da Cura",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Invocações aliadas recebem -25% DANO de todas as Fontes. Ao começar seu turno, para cada aliado vivo, causa 5 DANO aos inimigos e para cada aliado e inimigo vivo, cura aliados por 4 PV."
+            }
+        ]
+    },
+    "Runas da Classe Dawn (Origin) - Rara": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Anel Divino",
+                "Tipo": "Rara",
+                "Descrição": "Antes da batalha começar, +1 Oração no seu Baralho. Cartas deste Axie ganham +10% Valor."
+            },
+            {
+                "Nome da Runa": "Anel Divino +",
+                "Tipo": "Rara",
+                "Descrição": "Antes da batalha começar, +1 Oração no seu Baralho. Cartas deste Axie ganham +10% Valor. +5% enquanto haja Cartas Amaldiçoadas no seu Baralho."
+            },
+            {
+                "Nome da Runa": "Anel Divino ++",
+                "Tipo": "Rara",
+                "Descrição": "Solo. Antes da batalha começar, +1 Oração na sua Mão. Cartas deste Axie ganham +10% Valor. +5% enquanto haja Cartas Amaldiçoadas no seu Baralho."
+            },
+            {
+                "Nome da Runa": "Proteção Arcana",
+                "Tipo": "Rara",
+                "Descrição": "Receba -5% DANO de todas as fontes. -5% bônus por Buff ou Segredo neste Axie. (Limite: -10% DANO bônus)"
+            }
+        ]
+    },
+    "Runas da Classe Dusk (Origin) - Épica": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Ladrão do Luar",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Ao começar seu turno, se você tiver menos Fragmento ou Nível de Explosão que seu Inimigo, Rouba 1 Fragmento. Ao acabar seu turno, Cura (10 + 4x seu Fragmento) como PV."
+            },
+            {
+                "Nome da Runa": "Chama Negra",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Ao começar seu turno, na Rodada 1 e 4, +1 Expurgo+ na sua Mão. Cartas deste Axie ganham +15% Valor."
+            },
+            {
+                "Nome da Runa": "Ritual Amaldiçoado",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Ao acabar seu turno, por Carta Amaldiçoada no Baralho Inimigo, cura 3 PV e o Axie inimigo mais próximo perde 5 PV. (Limite: 6 Cartas Amaldiçoadas). Cartas Amaldiçoadas têm +20% Status."
+            },
+            {
+                "Nome da Runa": "Maldição",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Em alvos com Debuffs, Ataques causam +20% DANO. Em atacantes com Debuffs, recebe -20% DANO. Ataques Únicos (custo >0E) aplicam 3 contador de 1 debuff aleatório."
+            }
+        ]
+    },
+    "Runas da Classe Dusk (Origin) - Mística": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Vigia Perverso",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Quando um aliado joga uma Carta que aplica Maldição, Axies aliados ganham 15 Escudo, bônus de 8 Escudo por Carta Amaldiçoada adicionada ao Baralho Inimigo."
+            },
+            {
+                "Nome da Runa": "Portador da Praga",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Ao acabar seu turno, ganha 6 contadores de 1 debuff aleatório. Ao ser atacado, recebe -3% DANO por contador de debuff neste Axie (Limite: -30% DANO) e cria uma Onda de Praga e uma vez por turno inimigo, aplica 3 contadores de 1 debuff aleatório aos Axies inimigos."
+            },
+            {
+                "Nome da Runa": "Ladrão do Luar",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Ao começar seu turno, se você tiver menos Fragmento ou Nível de Explosão que seu Inimigo, Rouba 1 Fragmento. Ao acabar seu turno, Cura (20 + 4x seu Fragmento) como PV. Quando os Axies inimigos jogam uma Carta, este Axie Rouba 5 PV do mesmo."
+            }
+        ]
+    },
+    "Runas da Classe Dusk (Origin) - Rara": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Hora das Bruxas",
+                "Tipo": "Rara",
+                "Descrição": "Na primeira vez que o Inimigo Embaralhar seu baralho, recebe 3-6 Má Sorte e adiciona 1-2 Azar à Pilha de Compra."
+            },
+            {
+                "Nome da Runa": "Chama Negra",
+                "Tipo": "Rara",
+                "Descrição": "Antes da batalha começar, +1 Expurgo no seu Baralho. Cartas deste Axie ganham +10% Valor."
+            },
+            {
+                "Nome da Runa": "Chama Negra +",
+                "Tipo": "Rara",
+                "Descrição": "Antes da batalha começar, +1 Expurgo no seu Baralho. Cartas deste Axie ganham +15% Valor."
+            },
+            {
+                "Nome da Runa": "Chama Negra ++",
+                "Tipo": "Rara",
+                "Descrição": "Antes da batalha começar, +1 Expurgo na sua Mão. Cartas deste Axie ganham +15% Valor."
+            }
+        ]
+    },
+    "Runas da Classe Mech (Origin) - Épica": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Anulador de Armadilha",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Ao começar seu turno, na Rodada 1 e 4, +1 Scanner+ na sua Mão. Cartas deste Axie ganham +10% Valor, bônus de 5% se o Scanner+ deste Axie falha em Detectar um Segredo (Limite: 10%)."
+            },
+            {
+                "Nome da Runa": "Pele de Aço",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Até a Rodada 3, uma vez por turno, quando outros aliados é atacado, este Axie ganha 1 Provocar. Recebe -15 DANO de Ataques."
+            },
+            {
+                "Nome da Runa": "Armadura Elétrica",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Reflete 20% DANO recebido pelos atacantes. Tendo Escudo, recebe -20% DANO de Ataques. Uma vez por turno, quando é golpeado, aplica 3 Frágil ao Atacante e outro Axie inimigo aleatório."
+            }
+        ]
+    },
+    "Runas da Classe Mech (Origin) - Mística": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Baluarte Sólido",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Antes da batalha começar, +3 Baluarte. Ao acabar seu turno, 60% do DANO dos Ataques deste Axie neste turno se torna Escudo para si mesmo (Limite: 160 Escudo), outros aliados recebem 50% do escudo."
+            },
+            {
+                "Nome da Runa": "Programa Adaptativo",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Recebe +15% Escudo das Cartas. Por cada 75 Escudo recebidos cumulativamente de Cartas, ganha 1 Fragmento. Quando você ganha um Fragmento, aliados ganham 5 escudo."
+            },
+            {
+                "Nome da Runa": "Lente da Verdade",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Ataques Detecta: 1. Em alvos sem Segredos, causa +25% DANO e aplica 3 Frágil. Em alvos com Frágil, ataques causam DANO Puro."
+            }
+        ]
+    },
+    "Runas da Classe Mech (Origin) - Rara": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Anulador de Armadilha",
+                "Tipo": "Rara",
+                "Descrição": "Antes da batalha começar, +1 Scanner no seu Baralho. Cartas deste Axie ganham +10% Valor."
+            },
+            {
+                "Nome da Runa": "Anulador de Armadilha +",
+                "Tipo": "Rara",
+                "Descrição": "Antes da batalha começar, +1 Scanner no seu Baralho. Cartas deste Axie ganham +10% Valor, bônus de 5% se o Scanner deste Axie falha em Detectar um Segredo (Limite: 10%)."
+            },
+            {
+                "Nome da Runa": "Anulador de Armadilha ++",
+                "Tipo": "Rara",
+                "Descrição": "Solo. Antes da batalha começar, +1 Scanner na sua Mão. Cartas deste Axie ganham +10% Valor, bônus de 5% se o Scanner deste Axie falha em Detectar um Segredo (Limite: 10%)."
+            },
+            {
+                "Nome da Runa": "Pele de Aço",
+                "Tipo": "Rara",
+                "Descrição": "Recebe -10 DANO de Ataques."
+            }
+        ]
+    },
+    "Runas Neutras (Origin) - Épica": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Poder Puro",
+                "Tipo": "Épica",
+                "Descrição": "Ataques de outros Axies aliados ganham +15% Valor."
+            },
+            {
+                "Nome da Runa": "Habilidade Pura",
+                "Tipo": "Épica",
+                "Descrição": "Curas e Escudos de outros Axies aliados ganham +15% Valor."
+            },
+            {
+                "Nome da Runa": "Pedra Filosofal",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Quando começa a batalha, +1 Fragmento e as Cartas deste Axie ganham +12% Status, bônus de +12% para cada um de seus níveis de Explosão."
+            }
+        ]
+    },
+    "Runas Neutras (Origin) - Mística": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Sorte Pura",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Ao começar seu turno, se a Mão e Pilha de Compra têm > 1 Carta Maldita, compra 1-2 Carta; se não, Cartas de Axies aliados ganham +20% Valor até o turno acabar."
+            },
+            {
+                "Nome da Runa": "Fragmento de Energia",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Ao começar seu turno, na Rodada 1 e 4, ganha 1 Fragmento por Classe única de Axie em seu time. Criar uma Explosão causa 35 DANO a todos os inimigos e cura Axies aliados por 35 PV."
+            },
+            {
+                "Nome da Runa": "Último Desejo",
+                "Tipo": "Mística",
+                "Descrição": "Solo. PV Máx +50. Ao morrer qualquer Axie aliado, coloque Escudo em outros aliados e causa DANO a inimigos por 5% do PV Máx desse Axie, bônus de 5% para este Axie."
+            }
+        ]
+    },
+    "Runas Neutras (Origin) - Rara": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Toque de Gosma",
+                "Tipo": "Rara",
+                "Descrição": "Solo. Até a Rodada 4, uma vez por turno, ao ser atacado, recebe -10% DANO e adicione 1 Gosma à Pilha de Descarte Inimiga."
+            },
+            {
+                "Nome da Runa": "Experimento Instável",
+                "Tipo": "Rara",
+                "Descrição": "Ao começar seu turno, em Rodada Ímpar, aplica 2 Fraco a si mesmo, em Rodada Par, o Ataque deste Axie causa +25% DANO."
+            },
+            {
+                "Nome da Runa": "Canalha Despreocupado",
+                "Tipo": "Rara",
+                "Descrição": "Ao ser alvo dum Axie inimigo, Rouba 3 PV dele, depois Cura e Escudo ganham +3% Valor até o fim do próximo turno (Limite: +15%)."
+            },
+            {
+                "Nome da Runa": "Máscara Assustadora",
+                "Tipo": "Rara",
+                "Descrição": "Até a Rodada 5, uma vez por turno, quando o Inimigo comprar uma Confuso, causa 15 DANO e aplica 2-4 Medo a um Axie inimigo aleatório"
+            }
+        ]
+    },
+    "Runas da Classe Plant (Origin) - Épica": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Ascensão & Ruína",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Ao começar seu turno em Rodadas Ímpares, adiciona 1 Suspiro da Floresta à Mão. Uma vez por turno, quando um aliado tem Limpar, adiciona 1 Fúria da Floresta à Mão."
+            },
+            {
+                "Nome da Runa": "Modo Planta",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Quando a batalha começa, +2 Folha. Ao começar seu turno, +1 Folha. Receba -10% DANO de Ataques, -5% bônus se este Axie tiver Folha. Uma vez por turno, ao ser golpeado, +3 Limpador."
+            },
+            {
+                "Nome da Runa": "Folha do Destino",
+                "Tipo": "Épica",
+                "Descrição": "Solo. PV Máx +10%. Quando Invocações deste Axie morrem, causa (10% do PV Máx. deste Axie) como DANO ao Axie inimigo mais próximo. Ao morrer, invoca 2 Clover."
+            },
+            {
+                "Nome da Runa": "Aroma da Floresta",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Até a Rodada 4, uma vez por turno, quando este Axie é atacado, aplica 3 Dormir ao atacante. Ao acabar o turno, Inimigos com Dormir perdem (5 + 5x turnos de Dormir) como PV (Limite: 25 Perda de PV)."
+            }
+        ]
+    },
+    "Runas da Classe Plant (Origin) - Mística": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Pesadelo da Selva",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Ao ser atacado, recebe -20% DANO e (uma vez por turno), aplica 2 Dormir ao atacante. Em inimigos com Dormir, Ataques Únicos e Cura Reversa consomem todos os Dormir e Rouba 5 PV por Dormir consumido e aplica 2 Dormir."
+            },
+            {
+                "Nome da Runa": "Ascensão & Ruína",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Antes da batalha começar e quando seu turno começa nas Rodadas Pares, adiciona 1 Suspiro da Floresta+ à Mão. Uma vez por turno, quando um aliado tem Limpar, adiciona 1 Fúria da Floresta+ à Mão."
+            },
+            {
+                "Nome da Runa": "Manto de Folha",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Antes da batalha começar, +2 Folha. Ao ser golpeado, se este Axie tiver Folha, recebe -30% DANO, -1 Folha para outros aliados; se não, +3 Folha."
+            },
+            {
+                "Nome da Runa": "Folha Milagrosa",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Ao começar seu turno, +3 Folha. Ataques causam +1.5 DANO por Folha. Ataques causam +5% DANO por Folha (Limite: 30%)."
+            }
+        ]
+    },
+    "Runas da Classe Plant (Origin) - Rara": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Doce Sonho de Mít",
+                "Tipo": "Rara",
+                "Descrição": "PV Máx +8%. Uma vez por turno, no seu turno, quando Dormir é aplicado num Inimigo, aplica 2 Dormir a esse Inimigo."
+            },
+            {
+                "Nome da Runa": "O Protetor",
+                "Tipo": "Rara",
+                "Descrição": "Receba -10% de DANO de ataques se este Axie estiver na posição mais a frente."
+            },
+            {
+                "Nome da Runa": "Flor de Primavera",
+                "Tipo": "Rara",
+                "Descrição": "Até a Rodada 4, quando seu turno começar, +1 Folha. +15% de Status de Cura enquanto este Axie tiver Folha."
+            },
+            {
+                "Nome da Runa": "Sábio da Floresta",
+                "Tipo": "Rara",
+                "Descrição": "Até a Rodada 4, uma vez por batalha, ganha 1 energia depois de jogar uma carta de invocação deste Axie. Invocações deste Axie ganham +8 Escudo ao serem invocadas."
+            }
+        ]
+    },
+    "Runas da Classe Reptile (Origin) - Épica": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Modo Réptil",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Ao começar a batalha, +3 Espinho. Ao começar seu turno, +1 Espinho e cura 6% PV Máx, +0,15% para cada Espinhos Sangrentos (Limite: 4% PV Máx.)"
+            },
+            {
+                "Nome da Runa": "Toque Venenoso",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Ao ser golpeado, aplica 2 Veneno ao atacante e a um Axie inimigo aleatoriamente. Recebe -2% DANO por Veneno no atacante. (Limite: -20% DANO)."
+            },
+            {
+                "Nome da Runa": "Trauma de Guerra",
+                "Tipo": "Épica",
+                "Descrição": "Solo. Quando Segredos aliados são ativados, causa 10 DANO Puro aos Axies inimigos e Cura este Axie e o Axie aliado com menor PV por 10 PV."
+            }
+        ]
+    },
+    "Runas da Classe Reptile (Origin) - Mística": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Mestre do Veneno",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Antes da batalha começar, +1 Explosão Venenosa+ ao seu Baralho. Ao começar seu turno, aplica 2 Veneno num Inimigo aleatório 4 vezes."
+            },
+            {
+                "Nome da Runa": "Protetor do Deserto",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Ao começar o turno inimigo, ganha 1 Guarda e 45 Escudo. Ao ativar Guarda, +1 Vingança e causa 1 DANO ao Axie Inimigo mais próximo para cada 2 Escudo perdido."
+            },
+            {
+                "Nome da Runa": "Armadura Pré-Histórica",
+                "Tipo": "Mística",
+                "Descrição": "Solo. Ao começar seu turno, +3 Espinho. Espinho neste Axie concede +3 Espinhos Sangrentos. Ao ser golpeado, cura 12 PV, +1 cura para cada 5 Espinhos Sangrentos (Limite: 20 Cura)."
+            }
+        ]
+    },
+    "Runas da Classe Reptile (Origin) - Rara": {
+        "Table_1": [
+            {
+                "Nome da Runa": "Veneno do Venoki",
+                "Tipo": "Rara",
+                "Descrição": "Ao ser golpeado, aplica 1 Veneno ao atacante, bônus 1 Veneno por Ataque Único. Recebe -0,5% DANO por Veneno no atacante. (Limite: -15% DANO)."
+            },
+            {
+                "Nome da Runa": "Buscador de Atenção",
+                "Tipo": "Rara",
+                "Descrição": "Até a Rodada 3, uma vez por turno, quando outro aliado é atacado, este Axie ganha 1 Provocar. Este Axie recebe -10% DANO tendo Provocar."
+            },
+            {
+                "Nome da Runa": "Modo Réptil",
+                "Tipo": "Rara",
+                "Descrição": "Quando a batalha começa, +2 Espinho. Ao acabar seu turno, cura 5% PV Máx."
+            },
+            {
+                "Nome da Runa": "Modo Réptil +",
+                "Tipo": "Rara",
+                "Descrição": "Quando a batalha começa, +3 Espinho. Ao acabar seu turno, cura 6% PV Máx."
+            }
+        ]
+    },
+    "Maldições (Origin)": {
+        "Table_1": [
+            {
+                "Nome da Maldição": "Blackmail",
+                "Descrição": "Retorno. Aplica um Provocar à sua unidade mais distante. Exila."
+            },
+            {
+                "Nome da Maldição": "Burn",
+                "Descrição": "Não jogável. Desvanece. Quando seu turno termina, aliados perdem (100% da Cura desta Carta) como PV. A Cura desta Carta é igual a 50% da Cura de Hot Butt."
+            },
+            {
+                "Nome da Maldição": "Confused",
+                "Descrição": "Não jogável. Desvanece. Quando seu turno termina, um aliado aleatório recebe 5 de dano."
+            },
+            {
+                "Nome da Maldição": "Goo",
+                "Descrição": "Retém. Ao comprar, perde 1 Fragmento. Ao jogar, se tiver Fragmentos, perde 1 Fragmento e Exila; caso contrário, descarta."
+            },
+            {
+                "Nome da Maldição": "Jinx",
+                "Descrição": "Não jogável. Desvanece. Quando seu turno termina, causa (15 + 5x Má Sorte) como Dano Puro à sua unidade mais distante, então recebe 1 a 3 Má Sorte."
+            },
+            {
+                "Nome da Maldição": "Scorch",
+                "Descrição": "Não jogável. Ao final do seu turno, todos os aliados recebem 8 de dano."
+            },
+            {
+                "Nome da Maldição": "Vold",
+                "Descrição": "Não jogável. Desvanece. Ao comprar, perde 2 Fragmento de Energia."
+            }
+        ]
+    },
+    "Mecânicas de Vingança (Origin)": {
+        "Visão Geral:": [],
+        "Efeitos:": [],
+        "Ativação:": [],
+        "Itens do Caído:": [
+            {
+                "Nome do Item": "Luvas do Caído",
+                "Descrição": "Reganve. Alvo qualquer aliado. Banimento Etéreo. 15 Escudo, custo da carta 0."
+            },
+            {
+                "Nome do Item": "Espada Curta do Caído",
+                "Descrição": "Reganve. Causa 15 de dano. Banimento Etéreo. 15 de dano, custo da carta 0."
+            },
+            {
+                "Nome do Item": "Espada Longa do Caído",
+                "Descrição": "Reganve. Causa 50 de dano. Banimento Etéreo. 50 de dano, custo da carta 1."
+            },
+            {
+                "Nome do Item": "Escudo do Caído",
+                "Descrição": "Reganve. Alvo qualquer aliado. Banimento Etéreo. 50 Escudo, custo da carta 1."
+            },
+            {
+                "Nome do Item": "Machado do Caído",
+                "Descrição": "Reganve. Causa 100 de dano. Banimento Etéreo. 100 de dano, custo da carta 2."
+            },
+            {
+                "Nome do Item": "Capacete do Caído",
+                "Descrição": "Reganve. Alvo qualquer aliado. Banimento Etéreo. 100 Escudo, custo da carta 2."
+            },
+            {
+                "Nome do Item": "Tetsubishi do Caído",
+                "Descrição": "Reganve. Alvo qualquer aliado. Reflete 5 de dano do próximo ataque no aliado alvo. Banimento Etéreo. 10 Escudo, custo da carta 0."
+            },
+            {
+                "Nome do Item": "Faca Escondida do Caído",
+                "Descrição": "Reganve. Alvo qualquer aliado. Reflete 20 de dano do próximo ataque no aliado alvo. Banimento Etéreo. 30 Escudo, custo da carta 1."
+            },
+            {
+                "Nome do Item": "Bomba Escondida do Caído",
+                "Descrição": "Reganve. Alvo qualquer aliado. Reflete 20 de dano do próximo ataque no aliado alvo. Banimento Etéreo. 60 Escudo, custo da carta 2."
+            },
+            {
+                "Nome do Item": "Alma do Caído",
+                "Descrição": "Reganve. Alvo qualquer aliado. O primeiro Ataque do alvo em cada turno causa 13 de dano bônus por Axie aliado morto. Banimento Etéreo."
+            }
+        ]
+    },
+    "Efeitos de Status (Origin)": {
+        "Buffs": [
+            {
+                "Nome do Buff": "Alert",
+                "Descrição": "Roubar desta unidade não concede Astúcia."
+            },
+            {
+                "Nome do Buff": "Bloodstorm",
+                "Descrição": "-1 Sangramento do alvo, então todos os Axies Inimigos perdem 12 PV."
+            },
+            {
+                "Nome do Buff": "Bubble Bomb",
+                "Descrição": "Não pode ser Dispelido. Ataques em Área e Multihit causam +5 DANO. Ataques Únicos fazem a Bomba de Bolha explodir para causar 32 DANO por pilha a todos os inimigos."
+            },
+            {
+                "Nome do Buff": "Cocoon",
+                "Descrição": "Quando o turno do seu oponente começa, esta Unidade ganha 4 Escudo por pilha. Quando esse turno termina, se a Unidade ainda tiver Escudo, Retém 5% desse Escudo por pilha. Pilha máxima: 10."
+            },
+            {
+                "Nome do Buff": "Eggshell",
+                "Descrição": "Quando seu turno termina, este Axie e invocações ganham Escudo igual ao ATQ de Eggshell."
+            },
+            {
+                "Nome do Buff": "Fury",
+                "Descrição": "+1 Energia. Compra 1 Carta. Causa +50% DANO, não pode conceder Fragmento de Energia e não pode ganhar Raiva até o turno terminar."
+            },
+            {
+                "Nome do Buff": "Healing Boost",
+                "Descrição": "Aumenta os efeitos de cartas de cura para esta unidade em 1 PV por pilha."
+            },
+            {
+                "Nome do Buff": "Meditate",
+                "Descrição": "Medita por 2 turnos. Se atacado enquanto Meditando, acorda e ganha 3 Raiva. Se não, Limpa 1 debuff e ganha 1 Energia após o efeito terminar."
+            },
+            {
+                "Nome do Buff": "Rage",
+                "Descrição": "Ataques causam +1 DANO por pilha. Recebe +1 DANO por pilha quando Atacado. No seu turno, em 10 pilhas, consome toda a Raiva para entrar no modo Fúria. Pilha Máxima: 10."
+            },
+            {
+                "Nome do Buff": "Snake Jar",
+                "Descrição": "Se esta unidade não morrer em 6 turnos, causa DANO a todos os Inimigos = 1.5x Escudo Base de Snake Jar. Não pode ser dispelido."
+            },
+            {
+                "Nome do Buff": "Stealth",
+                "Descrição": "O alvo não pode ser alvo diretamente. Se usar uma carta, remove Furtividade."
+            },
+            {
+                "Nome do Buff": "Spike",
+                "Descrição": "Ao ser atingido, consome 1 pilha para refletir 5 DANO e ganhar 5 Espinhos Sangrentos. Pilha máxima: 10."
+            },
+            {
+                "Nome do Buff": "Shield Boost",
+                "Descrição": "O alvo tem o Escudo ganho de cartas aumentado em 1 por pilha."
+            },
+            {
+                "Nome do Buff": "Plume",
+                "Descrição": "Ataques causam +1 DANO por pilha. Quando este Axie perde todas as Penas, perde todas as Plumas. Isso não é um Buff, Debuff, Segredo ou Poder. Pilhas Máximas: 20."
+            },
+            {
+                "Nome do Buff": "Leaf",
+                "Descrição": "Quando seu turno termina, cura 4 PV por pilha. A cura excessiva por Folha se converte em Escudo. Pilha máxima: 10."
+            },
+            {
+                "Nome do Buff": "Guard",
+                "Descrição": "Escudos nesta Unidade bloqueiam até 50% do DANO recebido por outros Axies aliados. Pilha Máxima: 1."
+            },
+            {
+                "Nome do Buff": "Feather",
+                "Descrição": "Sempre que este Axie ataca, ganha 1 Pluma por acerto, então outros aliados com Pena ganham 1 Pluma. Quando seu turno termina, se este Axie atacou, perde 1 Pena. Pilhas Máximas: 10."
+            },
+            {
+                "Nome do Buff": "Damage Boost",
+                "Descrição": "O alvo tem o DANO de Ataque aumentado em 1 por pilha."
+            },
+            {
+                "Nome do Buff": "Cleanser",
+                "Descrição": "Previne 1 pilha ou 1 turno de um Debuff. Pilha Máxima: 10."
+            },
+            {
+                "Nome do Buff": "Bubble",
+                "Descrição": "Ataques Únicos causam 1.5% do PV atual do alvo por Bolha como DANO Bônus. Ataques em Área e Multihit causam 0.5%. Converte para Bomba de Bolha em 5 pilhas."
+            },
+            {
+                "Nome do Buff": "Bloodspike",
+                "Descrição": "Não pode ser Dispelido. Quando esta unidade morre, causa DANO Puro igual ao número de pilhas de Espinhos Sangrentos a todos os inimigos."
+            }
+        ],
+        "Debuffs": [
+            {
+                "Nome do Debuff": "Bad Luck",
+                "Descrição": "Aumenta o dano de Jinx em 5 por pilha."
+            },
+            {
+                "Nome do Debuff": "Death Mark",
+                "Descrição": "Recebe DANO Puro de Ataques. Sempre que o inimigo joga um Ataque, recebe 12 DANO Puro por Custo de Energia do Ataque."
+            },
+            {
+                "Nome do Debuff": "Doubt",
+                "Descrição": "Recebe -25% Cura & Escudo. Os Efeitos de Perda de PV são aumentados em +25%."
+            },
+            {
+                "Nome do Debuff": "Fragile",
+                "Descrição": "Recebe +10% DANO, adicional de 10% enquanto Escudado."
+            },
+            {
+                "Nome do Debuff": "Heal Block",
+                "Descrição": "O alvo não pode ser curado."
+            },
+            {
+                "Nome do Debuff": "Silence",
+                "Descrição": "O alvo não pode usar Habilidades não-Ataque."
+            },
+            {
+                "Nome do Debuff": "Stunned",
+                "Descrição": "O alvo não pode usar nenhuma habilidade."
+            },
+            {
+                "Nome do Debuff": "Weak",
+                "Descrição": "Causa -20% DANO. Concede -20% Escudo."
+            },
+            {
+                "Nome do Debuff": "Vulnerable",
+                "Descrição": "Recebe +10% DANO, adicional de 10% enquanto não Escudado."
+            },
+            {
+                "Nome do Debuff": "Sleep",
+                "Descrição": "Enquanto este Axie tiver Dormir, na próxima vez que jogar uma carta, nega essa carta e remove Dormir. Quando este Axie é atacado, remove Dormir."
+            },
+            {
+                "Nome do Debuff": "Poison",
+                "Descrição": "Quando seu turno começa, esta Unidade perde 3 PV por pilha de Veneno, então remove 1 pilha. Limite em 40 pilhas."
+            },
+            {
+                "Nome do Debuff": "Grievous Wound",
+                "Descrição": "Após perder PV de Sangramento, perde 10 PV por Ferida Grave, então aplica 1 Ferida Grave. Pilha máxima: 10."
+            },
+            {
+                "Nome do Debuff": "Fear",
+                "Descrição": "Sempre que este Axie joga uma Carta, embaralha 1 Confuso na Pilha de Compra, então -1 Medo. Quando cada turno termina, -1 Medo. Pilha Máxima: 6."
+            },
+            {
+                "Nome do Debuff": "Disarmed",
+                "Descrição": "O alvo não pode usar Habilidades de Ataque."
+            },
+            {
+                "Nome do Debuff": "Bleed",
+                "Descrição": "Perde 12 PV sempre que este Axie joga uma Carta. Quando cada turno termina, se este Axie não perdeu PV de Sangramento, -1 Sangramento."
+            }
+        ],
+        "Neutro": [
+            {
+                "Nome do Efeito": "Bulwark",
+                "Descrição": "Quando o turno do Inimigo termina, antes de remover Escudos, causa (5% do Escudo restante aliado) como DANO a todos os Axies inimigos por pilha de Baluarte. Perde 2 Baluarte sempre que um Axie aliado morre. Pilha máxima: 10."
+            },
+            {
+                "Nome do Efeito": "Taunt",
+                "Descrição": "O alvo é sempre alvo de habilidades de ataque inimigas."
+            },
+            {
+                "Nome do Efeito": "Cunning",
+                "Descrição": "Aumenta os Efeitos de Roubo aliados em 10% por pilha. Pilha máxima: 10."
+            },
+            {
+                "Nome do Efeito": "Vengeance",
+                "Descrição": "Quando um aliado ataca, consome toda a Vingança. +1 DANO por pilha em Ataques Únicos; +1 DANO por 3 pilhas em Ataques em Área & Multihit. Pilha Máxima: 120."
+            }
+        ]
+    },
+    "Ferramentas (Origin)": {
+        "Tipos de Ferramentas:": [],
+        "Cartas de Ferramentas:": [
+            {
+                "Nome da Carta": "Adaga de Pena",
+                "Descrição": "Retém. Emboscada. Banimento. Custo da carta 0."
+            },
+            {
+                "Nome da Carta": "Bolha Gigante",
+                "Descrição": "Inata. Retém. Escuda todos os aliados. Axies aliados ganham 4 bolhas por Energia Gasta. Custo de Energia +1 por turno se retido. (Limite em 3 Energia)."
+            },
+            {
+                "Nome da Carta": "Escudo de Madeira",
+                "Descrição": "Retém. Alvo qualquer aliado. Banimento. 12 de Escudo, custo da carta 1."
+            },
+            {
+                "Nome da Carta": "Pacu",
+                "Descrição": "Retém. Alvo qualquer inimigo. Causa 5 de dano. Causa 10 de dano bônus contra inimigos sangrando. Banimento. Custo da carta 0."
+            },
+            {
+                "Nome da Carta": "Oração",
+                "Descrição": "Retém. Alvo qualquer aliado. Purifica: 1. Limpa: 3. Custo da carta 0."
+            },
+            {
+                "Nome da Carta": "Expurgo",
+                "Descrição": "Retém. Alvo qualquer inimigo. Causa 10 de dano e Dispel: 3. Custo da carta 0."
+            },
+            {
+                "Nome da Carta": "Scan",
+                "Descrição": "Retém. Alvo qualquer inimigo. Causa 10 de dano e detecta: 1. Custo da carta 0."
+            },
+            {
+                "Nome da Carta": "Morango",
+                "Descrição": "Retém. Alvo qualquer aliado ou inimigo. Cura Reversa em Inimigos. A Cura desta carta é igual à Cura de Bolo de Morango. Banimento. Custo da carta 0."
+            },
+            {
+                "Nome da Carta": "Explosão de Veneno",
+                "Descrição": "Retém. Alvo qualquer inimigo. Causa 5 de Dano Puro por veneno no alvo, então remove e espalha igualmente seu Veneno para outros Axies inimigos. Banimento. Custo da carta 2."
+            }
+        ]
+    }
+}

@@ -1,0 +1,8 @@
+## Charms Mech
+
+### Charm Types:
+- **Tech Charm:** Increases attack power by 15%.
+- **Shield Charm:** Grants +20 Shield to the user.
+
+### Usage:
+- Charms can be equipped to enhance Axie abilities.

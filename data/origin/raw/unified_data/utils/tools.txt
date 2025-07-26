@@ -1,0 +1,51 @@
+## Tools Overview
+
+### Tool Types:
+- **Offensive Tools:**
+  - Used to deal damage to enemies.
+  - Example: Fireball, Lightning Strike.
+
+- **Defensive Tools:**
+  - Used to protect allies or reduce damage taken.
+  - Example: Shield, Barrier.
+
+- **Utility Tools:**
+  - Used for various effects that don't directly deal damage.
+  - Example: Healing Potion, Revive.
+
+### Tool Cards:
+
+#### Feather Dagger:
+Retain. Ambush. Banish.
+card custo 0
+
+#### Giant Bubble:
+Innate. Retain. Shield all allies. Allied Axies gain 4 bubbles per Energy Spent. Energy Cost +1 per turn if retained. (CAP at 3 Energy).
+
+#### Lumber Shield:
+Retain. Target any ally. Banish.
+12 de Shield, card custo 1
+
+#### Pacu:
+Retain. Target any enemy. Deal 5 damage. Deal 10 bonus damage against bleeding enemies. Banish.
+card custo 0
+
+#### Prayer:
+Retain. Target any ally. Purify: 1. Cleanse: 3.
+card custo 0
+
+#### Purge:
+Retain. Target any enemy. Deal 10 damage and Dispel: 3.
+card custo 0
+
+#### Scan:
+Retain. Target any enemy. Deal 10 damage and detect: 1.
+card custo 0
+
+#### Strawberry:
+Retain. Target any ally or enemy. Reverse Heal on Enemies. This card's Heal is equal to Strawberry Shortcake's Heal. Banish.
+card custo 0
+
+#### Venom Burst:
+Retain. Target any enemy. Deal 5 Pure Damage per poison on the target, then remove and equally spread its Poison to other enemy Axies. Banish.
+card custo 2

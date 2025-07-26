@@ -1,0 +1,136 @@
+## Cartas de Custo 0:
+
+### Para o Olho:
+- **Bookworm:** Initial: pick a Bug Card from Discard Pile; otherwise, from Draw Pile. Put it on top of Draw Pile. Banish.
+- **Neo:** 8 Shields. Look at the top 3 Cards of Enemy Draw Pile, you may discard 1. Banish.
+- **Nerdy:** If Draw Pile has at least 2 Cards, draw 2 then discard 2. Unstable.
+
+### Para a Boca:
+- **Square Teeth:** 
+  - 10 DMG. Consume up to 60 Shield. Deal Bonus DMG = 50% of the consumed Shield.
+  - Level 2: 10 DMG. Consume up to 60 Shield. Deal Bonus DMG = 70% of the consumed Shield.
+
+### Para o Orelha:
+- **Larva:** 8 Shields. Scry 2 cards. If you Discard at least 1 Skill or Secret card when Scrying, gain 2 Fragment then Banish.
+
+### Para o Chifre:
+
+
+### Para a Costas:
+
+
+### Para a Cauda:
+
+
+## Cartas de Custo 1:
+
+### Para o Olho:
+- **Kotaro:** 
+  - 60 DMG. Randomly deal 1 hit. Apply 3 Death Mark.
+  - Level 2: 70 DMG. Randomly deal 1 hit. Apply 3 Death Mark. Apply 1 Death Mark to another random enemy Axie 2 times.
+
+### Para a Boca:
+- **Cute Bunny:** 
+  - 70 DMG. Target random enemy. On targets with Fear, -1 Fear and Steal (30% of ATK) as HP from all enemies with Fear; otherwise, apply 3 Fear.
+  - Level 2: 80 DMG. Target random enemy. On targets with Fear, -1 Fear and Steal (30% of ATK) as HP from all enemies with Fear; otherwise, apply 3 Fear.
+- **Mosquito:** 
+  - 20 DMG. Target any enemy or ally. If target isn't Alert, Steal 30 HP.
+  - Level 2: 20 DMG. Target any enemy or ally. If target isn't Alert, Steal 30 HP. On Enemies, apply 3 Poison and 3 Bleed.
+- **Pincer:** 
+  - 35 Shields. Shield allies. Next time your Enemy uses Keep, add 1 Goo to their Discard Pile. If not Initial, -1 Bulwark.
+  - Level 2: 40 Shields. Shield allies. Next time your Enemy uses Keep, add 1-2 Goo to their Discard Pile.
+
+### Para o Orelha:
+- **Beetle Spike:** 
+  - 60 DMG. Ambush. Deal Pure DMG. On targets without Shield, +10 DMG; otherwise, if it isn't Alert, Steal (30% of DMG Dealt) as Shield.
+  - Level 2: 70 DMG. Ambush. Deal Pure DMG. On targets without Shield, +10 DMG; otherwise, if it isn't Alert, Steal Shield = 30% of DMG Dealt.
+- **Ear Breathing:** 
+  - 40 DMG. Add 1 Goo to Enemy Discard Pile. Initial: -1 Bulwark and shield allies for 75% of ATK; otherwise, +1 Bulwark and gain shield equal ATK.
+  - Level 2: 50 DMG. Add 1 Goo to Enemy Discard Pile. Initial: Shield allies for 75% of ATK; otherwise, +1 Bulwark and gain shield equal ATK.
+- **Earwing:** 
+  - 15 DMG. Attack all enemies. +3 DMG per Card in Hand. (Cap: +30 DMG)
+  - Level 2: 20 DMG. Attack all enemies. +4 DMG per Card in Hand. (Cap: +32 DMG)
+- **Leaf Bug:** 
+  - 65 Shields. Retain. Target any ally. +1 Bulwark. +2 Cocoon. +1 Cocoon per turn Retained. (Cap: +3 Cocoon)
+  - Level 2: 75 Shields. Target any ally. +1 Bulwark. +2 Cocoon to all allies. +1 Cocoon per turn Retained. (Cap: +3 Cocoon)
+- **Tassels:** 
+  - Innate. Target any ally. After the target grants 300 Base Shield, deal 35% of Base Shield granted as DMG to all enemies. Can't stack. Exile.
+  - Level 2: Target any ally. After the target grants 250 Base Shield, deal 45% of Base Shield granted as DMG to all enemies. Can't stack. Exile
+
+### Para o Chifre:
+- **Antena:** 
+  - 65 Shields. Target any ally. +1 Bulwark. Scry 3 cards. Banish.
+  - Level 2: 70 Shields. Target any ally. +1 Bulwark. Scry 4 cards. Banish
+- **Caterpillars:** 
+  - 70 DMG. Target random enemy. On targets with Fear, apply 3 Fear to a random enemy Axie; otherwise, apply 3 Fear.
+  - Level 2: 80 DMG. Target random enemy. On targets with Fear, apply 3 Fear to 2 random enemy Axie; otherwise, apply 3 Fear.
+- **Lagging:** 
+  - 70 Shields. Target any ally. +1 Bulwark. Next time your Enemy uses a Skill or Secret Card, add 1 Goo to their Discard Pile.
+  - Level 2: 80 Shields. Target any ally. +1 Bulwark. Next time your Enemy uses a Skill or Secret Card, add 1-2 Goo to their Discard Pile.
+- **Leaf Bug:** 
+  - 65 Shields. Retain. Target any ally. +1 Bulwark. +2 Cocoon. +1 Cocoon per turn Retained. (Cap: +3 Cocoon)
+  - Level 2: 75 Shields. Target any ally. +1 Bulwark. +2 Cocoon to all allies. +1 Cocoon per turn Retained. (Cap: +3 Cocoon)
+- **Parasite:** 
+  - 55 DMG. Look at the top 3 Cards of Enemy Draw Pile, you may discard 1.
+  - Level 2: 65 DMG. Look at the top 4 Cards of Enemy Draw Pile, you may discard 1.
+- **Pliers:** 
+  - 60 DMG. Ambush. Deal Pure DMG. On targets without Shield, +10 DMG; otherwise, if it isn't Alert, Steal (30% of DMG Dealt) as Shield.
+  - Level 2: 70 DMG. Ambush. Deal Pure DMG. On targets without Shield, +10 DMG; otherwise, if it isn't Alert, Steal Shield = 30% of DMG Dealt.
+
+### Para a Costas:
+- **Buzz Buzz:** 
+  - 18 DMG. Attack all enemies. +8 DMG per Card Discarded or Banished by either player this turn. (Cap: +32 DMG)
+  - Level 2: 21 DMG. Attack all enemies. +8 DMG per Card Discarded or Banished by either player this turn. (Cap: +32 DMG)
+- **Garish Worm:** 
+  - 60 DMG. Retain. Initial: Discard 1 random Card from Enemy Hand.
+  - Level 2: 70 DMG. Retain. Initial: Discard 1 random Cards from Enemy Hand or Draw Pile. (Prioritize Hand)
+- **Scarab:** 
+  - 55 DMG. Target any enemy. Apply 3 Doubt and 1 Grievous Wound
+  - Level 2: 65 DMG. Target any enemy. Apply 3 Doubt and 1 Grievous Wound
+- **Snail Shell:** 
+  - 70 Shields. Target any ally. +1 Bulwark. Next time the target is attacked, add 1 Goo to Enemy Discard Pile.
+  - Level 2: 80 Shields. Target any ally. +1 Bulwark. Next time the target is attacked, add 1 - 2  Goo to Enemy Discard Pile.
+- **Spiky Wing:** 
+  - 60 DMG. Ambush. Deal Pure DMG. On targets without Shield, +10 DMG; otherwise, if it isn't Alert, Steal (30% of DMG Dealt) as Shield.
+  - Level 2: 70 DMG. Ambush. Deal Pure DMG. On targets without Shield, +10 DMG; otherwise, if it isn't Alert, Steal Shield = 30% of DMG Dealt.
+
+### Para a Cauda:
+- **Ant:** 
+  - 70 Shields. +1 Bulwark. Next turn, apply 3 Taunt to self.
+  - Level 2: 80 Shields. +1 Bulwark. Next turn, apply 3 Taunt to self.
+- **Fish Snack:** 
+  - 70 Shields. Target any ally. +1 Bulwark. Next time the target is attacked, apply 4 Weak to the attacker.
+  - Level 2: 80 Shields. Target any ally. +1 Bulwark. Next time the target is attacked, apply 4 Weak to the attacker.
+- **Gravel Ant:** 
+  - 70 Shields. Target any ally. +1 Bulwark. Next time the target is attacked, apply 4 Fear to the attacker.
+  - Level 2: 80 Shields. Target any ally. +1 Bulwark. Next time the target is attacked, apply 4 Fear to the attacker.
+- **Pupae:** 
+  - 70 Shields. Target any ally. +1 Bulwark. Next turn, +3 Cocoon to allied Axies if the target loses at least 70 Shield.
+  - Level 2: 80 Shields. Target any ally. +1 Bulwark. Next turn, +3 Cocoon to allied Axies if the target loses at least 70 Shield.
+- **Thorny Caterpillar:** 
+  - 60 DMG. Bonus 10 DMG per Goo in Enemy Deck (cap: 90 bonus DMG). Initial: -1 Bulwark, gain Shield equal to DMG Dealt; otherwise, +1 Bulwark.
+  - Level 2: 70 DMG. Bonus 10 DMG per Goo in Enemy Deck (cap: 90 bonus DMG). Initial: -1 Bulwark, gain Shield equal to DMG Dealt; otherwise, +1 Bulwark.
+- **Twin Tail:** 
+  - 65 Shields. Target any ally. Limit 1: Next turn, if the target is attacked, Discard 1 random Card from Enemy Hand. +1 Bulwark.
+  - Level 2: 75 Shields. Target any ally. Limit 1: Next turn, if the target is attacked, Discard 1 random Card from Enemy Hand. +1 Bulwark.
+
+## Cartas de Custo 2:
+
+### Para o Olho:
+
+
+### Para a Boca:
+
+
+### Para o Orelha:
+
+
+### Para o Chifre:
+
+
+### Para a Costas:
+- **Sandal:** 
+  - 130 DMG. On targets with Debuffs, +50% DMG.
+  - Level 2: 145 DMG. On targets with Debuffs, +50% DMG.
+
+### Para a Cauda:

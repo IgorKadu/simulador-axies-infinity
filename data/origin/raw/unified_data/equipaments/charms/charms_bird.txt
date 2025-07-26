@@ -1,0 +1,51 @@
+## Charms Bird
+
+### Charm Types:
+- **Speed Charm:** Increases speed by 10%.
+- **Agility Charm:** Reduces damage taken by 5%.
+- **Focus Charm:** Increases accuracy by 5%.
+
+### Usage:
+- Charms can be equipped to enhance Axie abilities.
+
+### Charms Rare:
+
+#### Bird's Charm of Focus I:
+(Alter Multihit & AoE Attacks) ATK +4.
+
+#### Bird's Charm of Power I:
+(Alter Single Attacks)
+ATK +5.
+
+#### Secret Egg:
+(Alter Any)On draw, deal 3 damage to enemies.
+
+#### Feather Earring:
+(Alter Any)+1 Feather, +1 Feather per Energy Spent.
+
+### Charms Epic:
+
+#### Bird's Charm of Focus II:
+(Alter Multihit & AoE Attacks) ATK +6. Max HP -6.
+
+#### Bird's Charm of Power II:
+(Alter Single Attacks)
+ATK +9. Max HP -6.
+
+#### Bird's Energy Drink S:
+(Alter Any Card) Degrade: +3 Feather.
+
+#### Feather Fan:
+(Alter Any)+1 Feather to allied Axies.
+
+### Charms Mystic:
+
+#### Awaken Stamp (Bird):
+(Alter Any Card) Card Level +1
+(cap ate Stage 2). +1 Feather to allied Axies.
+
+#### Flamingo Hammer:
+(Alter Attacks) Apply 2 Waek, +10% damage to targets with Weak. Count as Debuff.
+
+#### Storm Shuriken:
+(Alter Single Attacks)Deal 15% damage to a random enemy 4 times.

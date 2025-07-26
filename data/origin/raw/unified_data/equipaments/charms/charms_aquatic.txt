@@ -1,0 +1,57 @@
+## Charms Aquatic
+
+### Charm Types:
+- **Healing Charm:** Increases healing effects by 20%.
+- **Defense Charm:** Grants +15 Shield to the user.
+- **Attack Charm:** Increases attack power by 10%.
+
+### Usage:
+- Charms can be equipped to enhance Axie abilities.
+
+### Charms Rare:
+
+#### Aquatic's Charm of Focus I:
+(Alter Multihit & AoE Attacks) ATK +3.
+
+#### Aquatic's Charm of Power I:
+(Alter Single Attacks)
+ATK +6.
+
+#### Aquatic's Energy Drink S:
+(Alter Any Card) Degrade: +2 Bubble.
+
+#### Black Bubble:
+(Alter non-Attacks) target gain Bubble = Energy Spent.
+
+#### Bubble Maker:
+(Alter Any) +1 Bubble per Energy Spent.
+
+#### Red Bubble:
+(Alter Multihit & AoE Attacks) Shield allied Axies = 50% ATK.
+
+### Charms Epic:
+
+#### Aquatic's Charm of Focus II:
+(Alter Multihit & AoE Attacks) ATK +5. Max HP -6.
+
+#### Aquatic's Charm of Power II:
+(Alter Single Attacks)
+ATK +11. Max HP -6.
+
+#### Bubble Paste:
+(Alter Attacks) +1 Bubble to allied Axies.
+
+#### Sticky Octopus:
+(Alter Any)Retain. If Retained, gain 1 Fragment when played.
+
+### Charms Mystic:
+
+#### Awaken Stamp (A):
+(Alter Any Card) Card Level +1
+(cap ate Stage 2). +1 Bubble to allied Axies.
+
+#### Exploding Bombshell:
+(Alter Single Attacks) If the target has no other allies, deal +25% damage; otherwise, deal 25% Splash DMG.
+
+#### Paralyzing Jellyfish:
+(Alter Attacks/Heals/Shields)Shuffle 1 Jinx into Enemy Discard Pile. -10% Stat. Count as Curse.
