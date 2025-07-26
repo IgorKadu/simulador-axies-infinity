@@ -1,0 +1,8 @@
+## Charms Dawn
+
+### Charm Types:
+- **Light Charm:** Increases healing effects by 15%.
+- **Radiance Charm:** Grants +5 Shield to all allies.
+
+### Usage:
+- Charms can be equipped to enhance Axie abilities.

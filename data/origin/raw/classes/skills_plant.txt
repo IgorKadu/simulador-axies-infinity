@@ -1,0 +1,82 @@
+## Cartas de Custo 0:
+
+### Para o Olho:
+- **Bloosom:** Initial: pick a Plant Card from Discard Pile; otherwise, from Draw Pile. Put it on top of Draw Pile. Banish.
+
+### Para a Boca:
+
+
+### Para o Orelha:
+
+
+### Para o Chifre:
+
+
+### Para a Costas:
+
+
+### Para a Cauda:
+
+
+## Cartas de Custo 1:
+
+### Para o Olho:
+- **Confusion:** Target any ally. Deal DMG equal to Heal Stat to the closest enemy. Shuffle 1 Confused into Enemy Draw Pile.
+- **Cucumber Slice:** Retain. Heal allies. This Card gets +10 Heal per turn Retained. (Cap: +40 Bonus Heal).
+- **Papi:** Retain. Target any ally. +2 Leaf. +1 Leaf per turn Retained. (Cap: +3 Leaf).
+
+### Para a Boca:
+- **Herbivore:** Target any enemy. Heal self for 15 HP. On targets with Sleep, apply 5 Sleep.
+- **Serious:** Initial: Trigger an effect if this card is the first card played in a turn. +30 DMG and apply 2 Sleep to self.
+- **Silence Whisper:** Target any Ally or Enemy. On Allies, apply 4 Silence Whisper. On Enemies, Reverse Heal and if Initial, apply 2 Sleep to a random Enemy.
+- **Zigzag:** On targets with Fragile, +20 DMG & deal Pure DMG; otherwise, apply 3 Fragile.
+
+### Para o Orelha:
+- **Clover:** Summon a Clover with HP equal to this Card's Heal Stat.
+- **Hollow:** Lose HP equal to this Card's Heal Stat then summon a Trunk with HP equal to 2x that amount.
+- **Leafy:** Consume up to 4 Leaf. Randomly deal 3 hits. +8 DMG per Leaf consumed.
+- **Lotus:** Target any ally. Purify: 3. Initial: -1 Bulwark, heal equal to Shield Stat; otherwise, +1 Bulwark.
+- **Rosa:** Randomly deal 2 hits. Initial: apply 3 Sleep.
+- **Sakura:** Innate. Target any ally. Whenever you play a Card, the target heals 8 HP. Can't stack. Exile.
+
+### Para o Chifre:
+- **Bamboo Spear:** +1 Leaf. +1 Leaf per other Spear card in your Deck to allied Spear card owners.
+- **Cactus:** Initial: +15 DMG and apply 2 Taunt to self.
+- **Rose Bud:** Target any ally. Cleanse: 5. Apply 5 Cleanser.
+- **Watermelon:** Target any enemy. On targets with Sleep, +15 DMG and apply 5 Sleep.
+
+### Para a Costas:
+- **Bidens:** Target any Ally. Cleanse: 8. +2 Leaf.
+- **Mint:** Shield allies. +3 Cleanser. If not Initial, -1 Bulwark.
+- **Pumpkin:** Target any ally. +1 Bulwark. Next time the target is attacked, Draw 1 Card.
+- **Shiitake:** Summon a Mushroom with HP equal to this Card's Heal Stat.
+- **Turnip:** Target any ally. +1 Bulwark. Apply 3 Turnip Rocket.
+- **Waterring Can:** Shield any ally. +1 Bulwark. Next turn, whenever any ally is hit, add 1 Pure Water to Hand. (Cap: 3 cards)
+
+### Para a Cauda:
+- **Carrot:** +1 Fragment. Whenever healed >= 8 HP by an ally, Carrot gets +6 ATK. (Cap: 90 bonus ATK).
+- **Cattail:** Target any ally. Next turn, apply 3 Taunt to self.
+- **Hatsune:** Target any ally. +1 Bulwark. Next turn, the first time an allied Axie that isn't the target is attacked, apply 1 Taunt to the target.
+- **Hot Butt:** Target any Ally or Enemy. Reverse Heal on enemies. Add 2 Burn to Enemy Discard Pile.
+- **Potato Leaf:** Target any ally. +1 Bulwark. Next turn, if the target is attacked, apply 3 Sleep to the attacker.
+- **Yam:** Attack all enemies. Apply 3 Poison.
+
+## Cartas de Custo 2:
+
+### Para o Olho:
+
+
+### Para a Boca:
+
+
+### Para o Orelha:
+
+
+### Para o Chifre:
+- **Beech:** Lose 15% of current HP, deal (2x HP Loss) as bonus DMG. Initial: Detect 4.
+- **Strawberry Shortcake:** Target any Ally or Enemy. Reverse Heal on enemies. Add 2 Strawberry to Hand.
+
+### Para a Costas:
+
+
+### Para a Cauda:

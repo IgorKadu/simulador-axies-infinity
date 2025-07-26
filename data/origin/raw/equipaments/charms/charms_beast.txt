@@ -1,0 +1,38 @@
+## Charms Beast
+
+### Charm Types:
+- **Fury Charm:** Increases damage dealt by 15%.
+- **Stamina Charm:** Increases max HP by 10%.
+- **Critical Charm:** Boosts critical hit chance by 5%.
+
+### Usage:
+- Charms can be equipped to enhance Axie abilities.
+
+### Charms Rare:
+
+#### Beast's Charms
+- **Beast's Charm of Focus I:** (Alter Multihit & AoE Attacks) ATK +3.
+- **Beast's Charm of Power I:** (Alter Single Attacks) ATK +6.
+
+#### Other Charms
+- **Beast's Energy Drink S:** (Alter Any Card) Unstable. +20% ATK.
+- **Bing's Ice Cream:** (Alter Attacks) Heal allied Axies for HP = 20% of ATK.
+- **Common Pliers:** (Alter non-Attack Cards) This Axie's Single Attacks (with at least 1 Energy Cost) gain +3 ATK when this Card is played.
+- **Pangolin Shard:** (Alter Multihit & AoE Attacks) +1 Shield per damage dealt. (Cap: 30 Shield).
+- **Raging Dagger:** (Alter Any) +1 Rage per Energy Spent.
+
+### Charms Epic:
+
+#### Beast's Charms
+- **Beast's Charm of Focus II:** (Alter Multihit & AoE Attacks) ATK +5. Max HP -6.
+- **Beast's Charm of Power II:** (Alter Single Attacks) ATK +11. Max HP -6.
+
+#### Other Charms
+- **Beast's Energy Drink S:** (Alter Any) Degrade: +2 Rage.
+- **Mask of Frenzy:** (Alter Any) +1 Rage to allied Axies.
+
+### Charms Mystic:
+
+- **Awaken Stamp (Beast):** (Alter Any Card) Card Level +1 (cap at Stage 2). +1 Rage to allied Axies.
+- **Hidden Razor:** (After Attacks) Apply 2 Bleed. On targets with >4 bleed, apply 1 Grievous Wound. -10% Stat. Count as Debuff.
+- **Mad Moon Mask:** (Alter Attacks) Lose 1 Fragment. +30% ATK.

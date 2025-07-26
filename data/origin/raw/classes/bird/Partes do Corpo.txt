@@ -1,0 +1,43 @@
+Boca:
+Hungry Bird
+Little Owl
+Peace Maker
+Doubletalk
+
+Olho:
+Robin
+Little Owl
+Lucas
+Mavis
+
+Orelha:
+Risky Bird
+Curly
+Early Bird
+Peace Maker
+Little Owl
+Pink Cheek
+
+Chifre:
+Feather Spear
+Wing Horn
+Kestrel
+Trump
+Cuckoo
+Eggshell
+
+Costa:
+Balloon
+Cupid
+Raven
+Pigeon Post
+Kingfisher
+Tri Feather
+
+Cauda:
+The Last One
+Cloud
+Granma's Fan
+Post Fight
+Feather Fan
+Swallow

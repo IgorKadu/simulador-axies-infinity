@@ -1,0 +1,2602 @@
+[
+    {
+        "id": "axie_Beast_0",
+        "class": "Beast",
+        "body_parts_classes": {
+            "Orelhas": "Reptile",
+            "Olhos": "Beast",
+            "Chifre": "Beast",
+            "Boca": "Beast",
+            "Costas": "Beast",
+            "Cauda": "Beast"
+        },
+        "cards": [
+            {
+                "Nome": "**Branch Charge**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 100,
+                "Escudo": 0,
+                "Descricao": "Golpe crítico garantido ao atacar primeiro."
+            },
+            {
+                "Nome": "**Single Combat**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 80,
+                "Escudo": 20,
+                "Descricao": "Golpe crítico garantido quando combinado com pelo menos 2 outras cartas."
+            },
+            {
+                "Nome": "**Revenge Arrow**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 25,
+                "Descricao": "Causa 200% de dano quando em Last Stand."
+            },
+            {
+                "Nome": "**Heroic Reward**",
+                "Tipo": "Melee",
+                "Energia": 0,
+                "Ataque": 55,
+                "Escudo": 0,
+                "Descricao": "Compre uma carta ao atacar um alvo Aquático, Bird ou Dawn."
+            }
+        ],
+        "attributes": {
+            "HP": 34,
+            "Velocidade": 41,
+            "Habilidade": 31,
+            "Moral": 58
+        }
+    },
+    {
+        "id": "axie_Beast_1",
+        "class": "Beast",
+        "body_parts_classes": {
+            "Orelhas": "Aquático",
+            "Olhos": "Bug",
+            "Chifre": "Beast",
+            "Boca": "Beast",
+            "Costas": "Beast",
+            "Cauda": "Beast"
+        },
+        "cards": [
+            {
+                "Nome": "**Merry Legion**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 80,
+                "Escudo": 40,
+                "Descricao": "Bônus de 20% de escudo quando combinado."
+            },
+            {
+                "Nome": "**Sugar Rush**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 110,
+                "Escudo": 40,
+                "Descricao": "Aplica Aroma a si mesmo até a próxima rodada."
+            },
+            {
+                "Nome": "**Woodman Power**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 80,
+                "Escudo": 40,
+                "Descricao": "Aplica Stun quando atingido por uma carta Plant ou Reptile. Ativa uma vez por rodada."
+            },
+            {
+                "Nome": "**Piercing Sound**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 85,
+                "Escudo": 30,
+                "Descricao": "Destrói 1 de energia do seu oponente."
+            }
+        ],
+        "attributes": {
+            "HP": 33,
+            "Velocidade": 42,
+            "Habilidade": 31,
+            "Moral": 58
+        }
+    },
+    {
+        "id": "axie_Beast_2",
+        "class": "Beast",
+        "body_parts_classes": {
+            "Orelhas": "Bird",
+            "Olhos": "Reptile",
+            "Chifre": "Beast",
+            "Boca": "Beast",
+            "Costas": "Beast",
+            "Cauda": "Beast"
+        },
+        "cards": [
+            {
+                "Nome": "**Ivory Stab**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 90,
+                "Escudo": 30,
+                "Descricao": "Ganha 1 de energia por golpe crítico causado por sua equipe nesta rodada."
+            },
+            {
+                "Nome": "**Nut Cracker**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 105,
+                "Escudo": 30,
+                "Descricao": "Causa 120% de dano quando combinado com outra carta 'Nut Cracker'."
+            },
+            {
+                "Nome": "**Woodman Power**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 80,
+                "Escudo": 40,
+                "Descricao": "Aplica Stun quando atingido por uma carta Plant ou Reptile. Ativa uma vez por rodada."
+            },
+            {
+                "Nome": "**Branch Charge**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 100,
+                "Escudo": 0,
+                "Descricao": "Golpe crítico garantido ao atacar primeiro."
+            }
+        ],
+        "attributes": {
+            "HP": 34,
+            "Velocidade": 43,
+            "Habilidade": 31,
+            "Moral": 56
+        }
+    },
+    {
+        "id": "axie_Beast_3",
+        "class": "Beast",
+        "body_parts_classes": {
+            "Orelhas": "Aquático",
+            "Olhos": "Bird",
+            "Chifre": "Beast",
+            "Boca": "Beast",
+            "Costas": "Beast",
+            "Cauda": "Beast"
+        },
+        "cards": [
+            {
+                "Nome": "**Nut Cracker**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 105,
+                "Escudo": 30,
+                "Descricao": "Causa 120% de dano quando combinado com outra carta 'Nut Cracker'."
+            },
+            {
+                "Nome": "**Ivory Stab**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 90,
+                "Escudo": 30,
+                "Descricao": "Ganha 1 de energia por golpe crítico causado por sua equipe nesta rodada."
+            },
+            {
+                "Nome": "**Revenge Arrow**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 25,
+                "Descricao": "Causa 200% de dano quando em Last Stand."
+            },
+            {
+                "Nome": "**Juggling Balls**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 40,
+                "Escudo": 30,
+                "Descricao": "Ataca 3 vezes."
+            }
+        ],
+        "attributes": {
+            "HP": 32,
+            "Velocidade": 45,
+            "Habilidade": 31,
+            "Moral": 56
+        }
+    },
+    {
+        "id": "axie_Beast_4",
+        "class": "Beast",
+        "body_parts_classes": {
+            "Orelhas": "Aquático",
+            "Olhos": "Bird",
+            "Chifre": "Beast",
+            "Boca": "Beast",
+            "Costas": "Beast",
+            "Cauda": "Beast"
+        },
+        "cards": [
+            {
+                "Nome": "**Juggling Balls**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 40,
+                "Escudo": 30,
+                "Descricao": "Ataca 3 vezes."
+            },
+            {
+                "Nome": "**Sinister Strike**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 130,
+                "Escudo": 20,
+                "Descricao": "Causa 200% de dano em golpes críticos."
+            },
+            {
+                "Nome": "**Piercing Sound**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 85,
+                "Escudo": 30,
+                "Descricao": "Destrói 1 de energia do seu oponente."
+            },
+            {
+                "Nome": "**Woodman Power**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 80,
+                "Escudo": 40,
+                "Descricao": "Aplica Stun quando atingido por uma carta Plant ou Reptile. Ativa uma vez por rodada."
+            }
+        ],
+        "attributes": {
+            "HP": 32,
+            "Velocidade": 45,
+            "Habilidade": 31,
+            "Moral": 56
+        }
+    },
+    {
+        "id": "axie_Beast_5",
+        "class": "Beast",
+        "body_parts_classes": {
+            "Orelhas": "Bug",
+            "Olhos": "Bug",
+            "Chifre": "Beast",
+            "Boca": "Beast",
+            "Costas": "Beast",
+            "Cauda": "Beast"
+        },
+        "cards": [
+            {
+                "Nome": "**Sinister Strike**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 130,
+                "Escudo": 20,
+                "Descricao": "Causa 200% de dano em golpes críticos."
+            },
+            {
+                "Nome": "**Nitro Leap**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 35,
+                "Descricao": "Ataca primeiro se algum Axie estiver em Last Stand."
+            },
+            {
+                "Nome": "**Nut Cracker**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 105,
+                "Escudo": 30,
+                "Descricao": "Causa 120% de dano quando combinado com outra carta 'Nut Cracker'."
+            },
+            {
+                "Nome": "**Piercing Sound**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 85,
+                "Escudo": 30,
+                "Descricao": "Destrói 1 de energia do seu oponente."
+            }
+        ],
+        "attributes": {
+            "HP": 33,
+            "Velocidade": 39,
+            "Habilidade": 31,
+            "Moral": 61
+        }
+    },
+    {
+        "id": "axie_Beast_6",
+        "class": "Beast",
+        "body_parts_classes": {
+            "Orelhas": "Beast",
+            "Olhos": "Plant",
+            "Chifre": "Beast",
+            "Boca": "Beast",
+            "Costas": "Beast",
+            "Cauda": "Beast"
+        },
+        "cards": [
+            {
+                "Nome": "**Revenge Arrow**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 25,
+                "Descricao": "Causa 200% de dano quando em Last Stand."
+            },
+            {
+                "Nome": "**Nut Cracker**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 105,
+                "Escudo": 30,
+                "Descricao": "Causa 120% de dano quando combinado com outra carta 'Nut Cracker'."
+            },
+            {
+                "Nome": "**Heroic Reward**",
+                "Tipo": "Melee",
+                "Energia": 0,
+                "Ataque": 55,
+                "Escudo": 0,
+                "Descricao": "Compre uma carta ao atacar um alvo Aquático, Bird ou Dawn."
+            },
+            {
+                "Nome": "**Branch Charge**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 100,
+                "Escudo": 0,
+                "Descricao": "Golpe crítico garantido ao atacar primeiro."
+            }
+        ],
+        "attributes": {
+            "HP": 34,
+            "Velocidade": 40,
+            "Habilidade": 31,
+            "Moral": 59
+        }
+    },
+    {
+        "id": "axie_Beast_7",
+        "class": "Beast",
+        "body_parts_classes": {
+            "Orelhas": "Plant",
+            "Olhos": "Reptile",
+            "Chifre": "Beast",
+            "Boca": "Beast",
+            "Costas": "Beast",
+            "Cauda": "Beast"
+        },
+        "cards": [
+            {
+                "Nome": "**Branch Charge**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 100,
+                "Escudo": 0,
+                "Descricao": "Golpe crítico garantido ao atacar primeiro."
+            },
+            {
+                "Nome": "**Acrobatic**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 110,
+                "Escudo": 30,
+                "Descricao": "Aplica Speed+ a este Axie por 2 rodadas quando combinado com outra carta."
+            },
+            {
+                "Nome": "**Heroic Reward**",
+                "Tipo": "Melee",
+                "Energia": 0,
+                "Ataque": 55,
+                "Escudo": 0,
+                "Descricao": "Compre uma carta ao atacar um alvo Aquático, Bird ou Dawn."
+            },
+            {
+                "Nome": "**Piercing Sound**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 85,
+                "Escudo": 30,
+                "Descricao": "Destrói 1 de energia do seu oponente."
+            }
+        ],
+        "attributes": {
+            "HP": 37,
+            "Velocidade": 40,
+            "Habilidade": 31,
+            "Moral": 56
+        }
+    },
+    {
+        "id": "axie_Beast_8",
+        "class": "Beast",
+        "body_parts_classes": {
+            "Orelhas": "Reptile",
+            "Olhos": "Bug",
+            "Chifre": "Beast",
+            "Boca": "Beast",
+            "Costas": "Beast",
+            "Cauda": "Beast"
+        },
+        "cards": [
+            {
+                "Nome": "**Single Combat**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 80,
+                "Escudo": 20,
+                "Descricao": "Golpe crítico garantido quando combinado com pelo menos 2 outras cartas."
+            },
+            {
+                "Nome": "**Sugar Rush**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 110,
+                "Escudo": 40,
+                "Descricao": "Aplica Aroma a si mesmo até a próxima rodada."
+            },
+            {
+                "Nome": "**Nut Cracker**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 105,
+                "Escudo": 30,
+                "Descricao": "Causa 120% de dano quando combinado com outra carta 'Nut Cracker'."
+            },
+            {
+                "Nome": "**Heroic Reward**",
+                "Tipo": "Melee",
+                "Energia": 0,
+                "Ataque": 55,
+                "Escudo": 0,
+                "Descricao": "Compre uma carta ao atacar um alvo Aquático, Bird ou Dawn."
+            }
+        ],
+        "attributes": {
+            "HP": 35,
+            "Velocidade": 40,
+            "Habilidade": 31,
+            "Moral": 58
+        }
+    },
+    {
+        "id": "axie_Beast_9",
+        "class": "Beast",
+        "body_parts_classes": {
+            "Orelhas": "Plant",
+            "Olhos": "Plant",
+            "Chifre": "Beast",
+            "Boca": "Beast",
+            "Costas": "Beast",
+            "Cauda": "Beast"
+        },
+        "cards": [
+            {
+                "Nome": "**Sugar Rush**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 110,
+                "Escudo": 40,
+                "Descricao": "Aplica Aroma a si mesmo até a próxima rodada."
+            },
+            {
+                "Nome": "**Piercing Sound**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 85,
+                "Escudo": 30,
+                "Descricao": "Destrói 1 de energia do seu oponente."
+            },
+            {
+                "Nome": "**Heroic Reward**",
+                "Tipo": "Melee",
+                "Energia": 0,
+                "Ataque": 55,
+                "Escudo": 0,
+                "Descricao": "Compre uma carta ao atacar um alvo Aquático, Bird ou Dawn."
+            },
+            {
+                "Nome": "**Woodman Power**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 80,
+                "Escudo": 40,
+                "Descricao": "Aplica Stun quando atingido por uma carta Plant ou Reptile. Ativa uma vez por rodada."
+            }
+        ],
+        "attributes": {
+            "HP": 37,
+            "Velocidade": 39,
+            "Habilidade": 31,
+            "Moral": 57
+        }
+    },
+    {
+        "id": "axie_Bird_0",
+        "class": "Bird",
+        "body_parts_classes": {
+            "Orelhas": "Bug",
+            "Olhos": "Aquático",
+            "Chifre": "Bird",
+            "Boca": "Bird",
+            "Costas": "Bird",
+            "Cauda": "Bird"
+        },
+        "cards": [
+            {
+                "Nome": "**Heart Break**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 30,
+                "Descricao": "Aplica Chill por 4 rodadas."
+            },
+            {
+                "Nome": "**Blackmail**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 30,
+                "Descricao": "Transfere todos os debuffs deste Axie para o alvo."
+            },
+            {
+                "Nome": "**Patient Hunter**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 130,
+                "Escudo": 10,
+                "Descricao": "Alvo em Aquático ou inimigo se o HP deste Axie estiver abaixo de 50%."
+            },
+            {
+                "Nome": "**Ill-omened**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 30,
+                "Descricao": "Aplica Jinx por 4 rodadas."
+            }
+        ],
+        "attributes": {
+            "HP": 29,
+            "Velocidade": 58,
+            "Habilidade": 35,
+            "Moral": 42
+        }
+    },
+    {
+        "id": "axie_Bird_1",
+        "class": "Bird",
+        "body_parts_classes": {
+            "Orelhas": "Reptile",
+            "Olhos": "Beast",
+            "Chifre": "Bird",
+            "Boca": "Bird",
+            "Costas": "Bird",
+            "Cauda": "Bird"
+        },
+        "cards": [
+            {
+                "Nome": "**Heart Break**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 30,
+                "Descricao": "Aplica Chill por 4 rodadas."
+            },
+            {
+                "Nome": "**Cockadoodledoo**",
+                "Tipo": "Ranged",
+                "Energia": 0,
+                "Ataque": 0,
+                "Escudo": 20,
+                "Descricao": "Aplica Attack+ a toda a equipe."
+            },
+            {
+                "Nome": "**Triple Threat**",
+                "Tipo": "Ranged",
+                "Energia": 0,
+                "Ataque": 40,
+                "Escudo": 10,
+                "Descricao": "Ataca duas vezes se este Axie tiver algum debuff."
+            },
+            {
+                "Nome": "**Peace Maker**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 25,
+                "Descricao": "Aplica Attack- ao alvo."
+            }
+        ],
+        "attributes": {
+            "HP": 30,
+            "Velocidade": 57,
+            "Habilidade": 35,
+            "Moral": 42
+        }
+    },
+    {
+        "id": "axie_Bird_2",
+        "class": "Bird",
+        "body_parts_classes": {
+            "Orelhas": "Bird",
+            "Olhos": "Bird",
+            "Chifre": "Bird",
+            "Boca": "Bird",
+            "Costas": "Bird",
+            "Cauda": "Bird"
+        },
+        "cards": [
+            {
+                "Nome": "**Patient Hunter**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 130,
+                "Escudo": 10,
+                "Descricao": "Alvo em Aquático ou inimigo se o HP deste Axie estiver abaixo de 50%."
+            },
+            {
+                "Nome": "**Balloon Pop**",
+                "Tipo": "Ranged",
+                "Energia": 0,
+                "Ataque": 40,
+                "Escudo": 0,
+                "Descricao": "Aplica Fear ao alvo por 1 turno. Se defendendo, aplica Fear a si mesmo até a próxima rodada."
+            },
+            {
+                "Nome": "**Triple Threat**",
+                "Tipo": "Ranged",
+                "Energia": 0,
+                "Ataque": 40,
+                "Escudo": 10,
+                "Descricao": "Ataca duas vezes se este Axie tiver algum debuff."
+            },
+            {
+                "Nome": "**Cockadoodledoo**",
+                "Tipo": "Ranged",
+                "Energia": 0,
+                "Ataque": 0,
+                "Escudo": 20,
+                "Descricao": "Aplica Attack+ a toda a equipe."
+            }
+        ],
+        "attributes": {
+            "HP": 27,
+            "Velocidade": 61,
+            "Habilidade": 35,
+            "Moral": 41
+        }
+    },
+    {
+        "id": "axie_Bird_3",
+        "class": "Bird",
+        "body_parts_classes": {
+            "Orelhas": "Bug",
+            "Olhos": "Plant",
+            "Chifre": "Bird",
+            "Boca": "Bird",
+            "Costas": "Bird",
+            "Cauda": "Bird"
+        },
+        "cards": [
+            {
+                "Nome": "**Smart Shot**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 40,
+                "Escudo": 20,
+                "Descricao": "Pula o alvo mais próximo se houver 2 ou mais inimigos restantes."
+            },
+            {
+                "Nome": "**Eggbomb**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 10,
+                "Descricao": "Aplica Aroma a este Axie até a próxima rodada."
+            },
+            {
+                "Nome": "**Doubletalk**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 60,
+                "Escudo": 0,
+                "Descricao": "Ignora escudo. Aplica Sleep ao alvo."
+            },
+            {
+                "Nome": "**Ill-omened**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 30,
+                "Descricao": "Aplica Jinx por 4 rodadas."
+            }
+        ],
+        "attributes": {
+            "HP": 31,
+            "Velocidade": 55,
+            "Habilidade": 35,
+            "Moral": 43
+        }
+    },
+    {
+        "id": "axie_Bird_4",
+        "class": "Bird",
+        "body_parts_classes": {
+            "Orelhas": "Beast",
+            "Olhos": "Bird",
+            "Chifre": "Bird",
+            "Boca": "Bird",
+            "Costas": "Bird",
+            "Cauda": "Bird"
+        },
+        "cards": [
+            {
+                "Nome": "**Headshot**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 135,
+                "Escudo": 0,
+                "Descricao": "Desabilita as cartas de chifre do alvo na próxima rodada."
+            },
+            {
+                "Nome": "**Peace Maker**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 25,
+                "Descricao": "Aplica Attack- ao alvo."
+            },
+            {
+                "Nome": "**Smart Shot**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 40,
+                "Escudo": 20,
+                "Descricao": "Pula o alvo mais próximo se houver 2 ou mais inimigos restantes."
+            },
+            {
+                "Nome": "**Triple Threat**",
+                "Tipo": "Ranged",
+                "Energia": 0,
+                "Ataque": 40,
+                "Escudo": 10,
+                "Descricao": "Ataca duas vezes se este Axie tiver algum debuff."
+            }
+        ],
+        "attributes": {
+            "HP": 27,
+            "Velocidade": 59,
+            "Habilidade": 35,
+            "Moral": 43
+        }
+    },
+    {
+        "id": "axie_Bird_5",
+        "class": "Bird",
+        "body_parts_classes": {
+            "Orelhas": "Bug",
+            "Olhos": "Plant",
+            "Chifre": "Bird",
+            "Boca": "Bird",
+            "Costas": "Bird",
+            "Cauda": "Bird"
+        },
+        "cards": [
+            {
+                "Nome": "**Cockadoodledoo**",
+                "Tipo": "Ranged",
+                "Energia": 0,
+                "Ataque": 0,
+                "Escudo": 20,
+                "Descricao": "Aplica Attack+ a toda a equipe."
+            },
+            {
+                "Nome": "**Ill-omened**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 30,
+                "Descricao": "Aplica Jinx por 4 rodadas."
+            },
+            {
+                "Nome": "**Headshot**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 135,
+                "Escudo": 0,
+                "Descricao": "Desabilita as cartas de chifre do alvo na próxima rodada."
+            },
+            {
+                "Nome": "**Feather Spear**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 30,
+                "Descricao": "Causa 100% de dano quando combinado com outra carta \"Lunge\"."
+            }
+        ],
+        "attributes": {
+            "HP": 31,
+            "Velocidade": 55,
+            "Habilidade": 35,
+            "Moral": 43
+        }
+    },
+    {
+        "id": "axie_Bird_6",
+        "class": "Bird",
+        "body_parts_classes": {
+            "Orelhas": "Aquático",
+            "Olhos": "Bug",
+            "Chifre": "Bird",
+            "Boca": "Bird",
+            "Costas": "Bird",
+            "Cauda": "Bird"
+        },
+        "cards": [
+            {
+                "Nome": "**Patient Hunter**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 130,
+                "Escudo": 10,
+                "Descricao": "Alvo em Aquático ou inimigo se o HP deste Axie estiver abaixo de 50%."
+            },
+            {
+                "Nome": "**Triple Threat**",
+                "Tipo": "Ranged",
+                "Energia": 0,
+                "Ataque": 40,
+                "Escudo": 10,
+                "Descricao": "Ataca duas vezes se este Axie tiver algum debuff."
+            },
+            {
+                "Nome": "**Peace Maker**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 25,
+                "Descricao": "Aplica Attack- ao alvo."
+            },
+            {
+                "Nome": "**Balloon Pop**",
+                "Tipo": "Ranged",
+                "Energia": 0,
+                "Ataque": 40,
+                "Escudo": 0,
+                "Descricao": "Aplica Fear ao alvo por 1 turno. Se defendendo, aplica Fear a si mesmo até a próxima rodada."
+            }
+        ],
+        "attributes": {
+            "HP": 29,
+            "Velocidade": 58,
+            "Habilidade": 35,
+            "Moral": 42
+        }
+    },
+    {
+        "id": "axie_Bird_7",
+        "class": "Bird",
+        "body_parts_classes": {
+            "Orelhas": "Bug",
+            "Olhos": "Plant",
+            "Chifre": "Bird",
+            "Boca": "Bird",
+            "Costas": "Bird",
+            "Cauda": "Bird"
+        },
+        "cards": [
+            {
+                "Nome": "**Eggbomb**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 10,
+                "Descricao": "Aplica Aroma a este Axie até a próxima rodada."
+            },
+            {
+                "Nome": "**Smart Shot**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 40,
+                "Escudo": 20,
+                "Descricao": "Pula o alvo mais próximo se houver 2 ou mais inimigos restantes."
+            },
+            {
+                "Nome": "**Blackmail**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 30,
+                "Descricao": "Transfere todos os debuffs deste Axie para o alvo."
+            },
+            {
+                "Nome": "**Doubletalk**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 60,
+                "Escudo": 0,
+                "Descricao": "Ignora escudo. Aplica Sleep ao alvo."
+            }
+        ],
+        "attributes": {
+            "HP": 31,
+            "Velocidade": 55,
+            "Habilidade": 35,
+            "Moral": 43
+        }
+    },
+    {
+        "id": "axie_Bird_8",
+        "class": "Bird",
+        "body_parts_classes": {
+            "Orelhas": "Aquático",
+            "Olhos": "Bug",
+            "Chifre": "Bird",
+            "Boca": "Bird",
+            "Costas": "Bird",
+            "Cauda": "Bird"
+        },
+        "cards": [
+            {
+                "Nome": "**Ill-omened**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 30,
+                "Descricao": "Aplica Jinx por 4 rodadas."
+            },
+            {
+                "Nome": "**Smart Shot**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 40,
+                "Escudo": 20,
+                "Descricao": "Pula o alvo mais próximo se houver 2 ou mais inimigos restantes."
+            },
+            {
+                "Nome": "**Headshot**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 135,
+                "Escudo": 0,
+                "Descricao": "Desabilita as cartas de chifre do alvo na próxima rodada."
+            },
+            {
+                "Nome": "**Balloon Pop**",
+                "Tipo": "Ranged",
+                "Energia": 0,
+                "Ataque": 40,
+                "Escudo": 0,
+                "Descricao": "Aplica Fear ao alvo por 1 turno. Se defendendo, aplica Fear a si mesmo até a próxima rodada."
+            }
+        ],
+        "attributes": {
+            "HP": 29,
+            "Velocidade": 58,
+            "Habilidade": 35,
+            "Moral": 42
+        }
+    },
+    {
+        "id": "axie_Bird_9",
+        "class": "Bird",
+        "body_parts_classes": {
+            "Orelhas": "Aquático",
+            "Olhos": "Aquático",
+            "Chifre": "Bird",
+            "Boca": "Bird",
+            "Costas": "Bird",
+            "Cauda": "Bird"
+        },
+        "cards": [
+            {
+                "Nome": "**Peace Maker**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 25,
+                "Descricao": "Aplica Attack- ao alvo."
+            },
+            {
+                "Nome": "**Balloon Pop**",
+                "Tipo": "Ranged",
+                "Energia": 0,
+                "Ataque": 40,
+                "Escudo": 0,
+                "Descricao": "Aplica Fear ao alvo por 1 turno. Se defendendo, aplica Fear a si mesmo até a próxima rodada."
+            },
+            {
+                "Nome": "**Eggbomb**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 10,
+                "Descricao": "Aplica Aroma a este Axie até a próxima rodada."
+            },
+            {
+                "Nome": "**Smart Shot**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 40,
+                "Escudo": 20,
+                "Descricao": "Pula o alvo mais próximo se houver 2 ou mais inimigos restantes."
+            }
+        ],
+        "attributes": {
+            "HP": 29,
+            "Velocidade": 61,
+            "Habilidade": 35,
+            "Moral": 39
+        }
+    },
+    {
+        "id": "axie_Bug_0",
+        "class": "Bug",
+        "body_parts_classes": {
+            "Orelhas": "Beast",
+            "Olhos": "Bird",
+            "Chifre": "Bug",
+            "Boca": "Bug",
+            "Costas": "Bug",
+            "Cauda": "Bug"
+        },
+        "cards": [
+            {
+                "Nome": "**Bug Signal**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 90,
+                "Escudo": 35,
+                "Descricao": "Rouba energia do seu oponente quando encadeado com outra carta \"Bug Signal\"."
+            },
+            {
+                "Nome": "**Laggin**",
+                "Tipo": "Melee",
+                "Energia": 0,
+                "Ataque": 40,
+                "Escudo": 0,
+                "Descricao": "Aplica Speed- ao alvo por 2 rodadas."
+            },
+            {
+                "Nome": "**Bug Splat**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 100,
+                "Escudo": 55,
+                "Descricao": "Causa 50% a mais de dano ao atacar alvos Bug."
+            },
+            {
+                "Nome": "**Scarab Curse**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 100,
+                "Escudo": 45,
+                "Descricao": "O alvo não pode curar por 2 rodadas. Este debuff não pode ser removido."
+            }
+        ],
+        "attributes": {
+            "HP": 39,
+            "Velocidade": 35,
+            "Habilidade": 35,
+            "Moral": 55
+        }
+    },
+    {
+        "id": "axie_Bug_1",
+        "class": "Bug",
+        "body_parts_classes": {
+            "Orelhas": "Beast",
+            "Olhos": "Bug",
+            "Chifre": "Bug",
+            "Boca": "Bug",
+            "Costas": "Bug",
+            "Cauda": "Bug"
+        },
+        "cards": [
+            {
+                "Nome": "**Grub Surprise**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 20,
+                "Descricao": "Aplica Fear a alvos com escudo."
+            },
+            {
+                "Nome": "**Bug Signal**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 90,
+                "Escudo": 35,
+                "Descricao": "Rouba energia do seu oponente quando encadeado com outra carta \"Bug Signal\"."
+            },
+            {
+                "Nome": "**Disguise**",
+                "Tipo": "Melee",
+                "Energia": 0,
+                "Ataque": 20,
+                "Escudo": 20,
+                "Descricao": "Ganha 1 de energia quando combinado com uma carta Plant."
+            },
+            {
+                "Nome": "**Sticky Goo**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 40,
+                "Escudo": 60,
+                "Descricao": "Atordoa o atacante se o escudo deste Axie quebrar. Só pode ser ativado uma vez por rodada."
+            }
+        ],
+        "attributes": {
+            "HP": 40,
+            "Velocidade": 32,
+            "Habilidade": 35,
+            "Moral": 57
+        }
+    },
+    {
+        "id": "axie_Bug_2",
+        "class": "Bug",
+        "body_parts_classes": {
+            "Orelhas": "Bird",
+            "Olhos": "Plant",
+            "Chifre": "Bug",
+            "Boca": "Bug",
+            "Costas": "Bug",
+            "Cauda": "Bug"
+        },
+        "cards": [
+            {
+                "Nome": "**Disguise**",
+                "Tipo": "Melee",
+                "Energia": 0,
+                "Ataque": 20,
+                "Escudo": 20,
+                "Descricao": "Ganha 1 de energia quando combinado com uma carta Plant."
+            },
+            {
+                "Nome": "**Third Glance**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 100,
+                "Escudo": 30,
+                "Descricao": "Descarta aleatoriamente 1 carta da mão do seu inimigo quando combinado com outra carta."
+            },
+            {
+                "Nome": "**Bug Splat**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 100,
+                "Escudo": 55,
+                "Descricao": "Causa 50% a mais de dano ao atacar alvos Bug."
+            },
+            {
+                "Nome": "**Sunder Claw**",
+                "Tipo": "Melee",
+                "Energia": 0,
+                "Ataque": 20,
+                "Escudo": 0,
+                "Descricao": "Descarta aleatoriamente 1 carta da mão do seu inimigo quando combinado com outra carta."
+            }
+        ],
+        "attributes": {
+            "HP": 42,
+            "Velocidade": 34,
+            "Habilidade": 35,
+            "Moral": 53
+        }
+    },
+    {
+        "id": "axie_Bug_3",
+        "class": "Bug",
+        "body_parts_classes": {
+            "Orelhas": "Bug",
+            "Olhos": "Reptile",
+            "Chifre": "Bug",
+            "Boca": "Bug",
+            "Costas": "Bug",
+            "Cauda": "Bug"
+        },
+        "cards": [
+            {
+                "Nome": "**Bug Noise**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 100,
+                "Escudo": 45,
+                "Descricao": "Aplica Attack- ao alvo."
+            },
+            {
+                "Nome": "**Sunder Claw**",
+                "Tipo": "Melee",
+                "Energia": 0,
+                "Ataque": 20,
+                "Escudo": 0,
+                "Descricao": "Descarta aleatoriamente 1 carta da mão do seu inimigo quando combinado com outra carta."
+            },
+            {
+                "Nome": "**Laggin**",
+                "Tipo": "Melee",
+                "Energia": 0,
+                "Ataque": 40,
+                "Escudo": 0,
+                "Descricao": "Aplica Speed- ao alvo por 2 rodadas."
+            },
+            {
+                "Nome": "**Buzzing Wind**",
+                "Tipo": "Ranged",
+                "Energia": 0,
+                "Ataque": 10,
+                "Escudo": 30,
+                "Descricao": "Aplica Fragile por 2 rodadas."
+            }
+        ],
+        "attributes": {
+            "HP": 43,
+            "Velocidade": 32,
+            "Habilidade": 35,
+            "Moral": 54
+        }
+    },
+    {
+        "id": "axie_Bug_4",
+        "class": "Bug",
+        "body_parts_classes": {
+            "Orelhas": "Bug",
+            "Olhos": "Reptile",
+            "Chifre": "Bug",
+            "Boca": "Bug",
+            "Costas": "Bug",
+            "Cauda": "Bug"
+        },
+        "cards": [
+            {
+                "Nome": "**Grub Surprise**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 20,
+                "Descricao": "Aplica Fear a alvos com escudo."
+            },
+            {
+                "Nome": "**Third Glance**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 100,
+                "Escudo": 30,
+                "Descricao": "Descarta aleatoriamente 1 carta da mão do seu inimigo quando combinado com outra carta."
+            },
+            {
+                "Nome": "**Buzzing Wind**",
+                "Tipo": "Ranged",
+                "Energia": 0,
+                "Ataque": 10,
+                "Escudo": 30,
+                "Descricao": "Aplica Fragile por 2 rodadas."
+            },
+            {
+                "Nome": "**Laggin**",
+                "Tipo": "Melee",
+                "Energia": 0,
+                "Ataque": 40,
+                "Escudo": 0,
+                "Descricao": "Aplica Speed- ao alvo por 2 rodadas."
+            }
+        ],
+        "attributes": {
+            "HP": 43,
+            "Velocidade": 32,
+            "Habilidade": 35,
+            "Moral": 54
+        }
+    },
+    {
+        "id": "axie_Bug_5",
+        "class": "Bug",
+        "body_parts_classes": {
+            "Orelhas": "Beast",
+            "Olhos": "Reptile",
+            "Chifre": "Bug",
+            "Boca": "Bug",
+            "Costas": "Bug",
+            "Cauda": "Bug"
+        },
+        "cards": [
+            {
+                "Nome": "**Sticky Goo**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 40,
+                "Escudo": 60,
+                "Descricao": "Atordoa o atacante se o escudo deste Axie quebrar. Só pode ser ativado uma vez por rodada."
+            },
+            {
+                "Nome": "**Bug Noise**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 100,
+                "Escudo": 45,
+                "Descricao": "Aplica Attack- ao alvo."
+            },
+            {
+                "Nome": "**Disguise**",
+                "Tipo": "Melee",
+                "Energia": 0,
+                "Ataque": 20,
+                "Escudo": 20,
+                "Descricao": "Ganha 1 de energia quando combinado com uma carta Plant."
+            },
+            {
+                "Nome": "**Bug Splat**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 100,
+                "Escudo": 55,
+                "Descricao": "Causa 50% a mais de dano ao atacar alvos Bug."
+            }
+        ],
+        "attributes": {
+            "HP": 42,
+            "Velocidade": 33,
+            "Habilidade": 35,
+            "Moral": 54
+        }
+    },
+    {
+        "id": "axie_Bug_6",
+        "class": "Bug",
+        "body_parts_classes": {
+            "Orelhas": "Bird",
+            "Olhos": "Aquático",
+            "Chifre": "Bug",
+            "Boca": "Bug",
+            "Costas": "Bug",
+            "Cauda": "Bug"
+        },
+        "cards": [
+            {
+                "Nome": "**Grub Surprise**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 20,
+                "Descricao": "Aplica Fear a alvos com escudo."
+            },
+            {
+                "Nome": "**Sticky Goo**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 40,
+                "Escudo": 60,
+                "Descricao": "Atordoa o atacante se o escudo deste Axie quebrar. Só pode ser ativado uma vez por rodada."
+            },
+            {
+                "Nome": "**Third Glance**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 100,
+                "Escudo": 30,
+                "Descricao": "Descarta aleatoriamente 1 carta da mão do seu inimigo quando combinado com outra carta."
+            },
+            {
+                "Nome": "**Bug Signal**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 90,
+                "Escudo": 35,
+                "Descricao": "Rouba energia do seu oponente quando encadeado com outra carta \"Bug Signal\"."
+            }
+        ],
+        "attributes": {
+            "HP": 40,
+            "Velocidade": 37,
+            "Habilidade": 35,
+            "Moral": 52
+        }
+    },
+    {
+        "id": "axie_Bug_7",
+        "class": "Bug",
+        "body_parts_classes": {
+            "Orelhas": "Bird",
+            "Olhos": "Bug",
+            "Chifre": "Bug",
+            "Boca": "Bug",
+            "Costas": "Bug",
+            "Cauda": "Bug"
+        },
+        "cards": [
+            {
+                "Nome": "**Bug Signal**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 90,
+                "Escudo": 35,
+                "Descricao": "Rouba energia do seu oponente quando encadeado com outra carta \"Bug Signal\"."
+            },
+            {
+                "Nome": "**Third Glance**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 100,
+                "Escudo": 30,
+                "Descricao": "Descarta aleatoriamente 1 carta da mão do seu inimigo quando combinado com outra carta."
+            },
+            {
+                "Nome": "**Dull Grip**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 20,
+                "Descricao": "Causa 30% a mais de dano a alvos com escudo."
+            },
+            {
+                "Nome": "**Grub Surprise**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 20,
+                "Descricao": "Aplica Fear a alvos com escudo."
+            }
+        ],
+        "attributes": {
+            "HP": 40,
+            "Velocidade": 34,
+            "Habilidade": 35,
+            "Moral": 55
+        }
+    },
+    {
+        "id": "axie_Bug_8",
+        "class": "Bug",
+        "body_parts_classes": {
+            "Orelhas": "Bird",
+            "Olhos": "Beast",
+            "Chifre": "Bug",
+            "Boca": "Bug",
+            "Costas": "Bug",
+            "Cauda": "Bug"
+        },
+        "cards": [
+            {
+                "Nome": "**Bug Signal**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 90,
+                "Escudo": 35,
+                "Descricao": "Rouba energia do seu oponente quando encadeado com outra carta \"Bug Signal\"."
+            },
+            {
+                "Nome": "**Sunder Claw**",
+                "Tipo": "Melee",
+                "Energia": 0,
+                "Ataque": 20,
+                "Escudo": 0,
+                "Descricao": "Descarta aleatoriamente 1 carta da mão do seu inimigo quando combinado com outra carta."
+            },
+            {
+                "Nome": "**Dull Grip**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 20,
+                "Descricao": "Causa 30% a mais de dano a alvos com escudo."
+            },
+            {
+                "Nome": "**Disguise**",
+                "Tipo": "Melee",
+                "Energia": 0,
+                "Ataque": 20,
+                "Escudo": 20,
+                "Descricao": "Ganha 1 de energia quando combinado com uma carta Plant."
+            }
+        ],
+        "attributes": {
+            "HP": 39,
+            "Velocidade": 35,
+            "Habilidade": 35,
+            "Moral": 55
+        }
+    },
+    {
+        "id": "axie_Bug_9",
+        "class": "Bug",
+        "body_parts_classes": {
+            "Orelhas": "Bug",
+            "Olhos": "Aquático",
+            "Chifre": "Bug",
+            "Boca": "Bug",
+            "Costas": "Bug",
+            "Cauda": "Bug"
+        },
+        "cards": [
+            {
+                "Nome": "**Bug Signal**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 90,
+                "Escudo": 35,
+                "Descricao": "Rouba energia do seu oponente quando encadeado com outra carta \"Bug Signal\"."
+            },
+            {
+                "Nome": "**Grub Surprise**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 20,
+                "Descricao": "Aplica Fear a alvos com escudo."
+            },
+            {
+                "Nome": "**Scarab Curse**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 100,
+                "Escudo": 45,
+                "Descricao": "O alvo não pode curar por 2 rodadas. Este debuff não pode ser removido."
+            },
+            {
+                "Nome": "**Blood Taste**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 80,
+                "Escudo": 40,
+                "Descricao": "Cura este Axie pelo dano infligido com esta carta."
+            }
+        ],
+        "attributes": {
+            "HP": 41,
+            "Velocidade": 34,
+            "Habilidade": 35,
+            "Moral": 54
+        }
+    },
+    {
+        "id": "axie_Plant_0",
+        "class": "Plant",
+        "body_parts_classes": {
+            "Orelhas": "Bird",
+            "Olhos": "Beast",
+            "Chifre": "Plant",
+            "Boca": "Plant",
+            "Costas": "Plant",
+            "Cauda": "Plant"
+        },
+        "cards": [
+            {
+                "Nome": "**Refresh**",
+                "Tipo": "Support",
+                "Energia": 0,
+                "Ataque": 0,
+                "Escudo": 30,
+                "Descricao": "Remove todos os debuffs do Axie da linha de frente."
+            },
+            {
+                "Nome": "**Healing Aroma**",
+                "Tipo": "Support",
+                "Energia": 0,
+                "Ataque": 0,
+                "Escudo": 50,
+                "Descricao": "Cura este Axie em 120 HP."
+            },
+            {
+                "Nome": "**Vegetal Bite**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 30,
+                "Escudo": 30,
+                "Descricao": "Rouba 1 de energia do seu oponente quando combinado com outra carta."
+            },
+            {
+                "Nome": "**October Treat**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 0,
+                "Escudo": 130,
+                "Descricao": "Compre uma carta se o escudo deste Axie não quebrar nesta rodada."
+            }
+        ],
+        "attributes": {
+            "HP": 55,
+            "Velocidade": 35,
+            "Habilidade": 31,
+            "Moral": 43
+        }
+    },
+    {
+        "id": "axie_Plant_1",
+        "class": "Plant",
+        "body_parts_classes": {
+            "Orelhas": "Reptile",
+            "Olhos": "Aquático",
+            "Chifre": "Plant",
+            "Boca": "Plant",
+            "Costas": "Plant",
+            "Cauda": "Plant"
+        },
+        "cards": [
+            {
+                "Nome": "**Shroom's Grace**",
+                "Tipo": "Support",
+                "Energia": 0,
+                "Ataque": 0,
+                "Escudo": 50,
+                "Descricao": "Cura este Axie em 120 HP."
+            },
+            {
+                "Nome": "**Seed Bullet**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 30,
+                "Escudo": 50,
+                "Descricao": "Alvo o inimigo mais rápido."
+            },
+            {
+                "Nome": "**Drain Bite**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 60,
+                "Escudo": 60,
+                "Descricao": "Cura este Axie pelo dano que esta carta inflige."
+            },
+            {
+                "Nome": "**Refresh**",
+                "Tipo": "Support",
+                "Energia": 0,
+                "Ataque": 0,
+                "Escudo": 30,
+                "Descricao": "Remove todos os debuffs do Axie da linha de frente."
+            }
+        ],
+        "attributes": {
+            "HP": 59,
+            "Velocidade": 35,
+            "Habilidade": 31,
+            "Moral": 39
+        }
+    },
+    {
+        "id": "axie_Plant_2",
+        "class": "Plant",
+        "body_parts_classes": {
+            "Orelhas": "Bird",
+            "Olhos": "Bird",
+            "Chifre": "Plant",
+            "Boca": "Plant",
+            "Costas": "Plant",
+            "Cauda": "Plant"
+        },
+        "cards": [
+            {
+                "Nome": "**Shroom's Grace**",
+                "Tipo": "Support",
+                "Energia": 0,
+                "Ataque": 0,
+                "Escudo": 50,
+                "Descricao": "Cura este Axie em 120 HP."
+            },
+            {
+                "Nome": "**Aqua Stock**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 40,
+                "Escudo": 90,
+                "Descricao": "Ganha 1 de energia se este Axie for atingido por uma carta Aquática."
+            },
+            {
+                "Nome": "**Turnip Rocket**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 60,
+                "Escudo": 80,
+                "Descricao": "Alvo um Bird se combinado com 2 ou mais cartas."
+            },
+            {
+                "Nome": "**Prickly Trap**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 110,
+                "Escudo": 20,
+                "Descricao": "Causa 120% de dano se este Axie atacar por último."
+            }
+        ],
+        "attributes": {
+            "HP": 55,
+            "Velocidade": 37,
+            "Habilidade": 31,
+            "Moral": 41
+        }
+    },
+    {
+        "id": "axie_Plant_3",
+        "class": "Plant",
+        "body_parts_classes": {
+            "Orelhas": "Aquático",
+            "Olhos": "Plant",
+            "Chifre": "Plant",
+            "Boca": "Plant",
+            "Costas": "Plant",
+            "Cauda": "Plant"
+        },
+        "cards": [
+            {
+                "Nome": "**Shroom's Grace**",
+                "Tipo": "Support",
+                "Energia": 0,
+                "Ataque": 0,
+                "Escudo": 50,
+                "Descricao": "Cura este Axie em 120 HP."
+            },
+            {
+                "Nome": "**Vegetal Bite**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 30,
+                "Escudo": 30,
+                "Descricao": "Rouba 1 de energia do seu oponente quando combinado com outra carta."
+            },
+            {
+                "Nome": "**Cleanse Scent**",
+                "Tipo": "Support",
+                "Energia": 0,
+                "Ataque": 0,
+                "Escudo": 30,
+                "Descricao": "Remove todos os debuffs de si mesmo. Pode ativar enquanto atordoado ou com medo."
+            },
+            {
+                "Nome": "**Prickly Trap**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 110,
+                "Escudo": 20,
+                "Descricao": "Causa 120% de dano se este Axie atacar por último."
+            }
+        ],
+        "attributes": {
+            "HP": 59,
+            "Velocidade": 34,
+            "Habilidade": 31,
+            "Moral": 40
+        }
+    },
+    {
+        "id": "axie_Plant_4",
+        "class": "Plant",
+        "body_parts_classes": {
+            "Orelhas": "Plant",
+            "Olhos": "Plant",
+            "Chifre": "Plant",
+            "Boca": "Plant",
+            "Costas": "Plant",
+            "Cauda": "Plant"
+        },
+        "cards": [
+            {
+                "Nome": "**Vegetal Bite**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 30,
+                "Escudo": 30,
+                "Descricao": "Rouba 1 de energia do seu oponente quando combinado com outra carta."
+            },
+            {
+                "Nome": "**Bamboo Clan**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 90,
+                "Escudo": 50,
+                "Descricao": "Aumenta 20% de dano quando jogado em uma corrente."
+            },
+            {
+                "Nome": "**Cleanse Scent**",
+                "Tipo": "Support",
+                "Energia": 0,
+                "Ataque": 0,
+                "Escudo": 30,
+                "Descricao": "Remove todos os debuffs de si mesmo. Pode ativar enquanto atordoado ou com medo."
+            },
+            {
+                "Nome": "**Healing Aroma**",
+                "Tipo": "Support",
+                "Energia": 0,
+                "Ataque": 0,
+                "Escudo": 50,
+                "Descricao": "Cura este Axie em 120 HP."
+            }
+        ],
+        "attributes": {
+            "HP": 61,
+            "Velocidade": 31,
+            "Habilidade": 31,
+            "Moral": 41
+        }
+    },
+    {
+        "id": "axie_Plant_5",
+        "class": "Plant",
+        "body_parts_classes": {
+            "Orelhas": "Reptile",
+            "Olhos": "Bird",
+            "Chifre": "Plant",
+            "Boca": "Plant",
+            "Costas": "Plant",
+            "Cauda": "Plant"
+        },
+        "cards": [
+            {
+                "Nome": "**Drain Bite**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 60,
+                "Escudo": 60,
+                "Descricao": "Cura este Axie pelo dano que esta carta inflige."
+            },
+            {
+                "Nome": "**Bamboo Clan**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 90,
+                "Escudo": 50,
+                "Descricao": "Aumenta 20% de dano quando jogado em uma corrente."
+            },
+            {
+                "Nome": "**October Treat**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 0,
+                "Escudo": 130,
+                "Descricao": "Compre uma carta se o escudo deste Axie não quebrar nesta rodada."
+            },
+            {
+                "Nome": "**Prickly Trap**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 110,
+                "Escudo": 20,
+                "Descricao": "Causa 120% de dano se este Axie atacar por último."
+            }
+        ],
+        "attributes": {
+            "HP": 58,
+            "Velocidade": 35,
+            "Habilidade": 31,
+            "Moral": 40
+        }
+    },
+    {
+        "id": "axie_Plant_6",
+        "class": "Plant",
+        "body_parts_classes": {
+            "Orelhas": "Bug",
+            "Olhos": "Reptile",
+            "Chifre": "Plant",
+            "Boca": "Plant",
+            "Costas": "Plant",
+            "Cauda": "Plant"
+        },
+        "cards": [
+            {
+                "Nome": "**October Treat**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 0,
+                "Escudo": 130,
+                "Descricao": "Compre uma carta se o escudo deste Axie não quebrar nesta rodada."
+            },
+            {
+                "Nome": "**Healing Aroma**",
+                "Tipo": "Support",
+                "Energia": 0,
+                "Ataque": 0,
+                "Escudo": 50,
+                "Descricao": "Cura este Axie em 120 HP."
+            },
+            {
+                "Nome": "**Turnip Rocket**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 60,
+                "Escudo": 80,
+                "Descricao": "Alvo um Bird se combinado com 2 ou mais cartas."
+            },
+            {
+                "Nome": "**Cleanse Scent**",
+                "Tipo": "Support",
+                "Energia": 0,
+                "Ataque": 0,
+                "Escudo": 30,
+                "Descricao": "Remove todos os debuffs de si mesmo. Pode ativar enquanto atordoado ou com medo."
+            }
+        ],
+        "attributes": {
+            "HP": 59,
+            "Velocidade": 32,
+            "Habilidade": 31,
+            "Moral": 42
+        }
+    },
+    {
+        "id": "axie_Plant_7",
+        "class": "Plant",
+        "body_parts_classes": {
+            "Orelhas": "Bug",
+            "Olhos": "Plant",
+            "Chifre": "Plant",
+            "Boca": "Plant",
+            "Costas": "Plant",
+            "Cauda": "Plant"
+        },
+        "cards": [
+            {
+                "Nome": "**Wooden Stab**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 105,
+                "Escudo": 40,
+                "Descricao": "Causa 120% de dano se o escudo deste Axie quebrar."
+            },
+            {
+                "Nome": "**Refresh**",
+                "Tipo": "Support",
+                "Energia": 0,
+                "Ataque": 0,
+                "Escudo": 30,
+                "Descricao": "Remove todos os debuffs do Axie da linha de frente."
+            },
+            {
+                "Nome": "**October Treat**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 0,
+                "Escudo": 130,
+                "Descricao": "Compre uma carta se o escudo deste Axie não quebrar nesta rodada."
+            },
+            {
+                "Nome": "**Healing Aroma**",
+                "Tipo": "Support",
+                "Energia": 0,
+                "Ataque": 0,
+                "Escudo": 50,
+                "Descricao": "Cura este Axie em 120 HP."
+            }
+        ],
+        "attributes": {
+            "HP": 59,
+            "Velocidade": 31,
+            "Habilidade": 31,
+            "Moral": 43
+        }
+    },
+    {
+        "id": "axie_Plant_8",
+        "class": "Plant",
+        "body_parts_classes": {
+            "Orelhas": "Bug",
+            "Olhos": "Reptile",
+            "Chifre": "Plant",
+            "Boca": "Plant",
+            "Costas": "Plant",
+            "Cauda": "Plant"
+        },
+        "cards": [
+            {
+                "Nome": "**Seed Bullet**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 30,
+                "Escudo": 50,
+                "Descricao": "Alvo o inimigo mais rápido."
+            },
+            {
+                "Nome": "**Aqua Stock**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 40,
+                "Escudo": 90,
+                "Descricao": "Ganha 1 de energia se este Axie for atingido por uma carta Aquática."
+            },
+            {
+                "Nome": "**October Treat**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 0,
+                "Escudo": 130,
+                "Descricao": "Compre uma carta se o escudo deste Axie não quebrar nesta rodada."
+            },
+            {
+                "Nome": "**Drain Bite**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 60,
+                "Escudo": 60,
+                "Descricao": "Cura este Axie pelo dano que esta carta inflige."
+            }
+        ],
+        "attributes": {
+            "HP": 59,
+            "Velocidade": 32,
+            "Habilidade": 31,
+            "Moral": 42
+        }
+    },
+    {
+        "id": "axie_Plant_9",
+        "class": "Plant",
+        "body_parts_classes": {
+            "Orelhas": "Reptile",
+            "Olhos": "Beast",
+            "Chifre": "Plant",
+            "Boca": "Plant",
+            "Costas": "Plant",
+            "Cauda": "Plant"
+        },
+        "cards": [
+            {
+                "Nome": "**Shroom's Grace**",
+                "Tipo": "Support",
+                "Energia": 0,
+                "Ataque": 0,
+                "Escudo": 50,
+                "Descricao": "Cura este Axie em 120 HP."
+            },
+            {
+                "Nome": "**October Treat**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 0,
+                "Escudo": 130,
+                "Descricao": "Compre uma carta se o escudo deste Axie não quebrar nesta rodada."
+            },
+            {
+                "Nome": "**Bamboo Clan**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 90,
+                "Escudo": 50,
+                "Descricao": "Aumenta 20% de dano quando jogado em uma corrente."
+            },
+            {
+                "Nome": "**Healing Aroma**",
+                "Tipo": "Support",
+                "Energia": 0,
+                "Ataque": 0,
+                "Escudo": 50,
+                "Descricao": "Cura este Axie em 120 HP."
+            }
+        ],
+        "attributes": {
+            "HP": 58,
+            "Velocidade": 33,
+            "Habilidade": 31,
+            "Moral": 42
+        }
+    },
+    {
+        "id": "axie_Reptile_0",
+        "class": "Reptile",
+        "body_parts_classes": {
+            "Orelhas": "Bird",
+            "Olhos": "Aquático",
+            "Chifre": "Reptile",
+            "Boca": "Reptile",
+            "Costas": "Reptile",
+            "Cauda": "Reptile"
+        },
+        "cards": [
+            {
+                "Nome": "**Vine Dagger**",
+                "Tipo": "Ranged",
+                "Energia": 0,
+                "Ataque": 25,
+                "Escudo": 30,
+                "Descricao": "Dobra o escudo desta carta quando combinado com uma carta Plant."
+            },
+            {
+                "Nome": "**Spike Throw**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 80,
+                "Escudo": 50,
+                "Descricao": "Alvo inimigo com o menor escudo quando combinado com 2 ou mais cartas."
+            },
+            {
+                "Nome": "**Tiny Catapult**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 90,
+                "Escudo": 40,
+                "Descricao": "Reflete 40% do dano à distância de volta ao atacante."
+            },
+            {
+                "Nome": "**Sneaky Raid**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 20,
+                "Escudo": 30,
+                "Descricao": "Alvo o inimigo mais distante."
+            }
+        ],
+        "attributes": {
+            "HP": 52,
+            "Velocidade": 45,
+            "Habilidade": 31,
+            "Moral": 36
+        }
+    },
+    {
+        "id": "axie_Reptile_1",
+        "class": "Reptile",
+        "body_parts_classes": {
+            "Orelhas": "Reptile",
+            "Olhos": "Plant",
+            "Chifre": "Reptile",
+            "Boca": "Reptile",
+            "Costas": "Reptile",
+            "Cauda": "Reptile"
+        },
+        "cards": [
+            {
+                "Nome": "**Surprise Invasion**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 100,
+                "Escudo": 40,
+                "Descricao": "Causa 130% de dano se o alvo for mais rápido que este Axie."
+            },
+            {
+                "Nome": "**Disarm**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 105,
+                "Escudo": 40,
+                "Descricao": "Aplica Speed- ao alvo por 2 rodadas."
+            },
+            {
+                "Nome": "**Scaly Lunge**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 30,
+                "Descricao": "Causa 120% de dano quando encadeado com outra carta \"Lunge\"."
+            },
+            {
+                "Nome": "**Overgrow Keratin**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 90,
+                "Escudo": 30,
+                "Descricao": "Recupera 20 de escudo por turno."
+            }
+        ],
+        "attributes": {
+            "HP": 57,
+            "Velocidade": 40,
+            "Habilidade": 31,
+            "Moral": 36
+        }
+    },
+    {
+        "id": "axie_Reptile_2",
+        "class": "Reptile",
+        "body_parts_classes": {
+            "Orelhas": "Reptile",
+            "Olhos": "Bug",
+            "Chifre": "Reptile",
+            "Boca": "Reptile",
+            "Costas": "Reptile",
+            "Cauda": "Reptile"
+        },
+        "cards": [
+            {
+                "Nome": "**Disarm**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 105,
+                "Escudo": 40,
+                "Descricao": "Aplica Speed- ao alvo por 2 rodadas."
+            },
+            {
+                "Nome": "**Overgrow Keratin**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 90,
+                "Escudo": 30,
+                "Descricao": "Recupera 20 de escudo por turno."
+            },
+            {
+                "Nome": "**Bulwark**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 20,
+                "Escudo": 80,
+                "Descricao": "Reflete 40% do dano corpo a corpo de volta ao atacante."
+            },
+            {
+                "Nome": "**Slippery Shield**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 10,
+                "Escudo": 145,
+                "Descricao": "Adiciona 15% do escudo deste Axie a companheiros de equipe adjacentes."
+            }
+        ],
+        "attributes": {
+            "HP": 55,
+            "Velocidade": 40,
+            "Habilidade": 31,
+            "Moral": 38
+        }
+    },
+    {
+        "id": "axie_Reptile_3",
+        "class": "Reptile",
+        "body_parts_classes": {
+            "Orelhas": "Plant",
+            "Olhos": "Plant",
+            "Chifre": "Reptile",
+            "Boca": "Reptile",
+            "Costas": "Reptile",
+            "Cauda": "Reptile"
+        },
+        "cards": [
+            {
+                "Nome": "**Slippery Shield**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 10,
+                "Escudo": 145,
+                "Descricao": "Adiciona 15% do escudo deste Axie a companheiros de equipe adjacentes."
+            },
+            {
+                "Nome": "**Nile Strike**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 85,
+                "Escudo": 60,
+                "Descricao": "Aplica Speed- ao alvo por 2 rodadas."
+            },
+            {
+                "Nome": "**Ivory Chop**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 70,
+                "Escudo": 70,
+                "Descricao": "Compre uma carta se o escudo deste Axie quebrar."
+            },
+            {
+                "Nome": "**Overgrow Keratin**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 90,
+                "Escudo": 30,
+                "Descricao": "Recupera 20 de escudo por turno."
+            }
+        ],
+        "attributes": {
+            "HP": 57,
+            "Velocidade": 39,
+            "Habilidade": 31,
+            "Moral": 37
+        }
+    },
+    {
+        "id": "axie_Reptile_4",
+        "class": "Reptile",
+        "body_parts_classes": {
+            "Orelhas": "Bug",
+            "Olhos": "Plant",
+            "Chifre": "Reptile",
+            "Boca": "Reptile",
+            "Costas": "Reptile",
+            "Cauda": "Reptile"
+        },
+        "cards": [
+            {
+                "Nome": "**Overgrow Keratin**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 90,
+                "Escudo": 30,
+                "Descricao": "Recupera 20 de escudo por turno."
+            },
+            {
+                "Nome": "**Tiny Catapult**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 90,
+                "Escudo": 40,
+                "Descricao": "Reflete 40% do dano à distância de volta ao atacante."
+            },
+            {
+                "Nome": "**Surprise Invasion**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 100,
+                "Escudo": 40,
+                "Descricao": "Causa 130% de dano se o alvo for mais rápido que este Axie."
+            },
+            {
+                "Nome": "**Scaly Lunge**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 30,
+                "Descricao": "Causa 120% de dano quando encadeado com outra carta \"Lunge\"."
+            }
+        ],
+        "attributes": {
+            "HP": 55,
+            "Velocidade": 39,
+            "Habilidade": 31,
+            "Moral": 39
+        }
+    },
+    {
+        "id": "axie_Reptile_5",
+        "class": "Reptile",
+        "body_parts_classes": {
+            "Orelhas": "Plant",
+            "Olhos": "Plant",
+            "Chifre": "Reptile",
+            "Boca": "Reptile",
+            "Costas": "Reptile",
+            "Cauda": "Reptile"
+        },
+        "cards": [
+            {
+                "Nome": "**Spike Throw**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 80,
+                "Escudo": 50,
+                "Descricao": "Alvo inimigo com o menor escudo quando combinado com 2 ou mais cartas."
+            },
+            {
+                "Nome": "**Vine Dagger**",
+                "Tipo": "Ranged",
+                "Energia": 0,
+                "Ataque": 25,
+                "Escudo": 30,
+                "Descricao": "Dobra o escudo desta carta quando combinado com uma carta Plant."
+            },
+            {
+                "Nome": "**Bulwark**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 20,
+                "Escudo": 80,
+                "Descricao": "Reflete 40% do dano corpo a corpo de volta ao atacante."
+            },
+            {
+                "Nome": "**Tiny Catapult**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 90,
+                "Escudo": 40,
+                "Descricao": "Reflete 40% do dano à distância de volta ao atacante."
+            }
+        ],
+        "attributes": {
+            "HP": 57,
+            "Velocidade": 39,
+            "Habilidade": 31,
+            "Moral": 37
+        }
+    },
+    {
+        "id": "axie_Reptile_6",
+        "class": "Reptile",
+        "body_parts_classes": {
+            "Orelhas": "Bird",
+            "Olhos": "Aquático",
+            "Chifre": "Reptile",
+            "Boca": "Reptile",
+            "Costas": "Reptile",
+            "Cauda": "Reptile"
+        },
+        "cards": [
+            {
+                "Nome": "**Kotaro Bite**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 85,
+                "Escudo": 30,
+                "Descricao": "Ganha 1 de energia se o alvo for mais rápido que este Axie."
+            },
+            {
+                "Nome": "**Scaly Lunge**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 30,
+                "Descricao": "Causa 120% de dano quando encadeado com outra carta \"Lunge\"."
+            },
+            {
+                "Nome": "**Sneaky Raid**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 20,
+                "Escudo": 30,
+                "Descricao": "Alvo o inimigo mais distante."
+            },
+            {
+                "Nome": "**Vine Dagger**",
+                "Tipo": "Ranged",
+                "Energia": 0,
+                "Ataque": 25,
+                "Escudo": 30,
+                "Descricao": "Dobra o escudo desta carta quando combinado com uma carta Plant."
+            }
+        ],
+        "attributes": {
+            "HP": 52,
+            "Velocidade": 45,
+            "Habilidade": 31,
+            "Moral": 36
+        }
+    },
+    {
+        "id": "axie_Reptile_7",
+        "class": "Reptile",
+        "body_parts_classes": {
+            "Orelhas": "Aquático",
+            "Olhos": "Aquático",
+            "Chifre": "Reptile",
+            "Boca": "Reptile",
+            "Costas": "Reptile",
+            "Cauda": "Reptile"
+        },
+        "cards": [
+            {
+                "Nome": "**Disarm**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 105,
+                "Escudo": 40,
+                "Descricao": "Aplica Speed- ao alvo por 2 rodadas."
+            },
+            {
+                "Nome": "**Kotaro Bite**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 85,
+                "Escudo": 30,
+                "Descricao": "Ganha 1 de energia se o alvo for mais rápido que este Axie."
+            },
+            {
+                "Nome": "**Nile Strike**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 85,
+                "Escudo": 60,
+                "Descricao": "Aplica Speed- ao alvo por 2 rodadas."
+            },
+            {
+                "Nome": "**Overgrow Keratin**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 90,
+                "Escudo": 30,
+                "Descricao": "Recupera 20 de escudo por turno."
+            }
+        ],
+        "attributes": {
+            "HP": 53,
+            "Velocidade": 45,
+            "Habilidade": 31,
+            "Moral": 35
+        }
+    },
+    {
+        "id": "axie_Reptile_8",
+        "class": "Reptile",
+        "body_parts_classes": {
+            "Orelhas": "Bird",
+            "Olhos": "Plant",
+            "Chifre": "Reptile",
+            "Boca": "Reptile",
+            "Costas": "Reptile",
+            "Cauda": "Reptile"
+        },
+        "cards": [
+            {
+                "Nome": "**Poo Fling**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 70,
+                "Escudo": 60,
+                "Descricao": "Aplica Stench por 3 rodadas."
+            },
+            {
+                "Nome": "**Ivory Chop**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 70,
+                "Escudo": 70,
+                "Descricao": "Compre uma carta se o escudo deste Axie quebrar."
+            },
+            {
+                "Nome": "**Vine Dagger**",
+                "Tipo": "Ranged",
+                "Energia": 0,
+                "Ataque": 25,
+                "Escudo": 30,
+                "Descricao": "Dobra o escudo desta carta quando combinado com uma carta Plant."
+            },
+            {
+                "Nome": "**Scaly Lunge**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 120,
+                "Escudo": 30,
+                "Descricao": "Causa 120% de dano quando encadeado com outra carta \"Lunge\"."
+            }
+        ],
+        "attributes": {
+            "HP": 54,
+            "Velocidade": 42,
+            "Habilidade": 31,
+            "Moral": 37
+        }
+    },
+    {
+        "id": "axie_Reptile_9",
+        "class": "Reptile",
+        "body_parts_classes": {
+            "Orelhas": "Bird",
+            "Olhos": "Aquático",
+            "Chifre": "Reptile",
+            "Boca": "Reptile",
+            "Costas": "Reptile",
+            "Cauda": "Reptile"
+        },
+        "cards": [
+            {
+                "Nome": "**Bulwark**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 20,
+                "Escudo": 80,
+                "Descricao": "Reflete 40% do dano corpo a corpo de volta ao atacante."
+            },
+            {
+                "Nome": "**Ivory Chop**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 70,
+                "Escudo": 70,
+                "Descricao": "Compre uma carta se o escudo deste Axie quebrar."
+            },
+            {
+                "Nome": "**Spike Throw**",
+                "Tipo": "Ranged",
+                "Energia": 1,
+                "Ataque": 80,
+                "Escudo": 50,
+                "Descricao": "Alvo inimigo com o menor escudo quando combinado com 2 ou mais cartas."
+            },
+            {
+                "Nome": "**Overgrow Keratin**",
+                "Tipo": "Melee",
+                "Energia": 1,
+                "Ataque": 90,
+                "Escudo": 30,
+                "Descricao": "Recupera 20 de escudo por turno."
+            }
+        ],
+        "attributes": {
+            "HP": 52,
+            "Velocidade": 45,
+            "Habilidade": 31,
+            "Moral": 36
+        }
+    }
+]

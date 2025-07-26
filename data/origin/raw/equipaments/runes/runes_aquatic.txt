@@ -1,0 +1,43 @@
+## Runes Aquatic
+
+### Rune Types:
+- **Healing Rune:** Increases healing effects by 20%.
+- **Defense Rune:** Grants +15 Shield to the user.
+- **Attack Rune:** Increases attack power by 10%.
+
+### Usage:
+- Runes can be equipped to enhance Axie abilities.
+
+### Rune Rare:
+
+#### Blunt Teeth:
+Attacks grant 1 Energy Fragment  per Energy Spent. If this Axie doesn't have Weak, apply 2 Weak to self.
+
+#### Giant Bubble:
+Before the battle starts, add 1 Giant Bubble to your Deck. On death, grant 50% of this Axie's Bubble Bomb stacks to other allied Axies.
+
+#### Way of Aquatic:
+When the battle starts, gain 1  Bubble. Attacks deal +15% DMG.
+
+### Rune Epic:
+
+#### Calcium Armor:
+Solo. When your turn starts, gain Shield equal to 10% of Max HP.
+
+#### Giant Bubble:
+Solo. Before the battle starts, add 1 Giant Bubble to your Deck. On death, grant 50% of this Axie's Bubble Bomb stacks to other allied Axies.
+
+#### Way of Aquatic:
+Solo. On targets with HP â¥ 50%, Attacks deal +25% DMG; otherwise deal +15% DMG.
+
+#### Puffer's Plight:
+Solo. Whenever the Enemy draws a Cursed Card, they receive 1 Bad Luck. When each turn ends, if your Enemy has Bad Luck, all enemies take 13 Pure DMG.
+
+#### Bloodlust:
+Solo. Single Attacks Steal 21 HP per Energy Spent. Multihit & AoE Attacks Steal 7 HP per hit.
+
+#### Bombshell Maker:
+Solo. When your turn starts, all allied axies gain 2 Bombshell. When any allied Axie dies, grant 50% of its Bombshell stacks to allied Axies.
+
+#### Heart of Ocean:
+Solo. When your turn starts, +1 Bubble. This Axie's Bubble Bomb deal (1.5% of the target's Max HP) as Pure DMG.

@@ -1,0 +1,44 @@
+## Runes Dusk
+
+### Rune Types:
+- **Shadow Rune:** Increases damage dealt by 10%.
+- **Night Rune:** Grants +10 Shield to the user.
+
+### Usage:
+- Runes can be equipped to enhance Axie abilities.
+
+### Rune Rare:
+
+#### Cursed Ritual:
+When your turn ends, per Cursed Card in the Enemy Deck, heal 2 HP and the closest enemy Axie loses 6 HP. (Cap: 5 Cursed Cards)
+
+#### Dark Flame:
+Before the battle starts, +1 Purge to your Deck. This Axie's Cards gain +10% Value.
+
+#### Malediction:
+On targets with Debuffs, Attacks deal +15% DMG. From attackers with Debuffs, take -15% DMG.
+
+### Rune Epic:
+
+#### Malediction:
+On targets with Debuffs, Attacks deal +15% DMG. From attackers with Debuffs, take -15% DMG.
+
+#### Moonlight Thief:
+Solo. When your turn starts, if you have less Fragment or Burst Level than the Enemy, Steal 1 Fragment. When your turn ends, Heal (10 + 4x your Fragments) as HP.
+
+#### Plague Bearer:
+Solo. When your turn ends, gain 6 counts of 1 random debuff. When attacked, take -3% DMG per debuff counter on this Axie (Cap: -30% DMG) and create a Plague Wave.
+
+#### Wicked Ward:
+Solo. Whenever an ally plays a Card that applies Curse, allied Axies gain 12 Shield.
+
+### Rune Mystic:
+
+#### Fading Eclipse:
+Solo. Enemies deal -30% DMG. When each Round ends, until Round 3, this effect is reduced by 5%.
+
+#### Gloomy Dice:
+Solo. When your turn starts, on Odd Round, randomly apply 1 to 6 Fear to Enemy Axies. Confused deal 1x to 6x DMG to enemies.
+
+#### Soul Eater:
+Solo. Whenever this Axie targets an enemy Axie, Dispel enemy Axies 1 time and they lose (6% of their Current HP).

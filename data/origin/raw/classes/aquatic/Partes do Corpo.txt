@@ -1,0 +1,44 @@
+Cauda:
+Shrimp
+Ranchu
+Tadpole
+Navaga
+Koi
+Nimo
+
+Boca:
+Lam
+Catfish
+Risky Fish
+Piranha
+Orelha:
+
+Chifre:
+Babylonia
+Teal Shell
+Clamshell
+Anemone
+Oranda
+Shoal Star
+
+Costa:
+Perch
+Anemone
+Sponge
+Goldfish
+Blue Moon
+Hermit
+
+Olho:
+Sleepess
+Clear
+Gero
+Telescope
+
+Orelha:
+Nimo
+Tiny Fan
+Gill
+Seaslug
+Inkling
+Bubblemaker

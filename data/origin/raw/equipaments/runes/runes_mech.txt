@@ -1,0 +1,44 @@
+## Runes Mech
+
+### Rune Types:
+- **Tech Rune:** Increases attack power by 15%.
+- **Shield Rune:** Grants +20 Shield to the user.
+
+### Usage:
+- Runes can be equipped to enhance Axie abilities.
+
+### Rune Rare:
+
+#### Steelskin:
+Take -10 DMG from Attacks.
+
+#### Trap Nullifier:
+Before the battle starts, +1 Scan to your Deck. This Axie's Cards gain +10% Value.
+
+#### Zap Armor:
+Reflect 15% DMG taken to Attackers. While Shielded, take -15% DMG from Attacks.
+
+### Rune Epic:
+
+#### Adaptive Program:
+Solo. Receive +10% Shield from Cards. For every 75 Shield cumulatively received from Cards, gain 1 Fragment.
+
+#### Lens of Truth:
+Solo. Attacks remove up to 1 Secret from their targets. On targets without Secrets, deal +20% DMG.
+
+#### Solid Bulwark:
+Solo. Before the battle starts, +2 Bulwark. When your turn ends, 20% of DMG from this Axie's Attacks this turn is granted as Shield to allies. (Cap: 50 Shield).
+
+#### Zap Armor:
+Reflect 15% DMG taken to Attackers. While Shielded, take -15% DMG from Attacks.
+
+### Rune Mystic:
+
+#### Last Stand:
+Solo. Once per battle, if this Axie would die, gain Immortal for 2 turns, Cleanse all Debuffs, lose any Taunt, & +20% Value while Immortal.
+
+#### Rocket Barrage:
+Solo. Every 3 hits from Allied Axies, fire a Rocket at the lowest HP Enemy Axie. Every 3 Rockets fired, fire a Big Rocket at the enemy team.
+
+#### Shield Backup:
+Solo. Gain 20% Shield from all sources. Take -15% DMG from Attacks, bonus -10% while Shielded. Retain 50% of leftover Shield.

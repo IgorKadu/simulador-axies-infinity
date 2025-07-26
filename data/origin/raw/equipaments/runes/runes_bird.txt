@@ -1,0 +1,40 @@
+## Runes Bird
+
+### Rune Rare
+
+#### Frail Egg
+When your turn starts, randomly deal 10 DMG and apply 3 Weak to an enemy Axie without Weak.
+
+#### Gates of Unity
+Attacks deal +5 DMG per Summon. Bonus +7 DMG on Single Attacks. This Axie's Summons gain +8 HP.
+
+#### Way of Bird
+When the battle starts, +1 Feather to allied Axies. Attacks deal +15% DMG.
+
+### Rune Epic
+
+#### Energy Guru
+Solo. When your turn starts, gain 1 Fragment. Attacks deal 7 DMG per Energy Spent to enemy Axies.
+
+#### Raven's Tactic
+Solo. When your turn starts, +1 Feather to allied Axies. When gaining Plume from other effects, +1 Plume. Attacks deal +20% DMG.
+
+#### Sacred Feather
+Solo. Once per battle, if this Axie would die, it survives with 1 HP, then Heals 5% of Max HP per Feather. Deal 20 DMG to enemies.
+
+#### Sharp Talon
+Solo. When your turn starts, consume all Feather to heal allies for 2 HP per Feather. Deal +25% DMG. +15% DMG per hit this Axie deals until end of turn. (Cap: 2 hits)
+
+### Rune Mystic
+
+#### Feather Descend
+Solo. When your turn starts, +2 Feather. Once per turn, at 10 stacks, consume 4 Feather Dagger to hand. Feather Daggers deal 2 hits.
+
+#### Flock Might
+Solo. When your turn starts, on Odd Round, randomly Summon 1 Little Robin (15 ATK) or 1 Mavis(40 ATK). Summons deal 25% DMG per allied Summon and gain +10 HP.
+
+#### Raven's Tactic
+Solo. When your turn starts, +1 Feather to allied Axies. When gaining Plume from other effects, +1 Plume. Attacks deal +20% DMG.
+
+#### Sharp Talon
+Solo. When your turn starts, consume all Feather to heal allies for 2 HP per Feather. Deal +25% DMG. +15% DMG per hit this Axie deals until end of turn. (Cap: 2 hits)
