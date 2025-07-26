@@ -1,6 +1,20 @@
+
+
 {
+ 
     "Cartas da Classe Aquática (Origin)": {
         "Table_1": [
+
+            {
+                    "classes": {},
+                    "parts": {},
+                    "cards": {},
+                    "runes": {},
+                    "charms": {},
+                    "status_effects": {},
+                    "instructions": {}
+            },
+
             {
                 "Nome da Carta": "**Little Crab**",
                 "Tipo": "Attack",
